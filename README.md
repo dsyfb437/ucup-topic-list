@@ -6,13 +6,13 @@
 
 大陆、港澳台站均保留 VP；Ranoa 等无法确认地域的站点也保守排除。没有使用题目名字猜算法，没有编造难度或 CF 分数。
 
-[可筛选浏览版](index.html) · [完整 CSV](ucup-topics.csv) · [JSON](data/problems.json) · [来源说明](sources.md) · [排除清单](excluded-stages.md)
+[在线筛选题单](https://dsyfb437.github.io/ucup-topic-list/) · [完整 CSV](ucup-topics.csv) · [JSON](data/problems.json) · [来源说明](sources.md) · [排除清单](excluded-stages.md)
 
 题面和原始题解版权归各自作者；本仓库提供分类、方法摘要、原文链接和整理脚本。详见 [整理说明](NOTICE.md)。
 
 ## 文件
 
-- `index.html`：本地离线筛选，方法摘要默认折叠，可勾选已练。
+- `index.html`：GitHub Pages 在线浏览，也支持下载后离线筛选，方法摘要默认折叠，可勾选已练。
 - `UCup专题算法题单.md`：全部专题总表。
 - `topics/`：十八个主专题独立题单。
 - `ucup-topics.csv`、`data/problems.json`：可导入或二次筛选的数据。
@@ -36,4 +36,4 @@ python3 -m venv .venv
 .venv/bin/python scripts/build.py
 ```
 
-浏览版通过 `file://` 打开即可使用，无需服务。勾选记录保存在当前浏览器的 localStorage；换浏览器不会自动同步，可用页面的导出/导入保存。
+浏览版可通过 [GitHub Pages](https://dsyfb437.github.io/ucup-topic-list/) 直接访问，也可下载后通过 `file://` 离线打开。Pages 从 `main` 分支根目录自动发布，后续推送会自动更新。勾选记录保存在当前浏览器的 localStorage；换浏览器不会自动同步，可用页面的导出/导入保存。

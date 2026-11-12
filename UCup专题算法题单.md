@@ -6,7 +6,7 @@
 
 大陆、港澳台站均保留 VP；Ranoa 等无法确认地域的站点也保守排除。没有使用题目名字猜算法，没有编造难度或 CF 分数。
 
-[可筛选浏览版](index.html) · [完整 CSV](ucup-topics.csv) · [JSON](data/problems.json) · [来源说明](sources.md) · [排除清单](excluded-stages.md)
+[在线筛选题单](https://dsyfb437.github.io/ucup-topic-list/) · [完整 CSV](ucup-topics.csv) · [JSON](data/problems.json) · [来源说明](sources.md) · [排除清单](excluded-stages.md)
 
 ## 专题索引
 

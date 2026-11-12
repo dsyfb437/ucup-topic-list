@@ -143,6 +143,8 @@ def main():
         for p in records:w.writerow({k:';'.join(p[k]) if isinstance(p.get(k),list) else p.get(k,'') for k in cols})
     intro=f'# UCup 海外站专题算法题单\n\n截至 {DATE}，登记 {len(over)} 个海外站、{len(records)} 题；已依据题解分类 **{len(classified)} 题**，其余 **{len(gaps)} 题**见[缺失清单](coverage.md)。分类由题解归纳，不是官方标签。\n\n大陆、港澳台站均保留 VP；Ranoa 等无法确认地域的站点也保守排除。没有使用题目名字猜算法，没有编造难度或 CF 分数。\n\n[可筛选浏览版](index.html) · [完整 CSV](ucup-topics.csv) · [JSON](data/problems.json) · [来源说明](sources.md) · [排除清单](excluded-stages.md)\n\n'
     intro=intro.replace('\n\n截至', '\n\n**由 GPT-6.1 Sol 整理的 UCup 海外赛站专题算法题单。**\n\n截至',1)
+    if PUBLIC:
+        intro=intro.replace('[可筛选浏览版](index.html)', '[在线筛选题单](https://dsyfb437.github.io/ucup-topic-list/)')
     doc=intro+'## 专题索引\n\n| 专题 | 题数（允许交叉） |\n|---|---:|\n'
     for key,name in TOPICS.items():doc+=f'| [{name}](topics/{key}.md) | {counts[key]} |\n'
     doc+='\n## 细分算法索引\n\n细分标签从已核对的核心方法提取；不是从原题解全文批量打词频标签。没有出现细分标签不代表题目不涉及该方法。\n\n'
@@ -191,6 +193,8 @@ def main():
     readme=readme.replace('当前没有把本项目接入训练工作台，也没有修改现有训练计划。','下载的原始题面、题解及其全文提取缓存不随 Git 提交；运行更新脚本后会重新生成。默认生成适合公开仓库的原站链接，使用 `scripts/build.py --local` 可生成本地材料链接。')
     readme=readme.replace('## 文件','题面和原始题解版权归各自作者；本仓库提供分类、方法摘要、原文链接和整理脚本。详见 [整理说明](NOTICE.md)。\n\n## 文件',1)
     readme=readme.replace('`sources/`：原始材料与提取文本，仅供本地个人训练。','`sources/`：本地下载缓存，已加入 `.gitignore`，公开仓库不包含。')
+    readme=readme.replace('`index.html`：本地离线筛选', '`index.html`：GitHub Pages 在线浏览，也支持下载后离线筛选')
+    readme=readme.replace('浏览版通过 `file://` 打开即可使用，无需服务。', '浏览版可通过 [GitHub Pages](https://dsyfb437.github.io/ucup-topic-list/) 直接访问，也可下载后通过 `file://` 离线打开。Pages 从 `main` 分支根目录自动发布，后续推送会自动更新。')
     (ROOT/'README.md').write_text(readme)
     print(json.dumps(stats,ensure_ascii=False,indent=2))
 
