@@ -1,0 +1,77 @@
+# 数论
+
+71 题。主副专题都纳入本页，同题可在多个专题出现。分类是题解归纳，排序不代表难度。
+
+| 题目 | 赛站 | 专题 | 题解依据 |
+|---|---|---|---|
+| [s1-7-A · Square Sum](https://contest.ucup.ac/contest/1129/problem/5738) | S1 Zaporizhzhia | 数论 | 素数幂分类计数，CRT 合并；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-7.pdf)（文件 p.1） |
+| [s1-12-L · Many Products](https://contest.ucup.ac/contest/1207/problem/6328) | S1 Ōokayama | 数论、多项式与线性代数 | 按素因子独立计数，卷积计算系数；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-12.pdf)（文件 p.7） |
+| [s1-13-H · Exact Subsequences](https://contest.ucup.ac/contest/1212/problem/6351) | S1 Iberia | 数论、搜索与二分、组合计数 | 欧几里得递推，容斥统计互素数并二分第 k 个；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-13.pdf)（文件 p.2） |
+| [s1-16-A · Classical A+B Problem](https://contest.ucup.ac/contest/1223/problem/6407) | S1 Gomel | 搜索与二分、数论 | 枚举同位数和少一位的重复数字加数；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-16.pdf)（文件 p.1） |
+| [s2-2-C · Many Many Cycles](https://contest.ucup.ac/contest/1356/problem/7177) | S2 SPb | 图论、数论 | 生成树上基本环及两环交集长度求 gcd；[原文](https://assets.ucup.ac/tutorials/tutorials-2-2.zip)（文件 p.6） |
+| [s2-5-D · Two Missing Numbers](https://contest.ucup.ac/contest/1388/problem/6549) | S2 Northern | 数论、位运算与状态压缩、多项式与线性代数 | 在 nimber 域计算和与立方和，恢复缺失两数；[原文](https://contest.ucup.ac/download.php?type=attachments&id=1388&r=3)（文件 p.7） |
+| [s2-6-A · Digital Nim](https://contest.ucup.ac/contest/1398/problem/7606) | S2 Warsaw | 博弈论、动态规划、数论 | 最近必败态递推，按十进制块加速；[原文](https://assets.ucup.ac/tutorials/tutorials-2-6.pdf)（文件 p.1） |
+| [s2-6-H · Inverse Problem](https://contest.ucup.ac/contest/1398/problem/7613) | S2 Warsaw | 搜索与二分、数论 | 枚举整数拆分，折半搜索模乘积；[原文](https://assets.ucup.ac/tutorials/tutorials-2-6.pdf)（文件 p.4） |
+| [s2-7-H · Forbidden Set](https://contest.ucup.ac/contest/1399/problem/7639) | S2 Two Capitals | 数论、搜索与二分 | 按缺失数字分类，枚举最小合法素数；[原文](https://assets.ucup.ac/tutorials/tutorials-2-7.pdf)（文件 p.7） |
+| [s2-19-E · Freshman's Dream](https://contest.ucup.ac/contest/1487/problem/8132) | S2 Estonia | 构造、数论、位运算与状态压缩 | 按 n 奇偶分类，选二的幂利用无进位加法；[原文](https://assets.ucup.ac/tutorials/tutorials-2-19.pdf)（文件 p.8） |
+| [s2-20-A · Numerous Elimination](https://contest.ucup.ac/contest/1499/problem/8165) | S2 Ōokayama | 动态规划、数论 | 淘汰场次递推，利用整除结构化简到对数复杂度；[原文](https://assets.ucup.ac/tutorials/tutorials-2-20.pdf)（文件 p.1） |
+| [s2-20-C · Yet Another Simple Math Problem](https://contest.ucup.ac/contest/1499/problem/8167) | S2 Ōokayama | 数论、搜索与二分 | 整数平方根划分可行数对区域，闭式计数；[原文](https://assets.ucup.ac/tutorials/tutorials-2-20.pdf)（文件 p.2） |
+| [s2-20-E · R-Connected Components](https://contest.ucup.ac/contest/1499/problem/8169) | S2 Ōokayama | 数论 | 高斯整数格与平方和定理，按模四素因子分类；[原文](https://assets.ucup.ac/tutorials/tutorials-2-20.pdf)（文件 p.5） |
+| [s2-20-M · Sum is Integer](https://contest.ucup.ac/contest/1499/problem/8177) | S2 Ōokayama | 数论、概率期望与随机化 | 有理数小数部分模哈希与整数部分分离；[原文](https://assets.ucup.ac/tutorials/tutorials-2-20.pdf)（文件 p.16） |
+| [s2-21-J · Jumbled Primes](https://contest.ucup.ac/contest/1511/problem/8216) | S2 Delft | 交互与信息编码、数论 | gcd 查询识别素数及素数幂，优化询问次数；[原文](https://assets.ucup.ac/tutorials/tutorials-2-21.pdf)（文件 p.8） |
+| [s2-26-D · DiviDuelo](https://contest.ucup.ac/contest/1576/problem/8508) | S2 Latin America | 博弈论、数论 | 按素因子数量与指数分类，约数配对构造必胜策略；[原文](https://scorelatam.naquadah.com.br/pda24/editorial.pdf)（文件 p.5） |
+| [s2-26-F · Fair Distribution](https://contest.ucup.ac/contest/1576/problem/8510) | S2 Latin America | 数论、动态规划 | 住宅层高 gcd 给出可调差，模意义子集划分 DP；[原文](https://scorelatam.naquadah.com.br/pda24/editorial.pdf)（文件 p.7） |
+| [s2-26-G · Greek Casino](https://contest.ucup.ac/contest/1576/problem/8511) | S2 Latin America | 概率期望与随机化、动态规划、数论 | gcd 随机游走的期望递推，约数筛统计转移概率；[原文](https://scorelatam.naquadah.com.br/pda24/editorial.pdf)（文件 p.8） |
+| [s3-1-B · Schoolgirls](https://contest.ucup.ac/contest/1696/problem/8782) | S3 St. Petersburg | 计算几何、数论 | 正多边形旋转嵌入有限域，用原根判定；[原文](https://assets.ucup.ac/tutorials/tutorials-3-01-en.pdf)（文件 p.7） |
+| [s3-1-F · The Whole World](https://contest.ucup.ac/contest/1696/problem/8786) | S3 St. Petersburg | 多项式与线性代数、数论、搜索与二分 | 整数值多项式转二项式基，素数幂模线性方程组；[原文](https://assets.ucup.ac/tutorials/tutorials-3-01-en.pdf)（文件 p.85） |
+| [s3-4-F · Flip or Not](https://contest.ucup.ac/contest/1738/problem/9118) | S3 Hongo | 多项式与线性代数、数论、位运算与状态压缩 | GF(2) 多项式同余方程与循环位移；[原文](https://assets.ucup.ac/tutorials/tutorials-3-04-ja.pdf)（文件 p.32） |
+| [s3-4-J · Japanese Gift Money](https://contest.ucup.ac/contest/1738/problem/9122) | S3 Hongo | 数论、动态规划、贪心 | 贪心货币表示，数位 DP 统计全部偶数张的补集；[原文](https://assets.ucup.ac/tutorials/tutorials-3-04-ja.pdf)（文件 p.64） |
+| [s3-5-J · Prefix Divisible by Suffix](https://contest.ucup.ac/contest/1741/problem/9139) | S3 Moscow | 数论、组合计数、搜索与二分 | 枚举短后缀，容斥与扩展欧几里得计数；[原文](https://qoj.ac/blog/jiangly/blogs/941) |
+| [s3-6-A · Coprime Array](https://contest.ucup.ac/contest/1762/problem/9167) | S3 Osijek | 数论、构造、概率期望与随机化 | 素数幂分析与 CRT，或随机寻找短互素构造；[原文](https://qoj.ac/blog/jiangly/blogs/948) |
+| [s3-7-F · Fibonacci Fusion](https://contest.ucup.ac/contest/1774/problem/9225) | S3 Warsaw | 数论、概率期望与随机化、数值计算 | 对数估计 Fibonacci 下标，大素数哈希判和；[原文](https://qoj.ac/blog/jiangly/blogs/958) |
+| [s3-7-I · ICPC Inference](https://contest.ucup.ac/contest/1774/problem/9228) | S3 Warsaw | 数论、组合计数 | 罚时按模二十分组，分段统计合法排名三元组；[原文](https://qoj.ac/blog/jiangly/blogs/958) |
+| [s3-13-D · And DNA](https://contest.ucup.ac/contest/1812/problem/9479) | S3 Sendai | 数论、多项式与线性代数 | 按 M 奇偶递归减半，边界用矩阵快速幂；[原文](https://assets.ucup.ac/tutorials/tutorials-3-13-ja.pdf)（文件 p.25） |
+| [s3-13-J · (mod N² + 1)](https://contest.ucup.ac/contest/1812/problem/9485) | S3 Sendai | 数论、构造 | 原根将模乘积转模加法，分类构造网格；[原文](https://assets.ucup.ac/tutorials/tutorials-3-13-ja.pdf)（文件 p.47） |
+| [s3-18-B · NonZero PrefSuf Sums](https://contest.ucup.ac/contest/1849/problem/9782) | S3 Southeastern Europe | 贪心、数论、构造 | 按正负总和及 gcd 分类，避开零前后缀；[原文](https://assets.ucup.ac/tutorials/tutorials-3-18-en.pdf)（文件 p.2） |
+| [s3-21-F · Origami Warp](https://contest.ucup.ac/contest/1872/problem/9880) | S3 Ōokayama | 计算几何、数论 | 折叠等价为平移反射，方向归约与截距 gcd 判可达；[原文](https://atcoder.jp/contests/ttpc2024_1/editorial/11224) |
+| [s3-24-D · Diminishing Fractions](https://contest.ucup.ac/contest/1890/problem/9962) | S3 Poland | 数论、构造 | lcm 分解为素数幂，用模逆构造最小正分数；[原文](https://assets.ucup.ac/tutorials/tutorials-3-24-pl.pdf)（文件 p.111） |
+| [s3-24-F · Frogs](https://contest.ucup.ac/contest/1890/problem/9964) | S3 Poland | 数论、模拟与基础实现 | 分析方向传播与环上位移平衡，前缀和计算最终方向；[原文](https://assets.ucup.ac/tutorials/tutorials-3-24-pl.pdf)（文件 p.162） |
+| [s3-30-F · Interactive Primality](https://contest.ucup.ac/contest/1917/problem/10092) | S3 Northern | 交互与信息编码、数论、概率期望与随机化 | 随机加数筛小素数余数，再 CRT 恢复隐藏数；[原文](https://assets.ucup.ac/tutorials/tutorials-3-30-en.pdf)（文件 p.3） |
+| [s3-31-B · Bad Digits](https://contest.ucup.ac/contest/1924/problem/10115) | S3 Wroclaw | 数论、构造 | 按允许数字数转进制，再映射合法数码；[原文](https://assets.ucup.ac/tutorials/tutorials-3-31-en.pdf)（文件 p.19） |
+| [s3-31-D · Divisors](https://contest.ucup.ac/contest/1924/problem/10117) | S3 Wroclaw | 数论、搜索与二分 | 只需检查 N 除以二到九的候选，比较数位多重集；[原文](https://assets.ucup.ac/tutorials/tutorials-3-31-en.pdf)（文件 p.15） |
+| [s3-33-J · Max Mod](https://contest.ucup.ac/contest/1954/problem/10274) | S3 India | 数论 | 模逆平移区间，按商整除分段求最大余数；[原文](https://assets.ucup.ac/tutorials/tutorials-3-33-en.pdf)（文件 p.11） |
+| [s3-34-L · Square Connection](https://contest.ucup.ac/contest/1965/problem/10332) | S3 Aobayama | 数论、构造 | 平方差分类，三步通用构造并检查一二步解；[原文](https://assets.ucup.ac/tutorials/tutorials-3-34-ja.pdf)（文件 p.18） |
+| [s3-35-E · Gambling](https://contest.ucup.ac/contest/1993/problem/10705) | S3 Kraków | 概率期望与随机化、数论 | 守恒总和与倍增递推，按奇数部分判断终止状态；[原文](https://assets.ucup.ac/tutorials/tutorials-3-35-en.pdf)（文件 p.3） |
+| [s3-35-I · Random Remainders](https://contest.ucup.ac/contest/1993/problem/10709) | S3 Kraków | 数论、概率期望与随机化、数据结构 | 排序后按整除商分段，前缀幂和计算余数平方；[原文](https://assets.ucup.ac/tutorials/tutorials-3-35-en.pdf)（文件 p.7） |
+| [s3-39-D · Digits of Prefix Product](https://contest.ucup.ac/contest/2071/problem/10973) | S3 Tokyo | 构造、数论 | 反复乘十的幂减一，利用数位互补避免相邻相等；[原文](https://qoj.ac/blog/jiangly/blogs/1261) |
+| [s3-40-B · Collatz Sum](https://contest.ucup.ac/contest/2135/problem/12151) | S3 Potyczki | 数论、动态规划 | Collatz 变换按奇偶拆成等差数列，递归求和；[原文](https://assets.ucup.ac/tutorials/tutorials-3-40-pl.pdf)（文件 p.251） |
+| [s4-0-A · A Totient Quotient](https://contest.ucup.ac/contest/2041/problem/11356) | S4 America | 数论、构造 | 从大素因子向小处理 Euler 函数指数；[原文](https://assets.ucup.ac/tutorials/tutorials-4-00-en.pdf)（文件 p.2） |
+| [s4-0-M · This Is Sparta!](https://contest.ucup.ac/contest/2041/problem/11368) | S4 America | 数论、模拟与基础实现 | 先模拟缩小有效长度，再批量计算三元组差分过程；[原文](https://assets.ucup.ac/tutorials/tutorials-4-00-en.pdf)（文件 p.53） |
+| [s4-1-A · Grid Problem](https://contest.ucup.ac/contest/2539/problem/14426) | S4 Korolyov | 组合计数、多项式与线性代数、数论 | 三次单位根筛，按根取值次数合并多元生成函数；[原文](https://assets.ucup.ac/tutorials/tutorials-4-01-en.pdf)（文件 p.1） |
+| [s4-2-D · Digit Division](https://contest.ucup.ac/contest/2551/problem/14133) | S4 Paris | 数论、构造、动态规划 | 移去二五因子，选择倍数数位和做背包或搜索；[原文](https://assets.ucup.ac/tutorials/tutorials-4-02-en.pdf)（文件 p.1） |
+| [s4-3-K · Game on Board](https://contest.ucup.ac/contest/2559/problem/14425) | S4 Polar | 博弈论、数论 | 差值闭包由 gcd 决定，按总操作数模三判断；[原文](https://assets.ucup.ac/tutorials/tutorials-4-03-en.pdf)（文件 p.6） |
+| [s4-8-A · AIMPPZ](https://contest.ucup.ac/contest/2668/problem/15444) | S4 Poland | 数论、构造 | 尽量提取因子五，保证 AI 对数不超过串长；[原文](https://assets.ucup.ac/tutorials/tutorials-4-08-pl.pdf)（文件 p.4） |
+| [s4-10-K · Key Properties](https://contest.ucup.ac/contest/2814/problem/16010) | S4 Wrocław | 构造、图论、数论 | 拼接小三正则图，或双环加互素步长匹配；[原文](https://assets.ucup.ac/tutorials/tutorials-4-10-en.pdf)（文件 p.24） |
+| [s4-13-D · Grid Path Tree](https://contest.ucup.ac/contest/2921/problem/16229) | S4 Ōokayama | 组合计数、数论 | 网格路径树双射，按交替段长度推导闭式计数；[原文](https://assets.ucup.ac/tutorials/tutorials-4-13-en.pdf)（文件 p.5） |
+| [s4-16-C · Copy-paste](https://contest.ucup.ac/contest/3347/problem/17152) | S4 Warsaw | 数论、动态规划 | 逆向删除或除法，只枚举小质因子并记忆化最少操作；[原文](https://assets.ucup.ac/tutorials/tutorials-4-16-en.pdf)（文件 p.5） |
+| [s4-17-H · Sweet Remainders!](https://contest.ucup.ac/contest/3384/problem/17168) | S4 St. Petersburg | 树上算法、构造、数论 | 先满足度数余数与度数和，再用 Prüfer 序列建树；[原文](https://assets.ucup.ac/tutorials/tutorials-4-17-en.pdf)（文件 p.7） |
+| [s4-17-J · Euler Line](https://contest.ucup.ac/contest/3384/problem/17170) | S4 St. Petersburg | 计算几何、数论 | Euler 线向量关系，整数参数化满足指定直线的三角形；[原文](https://assets.ucup.ac/tutorials/tutorials-4-17-en.pdf)（文件 p.8） |
+| [s4-18-D · Divisible by 11](https://contest.ucup.ac/contest/3420/problem/17249) | S4 Hongō | 多项式与线性代数、组合计数、数论 | 十一整除的奇偶位差计数，微分方程与几何点插值；[原文](https://atcoder.jp/contests/utpc2025/editorial/16122) |
+| [s4-18-L · Linear Floor](https://contest.ucup.ac/contest/3420/problem/17257) | S4 Hongō | 数论、搜索与二分 | 线性取整递归归约，floor sum 计数后选第 k 条直线；[原文](https://atcoder.jp/contests/utpc2025/editorial/15885) |
+| [s4-19-A · Art of Multiplication](https://contest.ucup.ac/contest/3426/problem/17260) | S4 Belarus | 数论、模拟与基础实现 | 重复数字积写成等比数列，压缩长串零九并处理进位；[原文](https://assets.ucup.ac/tutorials/tutorials-4-19-en.pdf)（文件 p.1） |
+| [s4-19-E · Encountering a Friend](https://contest.ucup.ac/contest/3426/problem/17264) | S4 Belarus | 数论、模拟与基础实现 | 朋友对局间隔规律，计算首次相遇与之后隔场次数；[原文](https://assets.ucup.ac/tutorials/tutorials-4-19-en.pdf)（文件 p.3） |
+| [s4-20-I · Point Mirror](https://contest.ucup.ac/contest/3516/problem/17414) | S4 India | 数论、构造 | 差分 gcd 与模 2g 多重集不变量刻画镜像可达性；[原文](https://assets.ucup.ac/tutorials/tutorials-4-20-en.pdf)（文件 p.14） |
+| [s4-21-K · Talk Event](https://contest.ucup.ac/contest/3542/problem/17429) | S4 Kamigō | 组合计数、数论 | 带权整数拆分，容斥去上界后用二项式求和；[原文](https://atcoder.jp/contests/pakencamp-2025-day3/editorial/17343) |
+| [s4-22-F · 1e16 Cities](https://contest.ucup.ac/contest/3575/problem/17718) | S4 Kyoto | 数论、图论 | gcd 化简，枚举 B 的约数和互素因子生成边；[原文](https://assets.ucup.ac/tutorials/tutorials-4-22-en.pdf)（文件 p.6） |
+| [s4-22-J · Sum of max of iai](https://contest.ucup.ac/contest/3575/problem/17722) | S4 Kyoto | 组合计数、数论 | 最大得分尾和计数，整除分段更新排列方案乘积；[原文](https://assets.ucup.ac/tutorials/tutorials-4-22-en.pdf)（文件 p.8） |
+| [s4-22-K · Square Resistance Value](https://contest.ucup.ac/contest/3575/problem/17723) | S4 Kyoto | 数论、构造、数值计算 | 平方根连分数逼近，用串并联电阻实现分数；[原文](https://assets.ucup.ac/tutorials/tutorials-4-22-en.pdf)（文件 p.9） |
+| [s4-25-I · Intricate Instrument](https://contest.ucup.ac/contest/3773/problem/18409) | S4 Zagreb | 数论 | gcd 恢复模参数，线性不等式限制旋转阈值；[原文](https://assets.ucup.ac/tutorials/tutorials-4-25-en.pdf)（文件 p.34） |
+| [s5-1-B · Beggar Robin](https://contest.ucup.ac/contest/4126/problem/20249) | S5 Nizhny Novgorod | 数论、组合计数 | 同余二的幂刻画收益，按数位层统计贡献；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4126&r=1)（文件 p.3） |
+| [s5-1-D · Digesting](https://contest.ucup.ac/contest/4126/problem/20251) | S5 Nizhny Novgorod | 数论、贪心 | 模运算使最大值严格下降，分析能否逐层降到一；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4126&r=1)（文件 p.8） |
+| [s5-1-J · Jaded Juice](https://contest.ucup.ac/contest/4126/problem/20257) | S5 Nizhny Novgorod | 贪心、数论 | 不确定区间宽度转确定性增量，排序并枚举重复最大增益次数；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4126&r=1)（文件 p.19） |
+| [s5-1-K · Kitchen Knives](https://contest.ucup.ac/contest/4126/problem/20258) | S5 Nizhny Novgorod | 组合计数、数论 | 子集配对证明超过半数的乘积只能来自特殊数组；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4126&r=1)（文件 p.21） |
+| [s5-1-N · Native Niuean](https://contest.ucup.ac/contest/4126/problem/20261) | S5 Nizhny Novgorod | 数论、组合计数 | 连分数数组与互素对双射，回文扣除、Mobius 容斥及 Min25 求 totient 前缀；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4126&r=1)（文件 p.27） |
+| [s5-3-E · Equal Totients](https://contest.ucup.ac/contest/4565/problem/20733) | S5 Gorkovskaya | 数论、构造 | 用互素于六的 k 构造等 totient 数对，短区间枚举；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4565&r=1)（文件 p.4） |
+| [s5-3-L · Leaf Meeting](https://contest.ucup.ac/contest/4565/problem/20740) | S5 Gorkovskaya | 树上算法、数论 | 叶间游走长度构成加法半群，特殊点深度 gcd 判同步；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4565&r=1)（文件 p.12） |
+| [s5-6-E · K-Independent Matrix](https://contest.ucup.ac/contest/4617/problem/23673) | S5 Hyakumanben | 数论、构造、多项式与线性代数 | gcd 矩阵构造，用 totient 分解证明子式独立；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4617&r=1)（文件 p.9） |
+| [s5-6-J · Hugest Number](https://contest.ucup.ac/contest/4617/problem/23678) | S5 Hyakumanben | 数论、字符串、多项式与线性代数 | Euclid 型块递归构造最大数，矩阵快速幂处理巨大重复次数；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4617&r=1)（文件 p.15） |

@@ -1,0 +1,86 @@
+# 位运算与状态压缩
+
+80 题。主副专题都纳入本页，同题可在多个专题出现。分类是题解归纳，排序不代表难度。
+
+| 题目 | 赛站 | 专题 | 题解依据 |
+|---|---|---|---|
+| [s1-4-E · Excellent XOR Problem](https://contest.ucup.ac/contest/1106/problem/5521) | S1 Ukraine | 构造、位运算与状态压缩 | 按总异或分类，构造二段或三段划分；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-4.pdf)（文件 p.3） |
+| [s1-4-G · Graph Problem With Small $n$](https://contest.ucup.ac/contest/1106/problem/5523) | S1 Ukraine | 动态规划、图论、位运算与状态压缩 | 子集 Hamilton 路 DP，位集压缩端点；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-4.pdf)（文件 p.4） |
+| [s1-4-J · Jewel of Data Structure Problems](https://contest.ucup.ac/contest/1106/problem/5526) | S1 Ukraine | 位运算与状态压缩、数据结构 | 维护排列奇偶性和位置同奇偶计数；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-4.pdf)（文件 p.7） |
+| [s1-12-A · XOR Tree Path](https://contest.ucup.ac/contest/1207/problem/6317) | S1 Ōokayama | 树上算法、动态规划、位运算与状态压缩 | 按子树选中叶子数奇偶做树形 DP；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-12.pdf)（文件 p.1） |
+| [s1-12-N · XOR Reachable](https://contest.ucup.ac/contest/1207/problem/6330) | S1 Ōokayama | 数据结构、图论、位运算与状态压缩 | 异或条件拆成区间，时间分治与可撤销并查集；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-12.pdf)（文件 p.9） |
+| [s1-12-O · Jewel Game](https://contest.ucup.ac/contest/1207/problem/6331) | S1 Ōokayama | 博弈论、动态规划、位运算与状态压缩 | 剩余宝石子集状态，逆向分析有环博弈；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-12.pdf)（文件 p.9） |
+| [s1-13-D · XOR Determinant](https://contest.ucup.ac/contest/1212/problem/6347) | S1 Iberia | 多项式与线性代数、位运算与状态压缩 | 按二进制位限制矩阵秩，再计算小行列式；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-13.pdf)（文件 p.2） |
+| [s1-13-K · 4](https://contest.ucup.ac/contest/1212/problem/6354) | S1 Iberia | 图论、位运算与状态压缩 | 按度数定向，邻居图三角形计数转 K4 数量；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-13.pdf)（文件 p.3） |
+| [s1-20-A · Maximum Bitwise OR](https://contest.ucup.ac/contest/1259/problem/6631) | S1 India | 位运算与状态压缩、数据结构 | 最高位刻画可达 OR，区间统计最少变换；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-20.pdf)（文件 p.2） |
+| [s1-20-K · XOR Dice](https://contest.ucup.ac/contest/1259/problem/6641) | S1 India | 构造、位运算与状态压缩 | 构造具有统一可整除异或性质的骰子面；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-20.pdf)（文件 p.39） |
+| [s1-20-L · (1, 2) Nim](https://contest.ucup.ac/contest/1259/problem/6642) | S1 India | 博弈论、位运算与状态压缩 | 分析非对称回合的 Nim 必败态；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-20.pdf)（文件 p.41） |
+| [s2-5-D · Two Missing Numbers](https://contest.ucup.ac/contest/1388/problem/6549) | S2 Northern | 数论、位运算与状态压缩、多项式与线性代数 | 在 nimber 域计算和与立方和，恢复缺失两数；[原文](https://contest.ucup.ac/download.php?type=attachments&id=1388&r=3)（文件 p.7） |
+| [s2-5-J · Sets May Be Good](https://contest.ucup.ac/contest/1388/problem/6555) | S2 Northern | 多项式与线性代数、位运算与状态压缩、组合计数 | GF(2) 二次型逐变量消元，统计零点数；[原文](https://contest.ucup.ac/download.php?type=attachments&id=1388&r=2)（文件 p.30） |
+| [s2-6-B · The Doubling Game 2](https://contest.ucup.ac/contest/1398/problem/7607) | S2 Warsaw | 树上算法、动态规划、位运算与状态压缩 | 子树按有效位数排序，合并入边权集合；[原文](https://assets.ucup.ac/tutorials/tutorials-2-6.pdf)（文件 p.1） |
+| [s2-7-D · Fairy Chess](https://contest.ucup.ac/contest/1399/problem/7635) | S2 Two Capitals | 博弈论、位运算与状态压缩、搜索与二分 | 棋子和被攻击格位掩码，搜索必胜状态；[原文](https://assets.ucup.ac/tutorials/tutorials-2-7.pdf)（文件 p.2） |
+| [s2-7-L · esreveR Order](https://contest.ucup.ac/contest/1399/problem/7643) | S2 Two Capitals | 位运算与状态压缩、构造 | 比较正反字节序，以控制位编码恢复顺序；[原文](https://assets.ucup.ac/tutorials/tutorials-2-7.pdf)（文件 p.8） |
+| [s2-14-A · AND-OR closure](https://contest.ucup.ac/contest/1452/problem/7932) | S2 Southeastern Europe | 位运算与状态压缩、图论、动态规划 | 相同位压缩成 DAG，统计向上闭合集合；[原文](https://assets.ucup.ac/tutorials/tutorials-2-14.pdf)（文件 p.1） |
+| [s2-14-F · Fast XORting](https://contest.ucup.ac/contest/1452/problem/7937) | S2 Southeastern Europe | 位运算与状态压缩、数据结构 | 异或各位独立，按逆序对变化选择每一位；[原文](https://assets.ucup.ac/tutorials/tutorials-2-14.pdf)（文件 p.7） |
+| [s2-14-I · Impossible Numbers](https://contest.ucup.ac/contest/1452/problem/7940) | S2 Southeastern Europe | 图论、位运算与状态压缩 | Hall 定理，枚举十个数字的子集寻找不可匹配数；[原文](https://assets.ucup.ac/tutorials/tutorials-2-14.pdf)（文件 p.10） |
+| [s2-16-B · Even and Odd Combinations](https://contest.ucup.ac/contest/1465/problem/4825) | S2 Run Twice | 构造、位运算与状态压缩 | 翻转元素 1 是否存在，实现奇偶大小子集双射；[原文](https://assets.ucup.ac/tutorials/tutorials-2-16.pdf)（文件 p.15） |
+| [s2-16-E · Four Plus Four](https://contest.ucup.ac/contest/1465/problem/4828) | S2 Run Twice | 贪心、位运算与状态压缩 | 按字母子集列候选，贪心分配秘密与密钥；[原文](https://assets.ucup.ac/tutorials/tutorials-2-16.pdf)（文件 p.47） |
+| [s2-16-G · Transfer of Duty](https://contest.ucup.ac/contest/1465/problem/4830) | S2 Run Twice | 位运算与状态压缩、概率期望与随机化 | 集合异或哈希保存开关状态；[原文](https://assets.ucup.ac/tutorials/tutorials-2-16.pdf)（文件 p.80） |
+| [s2-18-B · Bit Component](https://contest.ucup.ac/contest/1475/problem/8004) | S2 Dolgoprudny | 构造、位运算与状态压缩 | 按最高位分段，递归构造使 1 位连通的排列；[原文](https://assets.ucup.ac/tutorials/tutorials-2-18.pdf)（文件 p.1） |
+| [s2-18-C · Crossing the Border](https://contest.ucup.ac/contest/1475/problem/8005) | S2 Dolgoprudny | 动态规划、位运算与状态压缩 | 子集划分背包，固定最高位避免重复计数；[原文](https://assets.ucup.ac/tutorials/tutorials-2-18.pdf)（文件 p.2） |
+| [s2-19-E · Freshman's Dream](https://contest.ucup.ac/contest/1487/problem/8132) | S2 Estonia | 构造、数论、位运算与状态压缩 | 按 n 奇偶分类，选二的幂利用无进位加法；[原文](https://assets.ucup.ac/tutorials/tutorials-2-19.pdf)（文件 p.8） |
+| [s2-20-B · Almost Large](https://contest.ucup.ac/contest/1499/problem/8166) | S2 Ōokayama | 图论、位运算与状态压缩 | 三进制状态辅助点建图处理数位操作可达性；[原文](https://assets.ucup.ac/tutorials/tutorials-2-20.pdf)（文件 p.1） |
+| [s2-20-J · Set Construction](https://contest.ucup.ac/contest/1499/problem/8174) | S2 Ōokayama | 构造、位运算与状态压缩 | 递归缩小规模，通过奇偶仿射变换构造集合；[原文](https://assets.ucup.ac/tutorials/tutorials-2-20.pdf)（文件 p.13） |
+| [s2-26-L · LED Matrix](https://contest.ucup.ac/contest/1576/problem/8516) | S2 Latin America | 模拟与基础实现、位运算与状态压缩 | 逐行判断 LED 完好或目标全灭条件；[原文](https://scorelatam.naquadah.com.br/pda24/editorial.pdf)（文件 p.16） |
+| [s3-0-C · Comparator](https://contest.ucup.ac/contest/1695/problem/8770) | S3 America | 位运算与状态压缩、模拟与基础实现 | 表达式真值表压缩，用 bitset 检验传递性；[原文](https://assets.ucup.ac/tutorials/tutorials-3-00-en.pdf)（文件 p.7） |
+| [s3-0-M · Training, Round 2](https://contest.ucup.ac/contest/1695/problem/8780) | S3 America | 动态规划、位运算与状态压缩 | 二维能力可达状态，用 bitset 和删除已处理状态加速；[原文](https://assets.ucup.ac/tutorials/tutorials-3-00-en.pdf)（文件 p.26） |
+| [s3-1-A · Element-Wise Comparison](https://contest.ucup.ac/contest/1696/problem/8781) | S3 St. Petersburg | 位运算与状态压缩、数据结构 | 比较矩阵 bitset 化，分块前后缀 OR；[原文](https://assets.ucup.ac/tutorials/tutorials-3-01-en.pdf)（文件 p.2） |
+| [s3-2-C · Radars](https://contest.ucup.ac/contest/1699/problem/8519) | S3 Zielona Gora | 动态规划、位运算与状态压缩 | 只需覆盖四角，十六状态最小代价 DP；[原文](https://assets.ucup.ac/tutorials/tutorials-3-02-en.pdf)（文件 p.31） |
+| [s3-2-D · Xor Partitions](https://contest.ucup.ac/contest/1699/problem/8520) | S3 Zielona Gora | 动态规划、位运算与状态压缩 | 区间异或拆位，按前缀奇偶聚合 DP；[原文](https://assets.ucup.ac/tutorials/tutorials-3-02-en.pdf)（文件 p.41） |
+| [s3-2-J · Polygon II](https://contest.ucup.ac/contest/1699/problem/8526) | S3 Zielona Gora | 概率期望与随机化、动态规划、位运算与状态压缩 | 均匀分布拆二进制，按进位状态做概率 DP；[原文](https://assets.ucup.ac/tutorials/tutorials-3-02-en.pdf)（文件 p.160） |
+| [s3-2-K · Power Divisions](https://contest.ucup.ac/contest/1699/problem/8527) | S3 Zielona Gora | 动态规划、位运算与状态压缩、概率期望与随机化 | 大整数进位摊还维护，哈希找二的幂区间；[原文](https://assets.ucup.ac/tutorials/tutorials-3-02-en.pdf)（文件 p.175） |
+| [s3-4-C · Contour Multiplication](https://contest.ucup.ac/contest/1738/problem/9115) | S3 Hongo | 动态规划、位运算与状态压缩 | 扩展快速 Zeta 变换，状态记录不同位数；[原文](https://assets.ucup.ac/tutorials/tutorials-3-04-ja.pdf)（文件 p.16） |
+| [s3-4-F · Flip or Not](https://contest.ucup.ac/contest/1738/problem/9118) | S3 Hongo | 多项式与线性代数、数论、位运算与状态压缩 | GF(2) 多项式同余方程与循环位移；[原文](https://assets.ucup.ac/tutorials/tutorials-3-04-ja.pdf)（文件 p.32） |
+| [s3-6-C · -is-this-bitset-](https://contest.ucup.ac/contest/1762/problem/9169) | S3 Osijek | 树上算法、动态规划、位运算与状态压缩 | 浅层构造完整倍数，下层做余数 DP 并撤销更新；[原文](https://qoj.ac/blog/jiangly/blogs/948) |
+| [s3-13-C · Shift Puzzle](https://contest.ucup.ac/contest/1812/problem/9478) | S3 Sendai | 搜索与二分、位运算与状态压缩 | 小网格 BFS，分析位移操作生成的可达集合；[原文](https://assets.ucup.ac/tutorials/tutorials-3-13-ja.pdf)（文件 p.18） |
+| [s3-18-I · Donkey, Keep Watch](https://contest.ucup.ac/contest/1849/problem/9789) | S3 Southeastern Europe | 位运算与状态压缩、组合计数 | 按集合大小奇偶拆位，统计 AND、XOR、OR 的取等条件；[原文](https://assets.ucup.ac/tutorials/tutorials-3-18-en.pdf)（文件 p.11） |
+| [s3-21-D · A xor B plus C](https://contest.ucup.ac/contest/1872/problem/9878) | S3 Ōokayama | 位运算与状态压缩、动态规划 | 按位分析递推周期与进位，用稀疏一位位置列表迭代；[原文](https://atcoder.jp/contests/ttpc2024_1/editorial/11464) |
+| [s3-21-L · Long Sequence Inversion 2](https://contest.ucup.ac/contest/1872/problem/9886) | S3 Ōokayama | 组合计数、位运算与状态压缩 | 按进制位稳定排序，叠加缩放重复块的逆序对贡献；[原文](https://atcoder.jp/contests/ttpc2024_1/editorial/11222) |
+| [s3-24-J · Just Zeros](https://contest.ucup.ac/contest/1890/problem/9968) | S3 Poland | 位运算与状态压缩、数据结构 | 枚举行翻转掩码，维护各列最优翻转代价；[原文](https://assets.ucup.ac/tutorials/tutorials-3-24-pl.pdf)（文件 p.94） |
+| [s3-27-C · Cardinality](https://contest.ucup.ac/contest/1901/problem/8613) | S3 London | 概率期望与随机化、位运算与状态压缩、数据结构 | 小集合显式存储，大集合采样 bitset 或 MinHash；[原文](https://assets.ucup.ac/tutorials/tutorials-3-27-en.pdf)（文件 p.1） |
+| [s3-31-E · Expression](https://contest.ucup.ac/contest/1924/problem/10118) | S3 Wroclaw | 模拟与基础实现、位运算与状态压缩 | 解析布尔表达式，利用等价恒等式重写运算；[原文](https://assets.ucup.ac/tutorials/tutorials-3-31-en.pdf)（文件 p.51） |
+| [s3-32-A · Sort and &](https://contest.ucup.ac/contest/1939/problem/10214) | S3 Dhaka | 位运算与状态压缩、构造 | 按排列规模与按位 AND 的连通性分类零一代价；[原文](https://assets.ucup.ac/tutorials/tutorials-3-32-en.pdf)（文件 p.1） |
+| [s3-32-F · Yet Another Crossover Episode](https://contest.ucup.ac/contest/1939/problem/10219) | S3 Dhaka | 位运算与状态压缩、动态规划 | SOS DP 求存在的最大子掩码及其数量；[原文](https://assets.ucup.ac/tutorials/tutorials-3-32-en.pdf)（文件 p.3） |
+| [s3-32-H · Are the nodes reachable?](https://contest.ucup.ac/contest/1939/problem/10221) | S3 Dhaka | 图论、位运算与状态压缩 | bitset 可达闭包，左右移位扩展小代价路径；[原文](https://assets.ucup.ac/tutorials/tutorials-3-32-en.pdf)（文件 p.4） |
+| [s3-32-I · Unhappy Team](https://contest.ucup.ac/contest/1939/problem/10222) | S3 Dhaka | 概率期望与随机化、动态规划、位运算与状态压缩 | 枚举分数贡献，子集 DP 统计前 k 名入选概率；[原文](https://assets.ucup.ac/tutorials/tutorials-3-32-en.pdf)（文件 p.5） |
+| [s3-32-L · Uncle Bob and XOR Sum](https://contest.ucup.ac/contest/1939/problem/10225) | S3 Dhaka | 位运算与状态压缩、多项式与线性代数、组合计数 | 线性基和高斯消元，容斥排除禁用位模式；[原文](https://assets.ucup.ac/tutorials/tutorials-3-32-en.pdf)（文件 p.6） |
+| [s3-32-M · Tree Flip](https://contest.ucup.ac/contest/1939/problem/10226) | S3 Dhaka | 树上算法、数据结构、位运算与状态压缩 | 点分治维护路径异或，支持变根和点修改；[原文](https://assets.ucup.ac/tutorials/tutorials-3-32-en.pdf)（文件 p.7） |
+| [s3-39-P · Perfect Suika Game on a Tree](https://contest.ucup.ac/contest/2071/problem/10985) | S3 Tokyo | 树上算法、数据结构、位运算与状态压缩 | 持久化线段树合并大二进制数，局部维护可合并条件；[原文](https://qoj.ac/blog/jiangly/blogs/1261) |
+| [s3-40-E · One Bit](https://contest.ucup.ac/contest/2135/problem/12154) | S3 Potyczki | 动态规划、位运算与状态压缩 | 只枚举对数距离内的上个保留元素，按 Hamming 距离转移；[原文](https://assets.ucup.ac/tutorials/tutorials-3-40-pl.pdf)（文件 p.88） |
+| [s3-40-K · Projects](https://contest.ucup.ac/contest/2135/problem/12160) | S3 Potyczki | 动态规划、位运算与状态压缩 | 子集状态及最小正变量数，按二进制层递推线性规划目标；[原文](https://assets.ucup.ac/tutorials/tutorials-3-40-pl.pdf)（文件 p.171） |
+| [s4-2-C · Classement Nationale](https://contest.ucup.ac/contest/2551/problem/14132) | S4 Paris | 位运算与状态压缩、模拟与基础实现 | 枚举比赛子集，三指针模拟稀疏时间事件；[原文](https://assets.ucup.ac/tutorials/tutorials-4-02-en.pdf)（文件 p.1） |
+| [s4-10-B · Bit Recovery](https://contest.ucup.ac/contest/2814/problem/16001) | S4 Wrocław | 多项式与线性代数、位运算与状态压缩、交互与信息编码 | 恢复缺一维线性子空间，取交恢复隐藏基向量；[原文](https://assets.ucup.ac/tutorials/tutorials-4-10-en.pdf)（文件 p.104） |
+| [s4-11-B · AND Reconstruction](https://contest.ucup.ac/contest/2828/problem/16116) | S4 Southeastern Europe | 位运算与状态压缩、字符串 | 按连续零块与最短一块刻画 AND 唯一恢复长度；[原文](https://assets.ucup.ac/tutorials/tutorials-4-11-en.pdf)（文件 p.2） |
+| [s4-11-C · XOR-Excluding Sets](https://contest.ucup.ac/contest/2828/problem/16117) | S4 Southeastern Europe | 位运算与状态压缩、多项式与线性代数、组合计数 | 线性基统计零异或子集及从未被表示用到的基向量；[原文](https://assets.ucup.ac/tutorials/tutorials-4-11-en.pdf)（文件 p.3） |
+| [s4-16-B · Bitwise Beach](https://contest.ucup.ac/contest/3347/problem/17151) | S4 Warsaw | 位运算与状态压缩、搜索与二分 | 相同距离成对异或抵消，枚举平方根种剩余距离；[原文](https://assets.ucup.ac/tutorials/tutorials-4-16-en.pdf)（文件 p.4） |
+| [s4-16-J · Jewel Guards](https://contest.ucup.ac/contest/3347/problem/17159) | S4 Warsaw | 位运算与状态压缩、组合计数 | 扫描守卫上下班事件，SOS 统计值钱物品的覆盖集合；[原文](https://assets.ucup.ac/tutorials/tutorials-4-16-en.pdf)（文件 p.16） |
+| [s4-17-D · Distinguishable Distributions](https://contest.ucup.ac/contest/3384/problem/17164) | S4 St. Petersburg | 构造、概率期望与随机化、位运算与状态压缩 | 真值表编码自适应分布，配对证明有限阶独立；[原文](https://assets.ucup.ac/tutorials/tutorials-4-17-en.pdf)（文件 p.4） |
+| [s4-18-C · Convex Crusher](https://contest.ucup.ac/contest/3420/problem/17248) | S4 Hongō | 计算几何、位运算与状态压缩 | 几何位置合法性用 bitset 取交筛候选；[原文](https://atcoder.jp/contests/utpc2025/editorial/16125) |
+| [s4-19-B · Building a Reactor](https://contest.ucup.ac/contest/3426/problem/17261) | S4 Belarus | 动态规划、位运算与状态压缩 | 三进制轮廓 DP 覆盖燃料棒，最小化冷却元件；[原文](https://assets.ucup.ac/tutorials/tutorials-4-19-en.pdf)（文件 p.1） |
+| [s4-19-C · Cell Flip Game](https://contest.ucup.ac/contest/3426/problem/17262) | S4 Belarus | 位运算与状态压缩、多项式与线性代数 | 自上而下消元到规范末行，GF(2) 可达性；[原文](https://assets.ucup.ac/tutorials/tutorials-4-19-en.pdf)（文件 p.2） |
+| [s4-19-I · Ivan Tsarevich in the Magical Grove](https://contest.ucup.ac/contest/3426/problem/17268) | S4 Belarus | 图论、动态规划、位运算与状态压缩 | 连通分量两种染色数，分组 bitset 背包判断可选顶点；[原文](https://assets.ucup.ac/tutorials/tutorials-4-19-en.pdf)（文件 p.6） |
+| [s4-21-A · 01 Matrix](https://contest.ucup.ac/contest/3542/problem/17419) | S4 Kamigō | 位运算与状态压缩、图论、组合计数 | 二维前缀和转奇偶方程，按连通分量计数；[原文](https://atcoder.jp/contests/pakencamp-2025-day3/editorial/18120) |
+| [s4-21-H · OR Preference](https://contest.ucup.ac/contest/3542/problem/17426) | S4 Kamigō | 位运算与状态压缩、动态规划、贪心 | 交换论证把 OR 放在 AND 前，前缀掩码 DP；[原文](https://atcoder.jp/contests/pakencamp-2025-day3/editorial/18129) |
+| [s4-22-C · Partition AND/OR Aggregation](https://contest.ucup.ac/contest/3575/problem/17715) | S4 Kyoto | 位运算与状态压缩、搜索与二分、贪心 | 二分阈值，双指针找合法区间并选互不相交段；[原文](https://assets.ucup.ac/tutorials/tutorials-4-22-en.pdf)（文件 p.2） |
+| [s4-22-I · Xor Magic Square](https://contest.ucup.ac/contest/3575/problem/17721) | S4 Kyoto | 构造、位运算与状态压缩 | 偶数阶全一，奇数阶按异或抵消构造；[原文](https://assets.ucup.ac/tutorials/tutorials-4-22-en.pdf)（文件 p.7） |
+| [s4-22-O · Xor Triangle](https://contest.ucup.ac/contest/3575/problem/17727) | S4 Kyoto | 位运算与状态压缩、组合计数 | 严格三角不等式化为按位条件，容斥计数；[原文](https://assets.ucup.ac/tutorials/tutorials-4-22-en.pdf)（文件 p.12） |
+| [s4-25-F · Flipping Frenzy](https://contest.ucup.ac/contest/3773/problem/18406) | S4 Zagreb | 多项式与线性代数、位运算与状态压缩、图论 | 操作换基，二一向量转连通分量方程再 GF(2) 消元；[原文](https://assets.ucup.ac/tutorials/tutorials-4-25-en.pdf)（文件 p.22） |
+| [s4-25-G · Grid Gradient](https://contest.ucup.ac/contest/3773/problem/18407) | S4 Zagreb | 动态规划、位运算与状态压缩 | 固定网格奇偶性后，轮廓 DP 统计可修改集合；[原文](https://assets.ucup.ac/tutorials/tutorials-4-25-en.pdf)（文件 p.27） |
+| [s4-Extra-3-A · Magician](https://contest.ucup.ac/contest/2757/problem/15517) | S4 Osijek | 位运算与状态压缩、构造 | 偶校验码编码颜色，用丢失位奇偶校验恢复；[原文](https://assets.ucup.ac/tutorials/tutorials-4-e3-en.pdf)（文件 p.1） |
+| [s4-Extra-3-E · XOR Again?](https://contest.ucup.ac/contest/2757/problem/15521) | S4 Osijek | 位运算与状态压缩、动态规划 | 按位确定使 OR 出现的切点区间，再统计划分；[原文](https://assets.ucup.ac/tutorials/tutorials-4-e3-en.pdf)（文件 p.2） |
+| [s4-Extra-3-H · Magical Puzzles](https://contest.ucup.ac/contest/2757/problem/15524) | S4 Osijek | 概率期望与随机化、位运算与状态压缩、图论 | 给约束随机赋权，路径异或为零检验配对条件；[原文](https://assets.ucup.ac/tutorials/tutorials-4-e3-en.pdf)（文件 p.3） |
+| [s4-Extra-3-J · AND Components](https://contest.ucup.ac/contest/2757/problem/15526) | S4 Osijek | 数据结构、位运算与状态压缩 | 线段树保存各位首次末次出现，合并 AND 连通分量摘要；[原文](https://assets.ucup.ac/tutorials/tutorials-4-e3-en.pdf)（文件 p.4） |
+| [s5-1-G · Game Show: XOR Edition](https://contest.ucup.ac/contest/4126/problem/20254) | S5 Nizhny Novgorod | 位运算与状态压缩、动态规划、概率期望与随机化 | 按最高位分组，少量随机代表做异或 DP 构造目标值；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4126&r=1)（文件 p.13） |
+| [s5-3-F · Flipping Lamps](https://contest.ucup.ac/contest/4565/problem/20734) | S5 Gorkovskaya | 多项式与线性代数、位运算与状态压缩、组合计数 | XOR 卷积按重量分组，Krawtchouk 多项式压缩变换；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4565&r=1)（文件 p.5） |
+| [s5-3-G · Game](https://contest.ucup.ac/contest/4565/problem/20735) | S5 Gorkovskaya | 博弈论、位运算与状态压缩 | 证明 SG 值为模 2^(m+1)-1，再异或各堆；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4565&r=1)（文件 p.6） |
+| [s5-6-F · Path XOR on MST](https://contest.ucup.ac/contest/4617/problem/23674) | S5 Hyakumanben | 图论、位运算与状态压缩、数据结构 | Kruskal 配异或势能 DSU 和环空间线性基；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4617&r=1)（文件 p.9） |

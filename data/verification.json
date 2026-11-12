@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-13",
+  "classified": 750,
+  "missing": 103,
+  "local_link_checks": 3107,
+  "pdf_page_bounds_checked": 55,
+  "errors": [],
+  "browser_checks": [
+    "initial 50-row pagination",
+    "线段树 search = 32 results",
+    "博弈论 topic = 22 results",
+    "missing filter = 103 results",
+    "season 5 filter = 41 classified problems",
+    "checkbox save/remove",
+    "desktop 1440px visual review",
+    "mobile 390px visual review; no page overflow"
+  ],
+  "annotations_sha256": "f7c45f1aef525e2d2dccc7780a3ae749d435343382239a4f2ced4d2021419b1f"
+}

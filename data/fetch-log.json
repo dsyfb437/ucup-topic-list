@@ -1,0 +1,1355 @@
+[
+  {
+    "stage_id": "s1-3",
+    "kind": "statement",
+    "url": "https://assets.ucup.ac/statements/statements-1-3.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/statements/statements-1-3.pdf"
+  },
+  {
+    "stage_id": "s1-4",
+    "kind": "statement",
+    "url": "https://assets.ucup.ac/statements/statements-1-4.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/statements/statements-1-4.pdf"
+  },
+  {
+    "stage_id": "s1-4",
+    "kind": "editorial",
+    "url": "https://assets.ucup.ac/tutorials/tutorials-1-4.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/tutorials/tutorials-1-4.pdf"
+  },
+  {
+    "stage_id": "s1-5",
+    "kind": "statement",
+    "url": "https://assets.ucup.ac/statements/statements-1-5.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/statements/statements-1-5.pdf"
+  },
+  {
+    "stage_id": "s1-5",
+    "kind": "editorial",
+    "url": "https://assets.ucup.ac/tutorials/tutorials-1-5.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/tutorials/tutorials-1-5.pdf"
+  },
+  {
+    "stage_id": "s1-7",
+    "kind": "statement",
+    "url": "https://assets.ucup.ac/statements/statements-1-7.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/statements/statements-1-7.pdf"
+  },
+  {
+    "stage_id": "s1-7",
+    "kind": "editorial",
+    "url": "https://assets.ucup.ac/tutorials/tutorials-1-7.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/tutorials/tutorials-1-7.pdf"
+  },
+  {
+    "stage_id": "s1-8",
+    "kind": "statement",
+    "url": "https://assets.ucup.ac/statements/statements-1-8.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/statements/statements-1-8.pdf"
+  },
+  {
+    "stage_id": "s1-8",
+    "kind": "editorial",
+    "url": "https://assets.ucup.ac/tutorials/tutorials-1-8.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/tutorials/tutorials-1-8.pdf"
+  },
+  {
+    "stage_id": "s1-12",
+    "kind": "statement",
+    "url": "https://assets.ucup.ac/statements/statements-1-12.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/statements/statements-1-12.pdf"
+  },
+  {
+    "stage_id": "s1-12",
+    "kind": "editorial",
+    "url": "https://assets.ucup.ac/tutorials/tutorials-1-12.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/tutorials/tutorials-1-12.pdf"
+  },
+  {
+    "stage_id": "s1-13",
+    "kind": "statement",
+    "url": "https://assets.ucup.ac/statements/statements-1-13.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/statements/statements-1-13.pdf"
+  },
+  {
+    "stage_id": "s1-13",
+    "kind": "editorial",
+    "url": "https://assets.ucup.ac/tutorials/tutorials-1-13.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/tutorials/tutorials-1-13.pdf"
+  },
+  {
+    "stage_id": "s1-16",
+    "kind": "statement",
+    "url": "https://assets.ucup.ac/statements/statements-1-16.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/statements/statements-1-16.pdf"
+  },
+  {
+    "stage_id": "s1-16",
+    "kind": "editorial",
+    "url": "https://assets.ucup.ac/tutorials/tutorials-1-16.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/tutorials/tutorials-1-16.pdf"
+  },
+  {
+    "stage_id": "s1-19",
+    "kind": "statement",
+    "url": "https://assets.ucup.ac/statements/statements-1-19.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/statements/statements-1-19.pdf"
+  },
+  {
+    "stage_id": "s1-20",
+    "kind": "statement",
+    "url": "https://assets.ucup.ac/statements/statements-1-20.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/statements/statements-1-20.pdf"
+  },
+  {
+    "stage_id": "s1-20",
+    "kind": "editorial",
+    "url": "https://assets.ucup.ac/tutorials/tutorials-1-20.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://assets.ucup.ac/tutorials/tutorials-1-20.pdf"
+  },
+  {
+    "stage_id": "s2-2",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-2-2.pdf",
+    "status": "ok",
+    "path": "sources/s2-2-statement-0.pdf",
+    "sha256": "872d8031a390793b9b6f76bb8899a67b0567bb196516725a26fb502eb3f94cf2",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-2-2.pdf",
+    "characters": 37980
+  },
+  {
+    "stage_id": "s2-2",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-2-2.zip",
+    "status": "ok",
+    "path": "sources/s2-2-editorial-0.zip",
+    "sha256": "97db30a17978aa6faea7deac0a2f26987836717464f75b70dfff9340e0aaab22",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-2-2.zip",
+    "characters": 49919
+  },
+  {
+    "stage_id": "s2-5",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-2-5.pdf",
+    "status": "ok",
+    "path": "sources/s2-5-statement-0.pdf",
+    "sha256": "c55b776d9c704cbf4c2ed9187dffdf220d22daccdeb402947fe3af8c6c4ef99b",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-2-5.pdf",
+    "characters": 30074
+  },
+  {
+    "stage_id": "s2-6",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-2-6.pdf",
+    "status": "ok",
+    "path": "sources/s2-6-statement-0.pdf",
+    "sha256": "a7b567c974cba3de1bab72b84a450db8c7b46cf2ac0d6aa726096bce805444e4",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-2-6.pdf",
+    "characters": 40193
+  },
+  {
+    "stage_id": "s2-6",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-2-6.pdf",
+    "status": "ok",
+    "path": "sources/s2-6-editorial-0.pdf",
+    "sha256": "d9ec66b6e8d1cbab54f016750e7a45fdc68d1757bac2d12d60b0d59a7f9d6fb7",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-2-6.pdf",
+    "characters": 18055
+  },
+  {
+    "stage_id": "s2-7",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-2-7.pdf",
+    "status": "ok",
+    "path": "sources/s2-7-statement-0.pdf",
+    "sha256": "19a176e6fc57c9ca77f29b91303c07905d23a873db8c8f33729d055ee4e4fa4b",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-2-7.pdf",
+    "characters": 26109
+  },
+  {
+    "stage_id": "s2-7",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-2-7.pdf",
+    "status": "ok",
+    "path": "sources/s2-7-editorial-0.pdf",
+    "sha256": "879587f7f284c6e065fd5b540d58e9b57d5a4e870c494b55ea2e150f6c2c1317",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-2-7.pdf",
+    "characters": 28848
+  },
+  {
+    "stage_id": "s2-14",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-2-14.pdf",
+    "status": "ok",
+    "path": "sources/s2-14-statement-0.pdf",
+    "sha256": "88684f07b45c0b8fee0f5e2667906f248f90d89cd34b5cdb636c21e8e14599f7",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-2-14.pdf",
+    "characters": 29107
+  },
+  {
+    "stage_id": "s2-14",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-2-14.pdf",
+    "status": "ok",
+    "path": "sources/s2-14-editorial-0.pdf",
+    "sha256": "b429cecdf85d3fb617a7678ad7dbd6040006ea384c5c6e332726195f678a9952",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-2-14.pdf",
+    "characters": 29251
+  },
+  {
+    "stage_id": "s2-16",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-2-16.pdf",
+    "status": "ok",
+    "path": "sources/s2-16-statement-0.pdf",
+    "sha256": "ca4b4d6111635d4648226263766a783de84e48364684097a6c6e2c1834d5e1b2",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-2-16.pdf",
+    "characters": 59387
+  },
+  {
+    "stage_id": "s2-16",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-2-16.pdf",
+    "status": "ok",
+    "path": "sources/s2-16-editorial-0.pdf",
+    "sha256": "b0f4a5489d1eae7be9e61cb64b52c0817113a625d7a9153073cf2c50e8822b6d",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-2-16.pdf",
+    "characters": 107143
+  },
+  {
+    "stage_id": "s2-18",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-2-18.pdf",
+    "status": "ok",
+    "path": "sources/s2-18-statement-0.pdf",
+    "sha256": "0bd247e624ace41651f5b1c3c426fe5b15876bc5ad7c60aae8bac4069f073dfd",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-2-18.pdf",
+    "characters": 25115
+  },
+  {
+    "stage_id": "s2-18",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-2-18.pdf",
+    "status": "ok",
+    "path": "sources/s2-18-editorial-0.pdf",
+    "sha256": "f28504d2183a4f67c6c9747f43c9d6a50ff7e65603a3bb35129091f65e5d3d5d",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-2-18.pdf",
+    "characters": 31406
+  },
+  {
+    "stage_id": "s2-19",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-2-19.pdf",
+    "status": "ok",
+    "path": "sources/s2-19-statement-0.pdf",
+    "sha256": "27cd04002d8661b7930032142f20379612ad7dffb0398ef5ceb7aff439b8488b",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-2-19.pdf",
+    "characters": 35424
+  },
+  {
+    "stage_id": "s2-19",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-2-19.pdf",
+    "status": "ok",
+    "path": "sources/s2-19-editorial-0.pdf",
+    "sha256": "b4ca58c432b2a77c5f6ae8d8930a768c5e1dd84df6f7eedc74a42a17445ea46c",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-2-19.pdf",
+    "characters": 62224
+  },
+  {
+    "stage_id": "s2-20",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-2-20.pdf",
+    "status": "ok",
+    "path": "sources/s2-20-statement-0.pdf",
+    "sha256": "203248b8bc71a37835982bbaa1dc73d75580afa3c2a02202154ff1f13548e9f6",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-2-20.pdf",
+    "characters": 43872
+  },
+  {
+    "stage_id": "s2-20",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-2-20.pdf",
+    "status": "ok",
+    "path": "sources/s2-20-editorial-0.pdf",
+    "sha256": "30dde484b7d0af4a4ed74dfd2b39ac08052a49048699eb73c168c16a697e3fa0",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-2-20.pdf",
+    "characters": 54958
+  },
+  {
+    "stage_id": "s2-21",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-2-21.pdf",
+    "status": "ok",
+    "path": "sources/s2-21-statement-0.pdf",
+    "sha256": "929cbe7792d441ecd6ee765fd02ed5ba71c5e2165c8113c85feb2886bcc7a8c2",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-2-21.pdf",
+    "characters": 29809
+  },
+  {
+    "stage_id": "s2-21",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-2-21.pdf",
+    "status": "ok",
+    "path": "sources/s2-21-editorial-0.pdf",
+    "sha256": "643836fc3b166c89f7d702a88f9bff2dfbe19c8f0e5258f725a749c9caad9f80",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-2-21.pdf",
+    "characters": 37169
+  },
+  {
+    "stage_id": "s2-26",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-2-26.pdf",
+    "status": "ok",
+    "path": "sources/s2-26-statement-0.pdf",
+    "sha256": "06309a1061d3ea2f971a4b7f0403e505cdfeb45a88bdea64f042915dfaff8e8b",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-2-26.pdf",
+    "characters": 37974
+  },
+  {
+    "stage_id": "s2-27",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-2-27.pdf",
+    "status": "ok",
+    "path": "sources/s2-27-statement-0.pdf",
+    "sha256": "5e660243b37814257ec3dae00d63c3cc61c4eb12c6a3f81ffbe0892691d190bb",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-2-27.pdf",
+    "characters": 46586
+  },
+  {
+    "stage_id": "s3-0",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-0.pdf",
+    "status": "ok",
+    "path": "sources/s3-0-statement-0.pdf",
+    "sha256": "c827d76bfd21c45caf91b27eaa88e53f49f7c6371d454971c84c0fab514dbfe5",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-0.pdf",
+    "characters": 36076
+  },
+  {
+    "stage_id": "s3-0",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-00-en.pdf",
+    "status": "ok",
+    "path": "sources/s3-0-editorial-0.pdf",
+    "sha256": "cfe2bf31cc891b2b9a5e430e38a3f12eb01f63a17f9c902c869be4e174fc6ceb",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-00-en.pdf",
+    "characters": 16489
+  },
+  {
+    "stage_id": "s3-1",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-1.pdf",
+    "status": "ok",
+    "path": "sources/s3-1-statement-0.pdf",
+    "sha256": "4afa3b946d9734dcf511661d380a7d5bba20787a4f83f26b975f344aa9b02336",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-1.pdf",
+    "characters": 42499
+  },
+  {
+    "stage_id": "s3-1",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-01-en.pdf",
+    "status": "ok",
+    "path": "sources/s3-1-editorial-0.pdf",
+    "sha256": "00377de637b8f87ce4f49cf774002830afee527f25c3746c267fee2767c597df",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-01-en.pdf",
+    "characters": 85622
+  },
+  {
+    "stage_id": "s3-2",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-2.pdf",
+    "status": "ok",
+    "path": "sources/s3-2-statement-0.pdf",
+    "sha256": "6f69c6843ffc81f53874a65f159b6f0debc472e52e6021366fa1999a438a16e6",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-2.pdf",
+    "characters": 35812
+  },
+  {
+    "stage_id": "s3-2",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-02-en.pdf",
+    "status": "ok",
+    "path": "sources/s3-2-editorial-0.pdf",
+    "sha256": "78223619319df6c69cc4e726059333ad680bff199fbf6b0928ca216036e12499",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-02-en.pdf",
+    "characters": 69890
+  },
+  {
+    "stage_id": "s3-3",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-3.pdf",
+    "status": "ok",
+    "path": "sources/s3-3-statement-0.pdf",
+    "sha256": "f32f4626cd3a72994c09ad95426f9883b10106c63087c9d8ed9a59a54359edd8",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-3.pdf",
+    "characters": 34912
+  },
+  {
+    "stage_id": "s3-4",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-4.pdf",
+    "status": "ok",
+    "path": "sources/s3-4-statement-0.pdf",
+    "sha256": "4dba67612831ce0b171bdb53ab1c4e35ccae16fdad76b6b983243d4acece6105",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-4.pdf",
+    "characters": 37847
+  },
+  {
+    "stage_id": "s3-4",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-04-ja.pdf",
+    "status": "ok",
+    "path": "sources/s3-4-editorial-0.pdf",
+    "sha256": "f03b8aa79f3e06768aa99c9ba41c6fa091162cae5fda92ee361e0dbb18a142d6",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-04-ja.pdf",
+    "characters": 26124
+  },
+  {
+    "stage_id": "s3-5",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-5.pdf",
+    "status": "ok",
+    "path": "sources/s3-5-statement-0.pdf",
+    "sha256": "532495798dc844131d2d9d489908139c573d1a2f28e53caf8ac41a33236cd203",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-5.pdf",
+    "characters": 35876
+  },
+  {
+    "stage_id": "s3-5",
+    "kind": "editorial",
+    "url": "https://qoj.ac/blogs/941",
+    "status": "ok",
+    "path": "sources/s3-5-editorial-0.html",
+    "sha256": "7343049c875a25b2e110a4fe73ce92754635e757a4efb60e88726e2f90040983",
+    "resolved_url": "https://qoj.ac/blog/jiangly/blogs/941",
+    "characters": 5934
+  },
+  {
+    "stage_id": "s3-6",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-6.pdf",
+    "status": "ok",
+    "path": "sources/s3-6-statement-0.pdf",
+    "sha256": "a07dc09dcce40f61131f3b4307a9fdad0fafe61cb64dc23e3119226210a4cf37",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-6.pdf",
+    "characters": 34773
+  },
+  {
+    "stage_id": "s3-6",
+    "kind": "editorial",
+    "url": "https://qoj.ac/blogs/948",
+    "status": "ok",
+    "path": "sources/s3-6-editorial-0.html",
+    "sha256": "2144c040dfa06ffbe7ea8dee0ad2f32e285d9e35e231667cde9d78574da45234",
+    "resolved_url": "https://qoj.ac/blog/jiangly/blogs/948",
+    "characters": 2331
+  },
+  {
+    "stage_id": "s3-7",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-7.pdf",
+    "status": "ok",
+    "path": "sources/s3-7-statement-0.pdf",
+    "sha256": "c5ce3a7f74d0c3a35b66ed7cd87a31fbdc241deb40e138d530462ff08d0e245e",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-7.pdf",
+    "characters": 35044
+  },
+  {
+    "stage_id": "s3-7",
+    "kind": "editorial",
+    "url": "https://qoj.ac/blogs/958",
+    "status": "ok",
+    "path": "sources/s3-7-editorial-0.html",
+    "sha256": "4926502ffbc42e9da608b8c015863c771f44ed99a07955c8056a47423fa06c13",
+    "resolved_url": "https://qoj.ac/blog/jiangly/blogs/958",
+    "characters": 6733
+  },
+  {
+    "stage_id": "s3-11",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-11.pdf",
+    "status": "ok",
+    "path": "sources/s3-11-statement-0.pdf",
+    "sha256": "750a6efe60087bd11877ef18ddfa6ef877d4293bd1bd437aa3bb86304a98c97d",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-11.pdf",
+    "characters": 32998
+  },
+  {
+    "stage_id": "s3-11",
+    "kind": "editorial",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial?editorialLang=ja",
+    "status": "ok",
+    "path": "sources/s3-11-editorial-0.html",
+    "sha256": "64701bd862a4b5111a5f2462b9905a4ec9dce30c375837c65df81cb646582458",
+    "resolved_url": "https://atcoder.jp/contests/npcapc_2024/editorial?editorialLang=ja",
+    "characters": 1610
+  },
+  {
+    "stage_id": "s3-13",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-13.pdf",
+    "status": "ok",
+    "path": "sources/s3-13-statement-0.pdf",
+    "sha256": "bd24af0c22cbff97936a396d97022ca2a3b5075e4598bd614c4750b6e1b74d40",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-13.pdf",
+    "characters": 33248
+  },
+  {
+    "stage_id": "s3-13",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-13-ja.pdf",
+    "status": "ok",
+    "path": "sources/s3-13-editorial-0.pdf",
+    "sha256": "b87122edf6a9df75153abf15a2148e0f7855758c8a7d550969a94244b6c5d624",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-13-ja.pdf",
+    "characters": 10482
+  },
+  {
+    "stage_id": "s3-18",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-18.pdf",
+    "status": "ok",
+    "path": "sources/s3-18-statement-0.pdf",
+    "sha256": "3d9eaa6b585a4caa434f9eef3c6b1b06259c561f370082b24fbe33e0fee1e4ed",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-18.pdf",
+    "characters": 34980
+  },
+  {
+    "stage_id": "s3-18",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-18-en.pdf",
+    "status": "ok",
+    "path": "sources/s3-18-editorial-0.pdf",
+    "sha256": "6bf1ef0ffe2ef92f2a1f9cc93db5989798d029fc2f038dd1d5bf34675cf1dbab",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-18-en.pdf",
+    "characters": 40028
+  },
+  {
+    "stage_id": "s3-21",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-21.pdf",
+    "status": "ok",
+    "path": "sources/s3-21-statement-0.pdf",
+    "sha256": "ca2160354e44d812f4b338929e0dd60342738715f08c7ad8d237f328990becb4",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-21.pdf",
+    "characters": 37414
+  },
+  {
+    "stage_id": "s3-21",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-21-ja.pdf",
+    "status": "ok",
+    "path": "sources/s3-21-editorial-0.pdf",
+    "sha256": "90885516a37621a708f184d17bd67d79bf7e366a21b98122a44375c31561c919",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-21-ja.pdf",
+    "characters": 17417
+  },
+  {
+    "stage_id": "s3-24",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-24.pdf",
+    "status": "ok",
+    "path": "sources/s3-24-statement-0.pdf",
+    "sha256": "1e18f6bf46f8bf8533dc2eb7f25d881fe20e0909731d8dc7d7f63a6e0fa9e6db",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-24.pdf",
+    "characters": 38015
+  },
+  {
+    "stage_id": "s3-24",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-24-pl.pdf",
+    "status": "ok",
+    "path": "sources/s3-24-editorial-0.pdf",
+    "sha256": "ca92b1c2400cb3b837296dc00554fb5f744f1d32731d9b149ac37b193e7be428",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-24-pl.pdf",
+    "characters": 62358
+  },
+  {
+    "stage_id": "s3-27",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-27.pdf",
+    "status": "ok",
+    "path": "sources/s3-27-statement-0.pdf",
+    "sha256": "6ee8001072862cd19429dbe94e2bf51743c4b9ca51b531898124b73e6ba198e5",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-27.pdf",
+    "characters": 28785
+  },
+  {
+    "stage_id": "s3-27",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-27-en.pdf",
+    "status": "ok",
+    "path": "sources/s3-27-editorial-0.pdf",
+    "sha256": "07c09a169f69f61894841232e87cc4c2741bfb27749e9271254ee1b58a6ba68f",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-27-en.pdf",
+    "characters": 10893
+  },
+  {
+    "stage_id": "s3-30",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-30.pdf",
+    "status": "ok",
+    "path": "sources/s3-30-statement-0.pdf",
+    "sha256": "0c856efa171bac1c9bbdfec453622d15c114dc8df81c18e007d2cad9143fb0d5",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-30.pdf",
+    "characters": 34254
+  },
+  {
+    "stage_id": "s3-30",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-30-en.pdf",
+    "status": "ok",
+    "path": "sources/s3-30-editorial-0.pdf",
+    "sha256": "77302f499e3b156e50e33964fc45ca4cae1a6598f2392873482efac002593e3f",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-30-en.pdf",
+    "characters": 19295
+  },
+  {
+    "stage_id": "s3-31",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-31.pdf",
+    "status": "ok",
+    "path": "sources/s3-31-statement-0.pdf",
+    "sha256": "c4c61bd74a5a5db5505bafd04028cf54726140338a0f5fb96da751102e4a7d16",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-31.pdf",
+    "characters": 32069
+  },
+  {
+    "stage_id": "s3-31",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-31-en.pdf",
+    "status": "ok",
+    "path": "sources/s3-31-editorial-0.pdf",
+    "sha256": "7d2d005b18d3ba33b3aff9d2406653a763a034b99e10a90d9b421c03ed03c60f",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-31-en.pdf",
+    "characters": 31027
+  },
+  {
+    "stage_id": "s3-32",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-32.pdf",
+    "status": "ok",
+    "path": "sources/s3-32-statement-0.pdf",
+    "sha256": "53481b0a190cf0898366f3b67953f9f417119f69fbc56937d6d7810152da9001",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-32.pdf",
+    "characters": 38287
+  },
+  {
+    "stage_id": "s3-32",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-32-en.pdf",
+    "status": "ok",
+    "path": "sources/s3-32-editorial-0.pdf",
+    "sha256": "8e62f2bb4d48c4d6e73941de2023affdfaf827249871d3f69eea162078986fcd",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-32-en.pdf",
+    "characters": 25098
+  },
+  {
+    "stage_id": "s3-33",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-33.pdf",
+    "status": "ok",
+    "path": "sources/s3-33-statement-0.pdf",
+    "sha256": "3de9be166fd9fd8ec075b2141d1656b28663006dddbc68249d07e0d75c885843",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-33.pdf",
+    "characters": 37136
+  },
+  {
+    "stage_id": "s3-33",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-33-en.pdf",
+    "status": "ok",
+    "path": "sources/s3-33-editorial-0.pdf",
+    "sha256": "4cde98fb98908bc10fa512b43c76dfa469b268e913c34219db0361063b731a25",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-33-en.pdf",
+    "characters": 33901
+  },
+  {
+    "stage_id": "s3-34",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-34.pdf",
+    "status": "ok",
+    "path": "sources/s3-34-statement-0.pdf",
+    "sha256": "963abdc65e3c048cbe449b75b9849d5a8c74f528c9a8af99030bb69f55a1285f",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-34.pdf",
+    "characters": 39161
+  },
+  {
+    "stage_id": "s3-34",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-34-ja.pdf",
+    "status": "ok",
+    "path": "sources/s3-34-editorial-0.pdf",
+    "sha256": "14cd816be18276b61ae3ff1c81dde4b6e5114ecdbc8977d5977042df59c23561",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-34-ja.pdf",
+    "characters": 9650
+  },
+  {
+    "stage_id": "s3-35",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-35.pdf",
+    "status": "ok",
+    "path": "sources/s3-35-statement-0.pdf",
+    "sha256": "ab0bc4b1f998f66eeaa9dd2cca5274f5a6dd4d401d9ff00829ec422dbb0a7e93",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-35.pdf",
+    "characters": 33322
+  },
+  {
+    "stage_id": "s3-35",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-35-en.pdf",
+    "status": "ok",
+    "path": "sources/s3-35-editorial-0.pdf",
+    "sha256": "1dff4c8915b15c5266cf389a6f75a54f8da05a7ddf32ed2d0c6c13a4ee8d953f",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-35-en.pdf",
+    "characters": 29779
+  },
+  {
+    "stage_id": "s3-39",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-39.pdf",
+    "status": "ok",
+    "path": "sources/s3-39-statement-0.pdf",
+    "sha256": "928adcd8268cacd8a54d039e01bc3bf3a6866e1e1bb0a9813e8a6ca94fe9606c",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-39.pdf",
+    "characters": 46614
+  },
+  {
+    "stage_id": "s3-39",
+    "kind": "editorial",
+    "url": "https://qoj.ac/blogs/1261",
+    "status": "ok",
+    "path": "sources/s3-39-editorial-0.html",
+    "sha256": "98c640e8224962ecb457b3971692fddfc37644a7bc981d6fcdca7bac25f8c45f",
+    "resolved_url": "https://qoj.ac/blog/jiangly/blogs/1261",
+    "characters": 8942
+  },
+  {
+    "stage_id": "s3-40",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-3-40.pdf",
+    "status": "ok",
+    "path": "sources/s3-40-statement-0.pdf",
+    "sha256": "42fc8ae609b9a13ee87253219f6e32f18005833443f8dcf9167f0e71544b2376",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-3-40.pdf",
+    "characters": 40062
+  },
+  {
+    "stage_id": "s3-40",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-3-40-pl.pdf",
+    "status": "ok",
+    "path": "sources/s3-40-editorial-0.pdf",
+    "sha256": "f8f307c80bc18ec184fe7fe7ecedea709580a58ab401f4ab611c9135612e2fc6",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-3-40-pl.pdf",
+    "characters": 164370
+  },
+  {
+    "stage_id": "s4-0",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-0.pdf",
+    "status": "ok",
+    "path": "sources/s4-0-statement-0.pdf",
+    "sha256": "34854c7c5ddac435353bbee97212c2c63ea4c05c6c22180f9f460c335957b343",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-0.pdf",
+    "characters": 48220
+  },
+  {
+    "stage_id": "s4-0",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-00-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-0-editorial-0.pdf",
+    "sha256": "be7a33a7bd44a3fcdfd3fa185b5ed2c56b4379fbe86e78d532b5fadbc38110d1",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-00-en.pdf",
+    "characters": 41335
+  },
+  {
+    "stage_id": "s4-1",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-1.pdf",
+    "status": "ok",
+    "path": "sources/s4-1-statement-0.pdf",
+    "sha256": "d8a18e6944acc0eeafb7b11179fd8c733aaa451daa2971b7aaf31fd0dd7b4ab1",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-1.pdf",
+    "characters": 23817
+  },
+  {
+    "stage_id": "s4-1",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-01-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-1-editorial-0.pdf",
+    "sha256": "8588a50a77d2fc9fc41ac3a0e7a0d57aec63a58cac099a09a8b793594db8c3a0",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-01-en.pdf",
+    "characters": 20380
+  },
+  {
+    "stage_id": "s4-2",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-2.pdf",
+    "status": "ok",
+    "path": "sources/s4-2-statement-0.pdf",
+    "sha256": "dc7121964cb46b9454022f4f03871c4a489b19e03d202a36b798e33369a1df47",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-2.pdf",
+    "characters": 48592
+  },
+  {
+    "stage_id": "s4-2",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-02-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-2-editorial-0.pdf",
+    "sha256": "5cc943d3fc98231914cf54b4c5ea315cec5c90edc40cd590ead5f247c858db05",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-02-en.pdf",
+    "characters": 33751
+  },
+  {
+    "stage_id": "s4-3",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-3.pdf",
+    "status": "ok",
+    "path": "sources/s4-3-statement-0.pdf",
+    "sha256": "77c77c2e97c38afe2a1f78294fb8e426d9d8c8c520922924cc5e570182932b97",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-3.pdf",
+    "characters": 26923
+  },
+  {
+    "stage_id": "s4-3",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-03-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-3-editorial-0.pdf",
+    "sha256": "415d791404e76204b7f49f211fcbb11cfc89114c12e4edea7c9e51fdc69b54de",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-03-en.pdf",
+    "characters": 22924
+  },
+  {
+    "stage_id": "s4-8",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-8.pdf",
+    "status": "ok",
+    "path": "sources/s4-8-statement-0.pdf",
+    "sha256": "fdbd677a5d4a3a90f05fe5b325bc6921903fa51e3a3fedfee47157532b3595ae",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-8.pdf",
+    "characters": 50820
+  },
+  {
+    "stage_id": "s4-8",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-08-pl.pdf",
+    "status": "ok",
+    "path": "sources/s4-8-editorial-0.pdf",
+    "sha256": "b2abba1ca62cae47aa5c0de02a822ef385bf55ada780c0b2a38ce8ef395a119b",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-08-pl.pdf",
+    "characters": 36442
+  },
+  {
+    "stage_id": "s4-10",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-10.pdf",
+    "status": "ok",
+    "path": "sources/s4-10-statement-0.pdf",
+    "sha256": "8db8c552bcfcc413ad37b00c2b5e71e427fea059a62dd8f7d0db46f70bba919c",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-10.pdf",
+    "characters": 36634
+  },
+  {
+    "stage_id": "s4-10",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-10-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-10-editorial-0.pdf",
+    "sha256": "b40178010b595cceb75f6ded9d83543134711cee002c280442cff8edc7985c46",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-10-en.pdf",
+    "characters": 64024
+  },
+  {
+    "stage_id": "s4-11",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-11.pdf",
+    "status": "ok",
+    "path": "sources/s4-11-statement-0.pdf",
+    "sha256": "f5aabecefceebc2461ffb160cc131aea7f21c536695848e9f421b67659ba4c82",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-11.pdf",
+    "characters": 30230
+  },
+  {
+    "stage_id": "s4-11",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-11-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-11-editorial-0.pdf",
+    "sha256": "f5c7cc5478bb629d4469acfc151434169895da38f6888c7c5c0c615b0b72dccc",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-11-en.pdf",
+    "characters": 33922
+  },
+  {
+    "stage_id": "s4-13",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-13.pdf",
+    "status": "ok",
+    "path": "sources/s4-13-statement-0.pdf",
+    "sha256": "f0f1f3c04107b36fdb45f49e0a4e6afc580eba43a003c1456c3c4552e2a3e2ff",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-13.pdf",
+    "characters": 40920
+  },
+  {
+    "stage_id": "s4-13",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-13-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-13-editorial-0.pdf",
+    "sha256": "b3dab1da8da7ee67ca7a149a04ee107d4899c1d61efe5f681e991123963ae392",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-13-en.pdf",
+    "characters": 59706
+  },
+  {
+    "stage_id": "s4-16",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-16.pdf",
+    "status": "ok",
+    "path": "sources/s4-16-statement-0.pdf",
+    "sha256": "d6af868be89f925d20fea7e54635594072e5aaa9bbd685d99f3f98578a7aa669",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-16.pdf",
+    "characters": 30576
+  },
+  {
+    "stage_id": "s4-16",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-16-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-16-editorial-0.pdf",
+    "sha256": "43c756baa72a02ce8ce98cedef23c9aebcdfbd4b0d1d59ceaae91b8fb6cc5566",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-16-en.pdf",
+    "characters": 32533
+  },
+  {
+    "stage_id": "s4-17",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-17.pdf",
+    "status": "ok",
+    "path": "sources/s4-17-statement-0.pdf",
+    "sha256": "3a3b1a42b0dfeaed151d1268dc41d429b6ec21cf9a056b78738d00a523c10cf1",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-17.pdf",
+    "characters": 56001
+  },
+  {
+    "stage_id": "s4-17",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-17-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-17-editorial-0.pdf",
+    "sha256": "9280c258166071de310ecc6edcf7cf03e536729c1dbf747ae7281bdd6e8318e3",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-17-en.pdf",
+    "characters": 46987
+  },
+  {
+    "stage_id": "s4-18",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-18.pdf",
+    "status": "ok",
+    "path": "sources/s4-18-statement-0.pdf",
+    "sha256": "c989bc9d64a43456ef932c65fa8222488f0baa2b4170bc81cdc6eec4b7ff778f",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-18.pdf",
+    "characters": 37012
+  },
+  {
+    "stage_id": "s4-18",
+    "kind": "editorial",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial",
+    "status": "ok",
+    "path": "sources/s4-18-editorial-0.html",
+    "sha256": "c14c9fd72d74bad43573c4198026d66a727add1f9269ce9d4ebe9083e500e5fa",
+    "resolved_url": "https://atcoder.jp/contests/utpc2025/editorial",
+    "characters": 1588
+  },
+  {
+    "stage_id": "s4-19",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-19.pdf",
+    "status": "ok",
+    "path": "sources/s4-19-statement-0.pdf",
+    "sha256": "99457892e1300f9fa5de9a82a517f1fdafb4d7d93232dd2cfc4d3137392891f3",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-19.pdf",
+    "characters": 45703
+  },
+  {
+    "stage_id": "s4-19",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-19-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-19-editorial-0.pdf",
+    "sha256": "d813da85f6033f25f39a3c367520ed898443813b8f6c7edafdfe943001f1ba64",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-19-en.pdf",
+    "characters": 27041
+  },
+  {
+    "stage_id": "s4-20",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-20.pdf",
+    "status": "ok",
+    "path": "sources/s4-20-statement-0.pdf",
+    "sha256": "a77e97671be8588041548a0817d8c296a9a9319bd9fcc9310025ab668b9c2c12",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-20.pdf",
+    "characters": 34159
+  },
+  {
+    "stage_id": "s4-20",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-20-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-20-editorial-0.pdf",
+    "sha256": "a7aa68ac71d9e733d3226af9e48131ed3b71a64c6472406fc4c021ccb189947b",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-20-en.pdf",
+    "characters": 45157
+  },
+  {
+    "stage_id": "s4-21",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-21.pdf",
+    "status": "ok",
+    "path": "sources/s4-21-statement-0.pdf",
+    "sha256": "39a3af2a6fd47951bf1367e5e1ddbc3e861510268eb1f8ec0dbb208fa426290e",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-21.pdf",
+    "characters": 32718
+  },
+  {
+    "stage_id": "s4-21",
+    "kind": "editorial",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial",
+    "status": "ok",
+    "path": "sources/s4-21-editorial-0.html",
+    "sha256": "8064805d9813cbfc8282532d74fdcc2ad0f070be46de2863920578d68a30ee52",
+    "resolved_url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial",
+    "characters": 1648
+  },
+  {
+    "stage_id": "s4-22",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-22.pdf",
+    "status": "ok",
+    "path": "sources/s4-22-statement-0.pdf",
+    "sha256": "8243f161ae3aa4c21783981e1394fb9b58e95b098526c2ab893e3d1c8c4fd25f",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-22.pdf",
+    "characters": 43962
+  },
+  {
+    "stage_id": "s4-22",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-22-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-22-editorial-0.pdf",
+    "sha256": "158f1b8a57fbf5eb76adb84769be51455bd0f566bf9a84d999871844a3094999",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-22-en.pdf",
+    "characters": 35313
+  },
+  {
+    "stage_id": "s4-25",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-25.pdf",
+    "status": "ok",
+    "path": "sources/s4-25-statement-0.pdf",
+    "sha256": "47ff4e01e109328f4ebae1c302204ec7daba94ec4499a7a4e9e1aa51553282d5",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-25.pdf",
+    "characters": 33236
+  },
+  {
+    "stage_id": "s4-25",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-25-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-25-editorial-0.pdf",
+    "sha256": "a0ae810c0240dbee0530b24c4e2fb2e10fa397325a88c614b5ae4f9efec34dbf",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-25-en.pdf",
+    "characters": 27442
+  },
+  {
+    "stage_id": "s4-Extra-3",
+    "kind": "statement",
+    "url": "https://ucup.ac/statements/statements-4-e3.pdf",
+    "status": "ok",
+    "path": "sources/s4-Extra-3-statement-0.pdf",
+    "sha256": "212a183294a75b880f1bab2903f831995df9a8d65274381ea588c48c6d5be4db",
+    "resolved_url": "https://assets.ucup.ac/statements/statements-4-e3.pdf",
+    "characters": 33685
+  },
+  {
+    "stage_id": "s4-Extra-3",
+    "kind": "editorial",
+    "url": "https://ucup.ac/tutorials/tutorials-4-e3-en.pdf",
+    "status": "ok",
+    "path": "sources/s4-Extra-3-editorial-0.pdf",
+    "sha256": "072bd02db3fb18822fd811edbdbb99eb94cd8f8b19e36c34689630e406deceac",
+    "resolved_url": "https://assets.ucup.ac/tutorials/tutorials-4-e3-en.pdf",
+    "characters": 13455
+  },
+  {
+    "stage_id": "s1-3",
+    "kind": "statement",
+    "url": "https://contest.ucup.ac/files/ucup/statements/statements-1-3.pdf",
+    "status": "ok",
+    "path": "sources/s1-3-statement-1.pdf",
+    "sha256": "017097bd44432d8a6af23a375c86bea951014cce1875c19eafe98c685215b973",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/statements/statements-1-3.pdf",
+    "characters": 53113
+  },
+  {
+    "stage_id": "s1-4",
+    "kind": "statement",
+    "url": "https://contest.ucup.ac/files/ucup/statements/statements-1-4.pdf",
+    "status": "ok",
+    "path": "sources/s1-4-statement-1.pdf",
+    "sha256": "66e26564b5c205ff62a54b9a14a307c2a12acca28c42080086caa086bbfbbe8d",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/statements/statements-1-4.pdf",
+    "characters": 36689
+  },
+  {
+    "stage_id": "s1-4",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-4.pdf",
+    "status": "ok",
+    "path": "sources/s1-4-editorial-1.pdf",
+    "sha256": "7df0d76c88e6901e347adf45b44339c77d698d9c7bec1633b1d968888d461c2e",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-4.pdf",
+    "characters": 44397
+  },
+  {
+    "stage_id": "s1-5",
+    "kind": "statement",
+    "url": "https://contest.ucup.ac/files/ucup/statements/statements-1-5.pdf",
+    "status": "ok",
+    "path": "sources/s1-5-statement-1.pdf",
+    "sha256": "b5acfc74c82197d30ea9d84a6ec2ca02685efa140ec6f879eef307938058768b",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/statements/statements-1-5.pdf",
+    "characters": 22154
+  },
+  {
+    "stage_id": "s1-5",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-5.pdf",
+    "status": "ok",
+    "path": "sources/s1-5-editorial-1.pdf",
+    "sha256": "e708655ddf69cbfcfb4b43433852bb67c3098002bb321dfdac6fd79d4595b408",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-5.pdf",
+    "characters": 68
+  },
+  {
+    "stage_id": "s1-7",
+    "kind": "statement",
+    "url": "https://contest.ucup.ac/files/ucup/statements/statements-1-7.pdf",
+    "status": "ok",
+    "path": "sources/s1-7-statement-1.pdf",
+    "sha256": "970f68b301c6d0b88ffea1f1615b8c6d55ee39730a7f87a7439418cd2e1181d4",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/statements/statements-1-7.pdf",
+    "characters": 34618
+  },
+  {
+    "stage_id": "s1-7",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-7.pdf",
+    "status": "ok",
+    "path": "sources/s1-7-editorial-1.pdf",
+    "sha256": "70270eff893aaab7da916a616c67b5f73276427300feb9ed79e434dfaec2b248",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-7.pdf",
+    "characters": 51469
+  },
+  {
+    "stage_id": "s1-8",
+    "kind": "statement",
+    "url": "https://contest.ucup.ac/files/ucup/statements/statements-1-8.pdf",
+    "status": "ok",
+    "path": "sources/s1-8-statement-1.pdf",
+    "sha256": "47bc2752a21500ee22df41ef212f751f9d226822682bec91cda8b12d0d3c13bc",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/statements/statements-1-8.pdf",
+    "characters": 42048
+  },
+  {
+    "stage_id": "s1-8",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-8.pdf",
+    "status": "ok",
+    "path": "sources/s1-8-editorial-1.pdf",
+    "sha256": "7ec4b7a1c7afe6710e9893a2bbffdd8ebc6bf67abfec38088fa1435afeeef238",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-8.pdf",
+    "characters": 11896
+  },
+  {
+    "stage_id": "s1-12",
+    "kind": "statement",
+    "url": "https://contest.ucup.ac/files/ucup/statements/statements-1-12.pdf",
+    "status": "ok",
+    "path": "sources/s1-12-statement-1.pdf",
+    "sha256": "996eb4232d50982a6466ba6d763854879a75cab0dfeb1fa07d28744ba002bdb3",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/statements/statements-1-12.pdf",
+    "characters": 32359
+  },
+  {
+    "stage_id": "s1-12",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-12.pdf",
+    "status": "ok",
+    "path": "sources/s1-12-editorial-1.pdf",
+    "sha256": "248e81d7879fe92257bdaacc19e35dbf258eb5fdf9064c3a83a8164ccad589eb",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-12.pdf",
+    "characters": 30566
+  },
+  {
+    "stage_id": "s1-13",
+    "kind": "statement",
+    "url": "https://contest.ucup.ac/files/ucup/statements/statements-1-13.pdf",
+    "status": "ok",
+    "path": "sources/s1-13-statement-1.pdf",
+    "sha256": "4e3330f7453f5a305d186cb2ff5040d3a38c9d5e2a216791a2861840be897fdc",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/statements/statements-1-13.pdf",
+    "characters": 25981
+  },
+  {
+    "stage_id": "s1-13",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-13.pdf",
+    "status": "ok",
+    "path": "sources/s1-13-editorial-1.pdf",
+    "sha256": "5c3572ae02dd2daa6225e9f99d7575ee24b1395ac2e35eef4798a784b289a7d2",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-13.pdf",
+    "characters": 13291
+  },
+  {
+    "stage_id": "s1-16",
+    "kind": "statement",
+    "url": "https://contest.ucup.ac/files/ucup/statements/statements-1-16.pdf",
+    "status": "ok",
+    "path": "sources/s1-16-statement-1.pdf",
+    "sha256": "0bb88e78764cbae286d2b7a00473f9e2f22de6c9d697cb5f423605cc19723a22",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/statements/statements-1-16.pdf",
+    "characters": 26658
+  },
+  {
+    "stage_id": "s1-16",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-16.pdf",
+    "status": "ok",
+    "path": "sources/s1-16-editorial-1.pdf",
+    "sha256": "4648b67bd3bfe34ca20732ab9282ee119bc6cc1cced59c716d4697bd244c9c18",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-16.pdf",
+    "characters": 20525
+  },
+  {
+    "stage_id": "s1-19",
+    "kind": "statement",
+    "url": "https://contest.ucup.ac/files/ucup/statements/statements-1-19.pdf",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://contest.ucup.ac/files/ucup/statements/statements-1-19.pdf"
+  },
+  {
+    "stage_id": "s1-20",
+    "kind": "statement",
+    "url": "https://contest.ucup.ac/files/ucup/statements/statements-1-20.pdf",
+    "status": "ok",
+    "path": "sources/s1-20-statement-1.pdf",
+    "sha256": "f38634ba97088789a7b45bd5662bde25ca42442c63a0654a84b6e0bca25a65e0",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/statements/statements-1-20.pdf",
+    "characters": 33864
+  },
+  {
+    "stage_id": "s1-20",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-20.pdf",
+    "status": "ok",
+    "path": "sources/s1-20-editorial-1.pdf",
+    "sha256": "f25594e33380478a2ddc0869acf705ba3e745c7503fb03c8ef80452d373a3494",
+    "resolved_url": "https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-20.pdf",
+    "characters": 41460
+  },
+  {
+    "stage_id": "s2-5",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/download.php?type=attachments&id=1388&r=1",
+    "status": "ok",
+    "path": "sources/s2-5-editorial-2.pdf",
+    "sha256": "a0a13d5a182d4ae7f5135a8aad9181bb4880dbd32b1f74d974ecadd664c3601e",
+    "resolved_url": "https://contest.ucup.ac/download.php?type=attachments&id=1388&r=1",
+    "characters": 38986
+  },
+  {
+    "stage_id": "s5-1",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/download.php?type=attachments&id=4126&r=1",
+    "status": "ok",
+    "path": "sources/s5-1-editorial-2.pdf",
+    "sha256": "d15d98e575a7a71f7c15245e29b7f9e4ac0ad21e42e852921011e95a7c00504d",
+    "resolved_url": "https://contest.ucup.ac/download.php?type=attachments&id=4126&r=1",
+    "characters": 90738
+  },
+  {
+    "stage_id": "s5-3",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/download.php?type=attachments&id=4565&r=1",
+    "status": "ok",
+    "path": "sources/s5-3-editorial-2.pdf",
+    "sha256": "80a106341af548a48693d93531ad0adf5823268628a5414bb1fdda3aa0ad0008",
+    "resolved_url": "https://contest.ucup.ac/download.php?type=attachments&id=4565&r=1",
+    "characters": 68156
+  },
+  {
+    "stage_id": "s5-6",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/download.php?type=attachments&id=4617&r=1",
+    "status": "ok",
+    "path": "sources/s5-6-editorial-2.pdf",
+    "sha256": "f058098b8d967d4e3a90192798a3b10feb36a984fa106af3c6afce5c9790177e",
+    "resolved_url": "https://contest.ucup.ac/download.php?type=attachments&id=4617&r=1",
+    "characters": 98531
+  },
+  {
+    "stage_id": "s2-5",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/download.php?type=attachments&id=1388&r=2",
+    "status": "ok",
+    "path": "sources/s2-5-editorial-3.pdf",
+    "sha256": "927adaeafa43bc6fe68f4f5aeb7d7abfa83ea9631d152ee1bcb87bd22e93ffc7",
+    "resolved_url": "https://contest.ucup.ac/download.php?type=attachments&id=1388&r=2",
+    "characters": 20879
+  },
+  {
+    "stage_id": "s2-5",
+    "kind": "editorial",
+    "url": "https://contest.ucup.ac/download.php?type=attachments&id=1388&r=3",
+    "status": "ok",
+    "path": "sources/s2-5-editorial-4.pdf",
+    "sha256": "671ffbc6291e44f1aeb4ed5e96fdaa3dedb1278b580718f54f9ceba378438cbe",
+    "resolved_url": "https://contest.ucup.ac/download.php?type=attachments&id=1388&r=3",
+    "characters": 6046
+  },
+  {
+    "stage_id": "s2-26",
+    "kind": "editorial",
+    "url": "https://scorelatam.naquadah.com.br/pda24/editorial.pdf",
+    "status": "ok",
+    "path": "sources/s2-26-editorial-3.pdf",
+    "sha256": "382104703ebfa587b8527f2ea3f67c43a1b66a0592c254f8c3fb7a8743775d8f",
+    "resolved_url": "https://scorelatam.naquadah.com.br/pda24/editorial.pdf",
+    "characters": 49758
+  }
+]

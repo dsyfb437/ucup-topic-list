@@ -1,0 +1,6569 @@
+[
+  {
+    "id": "s1-3",
+    "season": 1,
+    "stage": "3",
+    "name": "Poland",
+    "date": "",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://universal-cup-website.qoj.ac/?season=1",
+    "statements": [
+      "https://assets.ucup.ac/statements/statements-1-3.pdf"
+    ],
+    "editorials": [],
+    "contest_url": "https://qoj.ac/contest/1103",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Aliases",
+        "url": "https://contest.ucup.ac/contest/1103/problem/5499"
+      },
+      {
+        "letter": "B",
+        "title": "Bars",
+        "url": "https://contest.ucup.ac/contest/1103/problem/5500"
+      },
+      {
+        "letter": "C",
+        "title": "Ctrl+C Ctrl+V",
+        "url": "https://contest.ucup.ac/contest/1103/problem/5501"
+      },
+      {
+        "letter": "D",
+        "title": "Dazzling Mountain",
+        "url": "https://contest.ucup.ac/contest/1103/problem/5502"
+      },
+      {
+        "letter": "E",
+        "title": "Euclidean Algorithm",
+        "url": "https://contest.ucup.ac/contest/1103/problem/5503"
+      },
+      {
+        "letter": "F",
+        "title": "Flower Garden",
+        "url": "https://contest.ucup.ac/contest/1103/problem/5504"
+      },
+      {
+        "letter": "G",
+        "title": "Great Chase",
+        "url": "https://contest.ucup.ac/contest/1103/problem/5505"
+      },
+      {
+        "letter": "H",
+        "title": "Hyperloop",
+        "url": "https://contest.ucup.ac/contest/1103/problem/5506"
+      },
+      {
+        "letter": "I",
+        "title": "Investors",
+        "url": "https://contest.ucup.ac/contest/1103/problem/5507"
+      },
+      {
+        "letter": "J",
+        "title": "Job for a Hobbit",
+        "url": "https://contest.ucup.ac/contest/1103/problem/5508"
+      },
+      {
+        "letter": "K",
+        "title": "Kooky Tic-Tac-Toe",
+        "url": "https://contest.ucup.ac/contest/1103/problem/5509"
+      },
+      {
+        "letter": "L",
+        "title": "Line Replacements",
+        "url": "https://contest.ucup.ac/contest/1103/problem/5510"
+      },
+      {
+        "letter": "M",
+        "title": "Minor Evil",
+        "url": "https://contest.ucup.ac/contest/1103/problem/5511"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s1-4",
+    "season": 1,
+    "stage": "4",
+    "name": "Ukraine",
+    "date": "",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://universal-cup-website.qoj.ac/?season=1",
+    "statements": [
+      "https://assets.ucup.ac/statements/statements-1-4.pdf"
+    ],
+    "editorials": [
+      "https://assets.ucup.ac/tutorials/tutorials-1-4.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1106",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Adjacent Product Sum",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5517"
+      },
+      {
+        "letter": "B",
+        "title": "Binary Arrays and Sliding Sums",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5518"
+      },
+      {
+        "letter": "C",
+        "title": "Count Hamiltonian Cycles",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5519"
+      },
+      {
+        "letter": "D",
+        "title": "Distance Parities",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5520"
+      },
+      {
+        "letter": "E",
+        "title": "Excellent XOR Problem",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5521"
+      },
+      {
+        "letter": "F",
+        "title": "F*** 3-Colorable Graphs",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5522"
+      },
+      {
+        "letter": "G",
+        "title": "Graph Problem With Small $n$",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5523"
+      },
+      {
+        "letter": "H",
+        "title": "Help Me to Get This Published",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5524"
+      },
+      {
+        "letter": "I",
+        "title": "Increasing Grid",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5525"
+      },
+      {
+        "letter": "J",
+        "title": "Jewel of Data Structure Problems",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5526"
+      },
+      {
+        "letter": "K",
+        "title": "King of Swapping",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5527"
+      },
+      {
+        "letter": "L",
+        "title": "Least Annoying Constructive Problem",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5528"
+      },
+      {
+        "letter": "M",
+        "title": "Most Annoying Constructive Problem",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5529"
+      },
+      {
+        "letter": "N",
+        "title": "No Zero-Sum Subsegment",
+        "url": "https://contest.ucup.ac/contest/1106/problem/5530"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1106&r=1"
+    ]
+  },
+  {
+    "id": "s1-5",
+    "season": 1,
+    "stage": "5",
+    "name": "Osijek",
+    "date": "",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://universal-cup-website.qoj.ac/?season=1",
+    "statements": [
+      "https://assets.ucup.ac/statements/statements-1-5.pdf"
+    ],
+    "editorials": [
+      "https://assets.ucup.ac/tutorials/tutorials-1-5.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1111",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "And Xor Tree",
+        "url": "https://contest.ucup.ac/contest/1111/problem/5566"
+      },
+      {
+        "letter": "B",
+        "title": "Balanced Permutations",
+        "url": "https://contest.ucup.ac/contest/1111/problem/5567"
+      },
+      {
+        "letter": "C",
+        "title": "Cyclic Shifts",
+        "url": "https://contest.ucup.ac/contest/1111/problem/5568"
+      },
+      {
+        "letter": "D",
+        "title": "Distinct Subsequences",
+        "url": "https://contest.ucup.ac/contest/1111/problem/5569"
+      },
+      {
+        "letter": "E",
+        "title": "Epidemic Escape",
+        "url": "https://contest.ucup.ac/contest/1111/problem/5570"
+      },
+      {
+        "letter": "F",
+        "title": "Five Letter Warning",
+        "url": "https://contest.ucup.ac/contest/1111/problem/5571"
+      },
+      {
+        "letter": "G",
+        "title": "Gridlandia",
+        "url": "https://contest.ucup.ac/contest/1111/problem/5572"
+      },
+      {
+        "letter": "H",
+        "title": "Holiday Regifting",
+        "url": "https://contest.ucup.ac/contest/1111/problem/5573"
+      },
+      {
+        "letter": "I",
+        "title": "Julienne the Deck",
+        "url": "https://contest.ucup.ac/contest/1111/problem/5574"
+      },
+      {
+        "letter": "J",
+        "title": "Knight's Tour Redux",
+        "url": "https://contest.ucup.ac/contest/1111/problem/5575"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1111&r=1"
+    ]
+  },
+  {
+    "id": "s1-7",
+    "season": 1,
+    "stage": "7",
+    "name": "Zaporizhzhia",
+    "date": "",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://universal-cup-website.qoj.ac/?season=1",
+    "statements": [
+      "https://assets.ucup.ac/statements/statements-1-7.pdf"
+    ],
+    "editorials": [
+      "https://assets.ucup.ac/tutorials/tutorials-1-7.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1129",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Square Sum",
+        "url": "https://contest.ucup.ac/contest/1129/problem/5738"
+      },
+      {
+        "letter": "B",
+        "title": "Super Meat Bros",
+        "url": "https://contest.ucup.ac/contest/1129/problem/5739"
+      },
+      {
+        "letter": "C",
+        "title": "Testing Subjects Usually Die",
+        "url": "https://contest.ucup.ac/contest/1129/problem/5740"
+      },
+      {
+        "letter": "D",
+        "title": "Triterminant",
+        "url": "https://contest.ucup.ac/contest/1129/problem/5741"
+      },
+      {
+        "letter": "E",
+        "title": "Garbage Disposal",
+        "url": "https://contest.ucup.ac/contest/1129/problem/5742"
+      },
+      {
+        "letter": "F",
+        "title": "Palindromic Polynomial",
+        "url": "https://contest.ucup.ac/contest/1129/problem/5743"
+      },
+      {
+        "letter": "G",
+        "title": "Palindromic Differences",
+        "url": "https://contest.ucup.ac/contest/1129/problem/5744"
+      },
+      {
+        "letter": "H",
+        "title": "Graph Isomorphism",
+        "url": "https://contest.ucup.ac/contest/1129/problem/5745"
+      },
+      {
+        "letter": "I",
+        "title": "DAG Generation",
+        "url": "https://contest.ucup.ac/contest/1129/problem/5746"
+      },
+      {
+        "letter": "J",
+        "title": "Persian Casino",
+        "url": "https://contest.ucup.ac/contest/1129/problem/5747"
+      },
+      {
+        "letter": "K",
+        "title": "Determinant, or...?",
+        "url": "https://contest.ucup.ac/contest/1129/problem/5748"
+      },
+      {
+        "letter": "L",
+        "title": "Directed Vertex Cacti",
+        "url": "https://contest.ucup.ac/contest/1129/problem/5749"
+      },
+      {
+        "letter": "M",
+        "title": "Siteswap",
+        "url": "https://contest.ucup.ac/contest/1129/problem/5750"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1129&r=1"
+    ]
+  },
+  {
+    "id": "s1-8",
+    "season": 1,
+    "stage": "8",
+    "name": "Slovenia",
+    "date": "",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://universal-cup-website.qoj.ac/?season=1",
+    "statements": [
+      "https://assets.ucup.ac/statements/statements-1-8.pdf"
+    ],
+    "editorials": [
+      "https://assets.ucup.ac/tutorials/tutorials-1-8.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1070",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Bandits",
+        "url": "https://contest.ucup.ac/contest/1070/problem/5249"
+      },
+      {
+        "letter": "B",
+        "title": "Combination Locks",
+        "url": "https://contest.ucup.ac/contest/1070/problem/5250"
+      },
+      {
+        "letter": "C",
+        "title": "Constellations",
+        "url": "https://contest.ucup.ac/contest/1070/problem/5251"
+      },
+      {
+        "letter": "D",
+        "title": "Deforestation",
+        "url": "https://contest.ucup.ac/contest/1070/problem/5252"
+      },
+      {
+        "letter": "E",
+        "title": "Denormalization",
+        "url": "https://contest.ucup.ac/contest/1070/problem/5253"
+      },
+      {
+        "letter": "F",
+        "title": "Differences",
+        "url": "https://contest.ucup.ac/contest/1070/problem/5254"
+      },
+      {
+        "letter": "G",
+        "title": "Greedy Drawers",
+        "url": "https://contest.ucup.ac/contest/1070/problem/5255"
+      },
+      {
+        "letter": "H",
+        "title": "Insertions",
+        "url": "https://contest.ucup.ac/contest/1070/problem/5256"
+      },
+      {
+        "letter": "I",
+        "title": "Money Laundering",
+        "url": "https://contest.ucup.ac/contest/1070/problem/5257"
+      },
+      {
+        "letter": "J",
+        "title": "Mortgage",
+        "url": "https://contest.ucup.ac/contest/1070/problem/5258"
+      },
+      {
+        "letter": "K",
+        "title": "Skills in Pills",
+        "url": "https://contest.ucup.ac/contest/1070/problem/5259"
+      },
+      {
+        "letter": "L",
+        "title": "The Game",
+        "url": "https://contest.ucup.ac/contest/1070/problem/5260"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1070&r=1"
+    ]
+  },
+  {
+    "id": "s1-12",
+    "season": 1,
+    "stage": "12",
+    "name": "Ōokayama",
+    "date": "",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://universal-cup-website.qoj.ac/?season=1",
+    "statements": [
+      "https://assets.ucup.ac/statements/statements-1-12.pdf"
+    ],
+    "editorials": [
+      "https://assets.ucup.ac/tutorials/tutorials-1-12.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1207",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "XOR Tree Path",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6317"
+      },
+      {
+        "letter": "B",
+        "title": "Magical Wallet",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6318"
+      },
+      {
+        "letter": "C",
+        "title": "Parallel Processing (Easy)",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6319"
+      },
+      {
+        "letter": "D",
+        "title": "Parallel Processing (Hard)",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6320"
+      },
+      {
+        "letter": "E",
+        "title": "Five Med Sum",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6321"
+      },
+      {
+        "letter": "F",
+        "title": "Forestry",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6322"
+      },
+      {
+        "letter": "G",
+        "title": "Range NEQ",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6323"
+      },
+      {
+        "letter": "H",
+        "title": "Expanded Hull",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6324"
+      },
+      {
+        "letter": "I",
+        "title": "Peaceful Results",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6325"
+      },
+      {
+        "letter": "J",
+        "title": "Make Convex Sequence",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6326"
+      },
+      {
+        "letter": "K",
+        "title": "Count Arithmetic Progression",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6327"
+      },
+      {
+        "letter": "L",
+        "title": "Many Products",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6328"
+      },
+      {
+        "letter": "M",
+        "title": "Colorful Graph",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6329"
+      },
+      {
+        "letter": "N",
+        "title": "XOR Reachable",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6330"
+      },
+      {
+        "letter": "O",
+        "title": "Jewel Game",
+        "url": "https://contest.ucup.ac/contest/1207/problem/6331"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1207&r=1"
+    ]
+  },
+  {
+    "id": "s1-13",
+    "season": 1,
+    "stage": "13",
+    "name": "Iberia",
+    "date": "",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://universal-cup-website.qoj.ac/?season=1",
+    "statements": [
+      "https://assets.ucup.ac/statements/statements-1-13.pdf"
+    ],
+    "editorials": [
+      "https://assets.ucup.ac/tutorials/tutorials-1-13.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1212",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "The Best Problem of 2021",
+        "url": "https://contest.ucup.ac/contest/1212/problem/6344"
+      },
+      {
+        "letter": "B",
+        "title": "Random Interactive Convex Hull Bot",
+        "url": "https://contest.ucup.ac/contest/1212/problem/6345"
+      },
+      {
+        "letter": "C",
+        "title": "Record Parity",
+        "url": "https://contest.ucup.ac/contest/1212/problem/6346"
+      },
+      {
+        "letter": "D",
+        "title": "XOR Determinant",
+        "url": "https://contest.ucup.ac/contest/1212/problem/6347"
+      },
+      {
+        "letter": "E",
+        "title": "Egor Has a Problem",
+        "url": "https://contest.ucup.ac/contest/1212/problem/6348"
+      },
+      {
+        "letter": "F",
+        "title": "Is This FFT?",
+        "url": "https://contest.ucup.ac/contest/1212/problem/6349"
+      },
+      {
+        "letter": "G",
+        "title": "MIT",
+        "url": "https://contest.ucup.ac/contest/1212/problem/6350"
+      },
+      {
+        "letter": "H",
+        "title": "Exact Subsequences",
+        "url": "https://contest.ucup.ac/contest/1212/problem/6351"
+      },
+      {
+        "letter": "I",
+        "title": "SPPPSPSS.",
+        "url": "https://contest.ucup.ac/contest/1212/problem/6352"
+      },
+      {
+        "letter": "J",
+        "title": "Kth Lex Min Min Min Subpalindromes",
+        "url": "https://contest.ucup.ac/contest/1212/problem/6353"
+      },
+      {
+        "letter": "K",
+        "title": "4",
+        "url": "https://contest.ucup.ac/contest/1212/problem/6354"
+      },
+      {
+        "letter": "L",
+        "title": "5",
+        "url": "https://contest.ucup.ac/contest/1212/problem/6355"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1212&r=2"
+    ]
+  },
+  {
+    "id": "s1-16",
+    "season": 1,
+    "stage": "16",
+    "name": "Gomel",
+    "date": "",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://universal-cup-website.qoj.ac/?season=1",
+    "statements": [
+      "https://assets.ucup.ac/statements/statements-1-16.pdf"
+    ],
+    "editorials": [
+      "https://assets.ucup.ac/tutorials/tutorials-1-16.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1223",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Classical A+B Problem",
+        "url": "https://contest.ucup.ac/contest/1223/problem/6407"
+      },
+      {
+        "letter": "B",
+        "title": "Classical Counting Problem",
+        "url": "https://contest.ucup.ac/contest/1223/problem/6408"
+      },
+      {
+        "letter": "C",
+        "title": "Classical Data Structure Problem",
+        "url": "https://contest.ucup.ac/contest/1223/problem/6409"
+      },
+      {
+        "letter": "D",
+        "title": "Classical DP Problem",
+        "url": "https://contest.ucup.ac/contest/1223/problem/6410"
+      },
+      {
+        "letter": "E",
+        "title": "Classical FFT Problem",
+        "url": "https://contest.ucup.ac/contest/1223/problem/6411"
+      },
+      {
+        "letter": "F",
+        "title": "Classical Geometry Problem",
+        "url": "https://contest.ucup.ac/contest/1223/problem/6412"
+      },
+      {
+        "letter": "G",
+        "title": "Classical Graph Theory Problem",
+        "url": "https://contest.ucup.ac/contest/1223/problem/6413"
+      },
+      {
+        "letter": "H",
+        "title": "Classical Maximization Problem",
+        "url": "https://contest.ucup.ac/contest/1223/problem/6414"
+      },
+      {
+        "letter": "I",
+        "title": "Classical Minimization Problem",
+        "url": "https://contest.ucup.ac/contest/1223/problem/6415"
+      },
+      {
+        "letter": "J",
+        "title": "Classical Scheduling Problem",
+        "url": "https://contest.ucup.ac/contest/1223/problem/6416"
+      },
+      {
+        "letter": "K",
+        "title": "Classical Summation Problem",
+        "url": "https://contest.ucup.ac/contest/1223/problem/6417"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1223&r=2"
+    ]
+  },
+  {
+    "id": "s1-19",
+    "season": 1,
+    "stage": "19",
+    "name": "America",
+    "date": "",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://universal-cup-website.qoj.ac/?season=1",
+    "statements": [
+      "https://assets.ucup.ac/statements/statements-1-19.pdf"
+    ],
+    "editorials": [],
+    "contest_url": "https://qoj.ac/contest/1248",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Allergen Testing",
+        "url": "https://contest.ucup.ac/contest/1248/problem/6558"
+      },
+      {
+        "letter": "B",
+        "title": "A Tree and Two Edges",
+        "url": "https://contest.ucup.ac/contest/1248/problem/6559"
+      },
+      {
+        "letter": "C",
+        "title": "Broken Minimum Spanning Tree",
+        "url": "https://contest.ucup.ac/contest/1248/problem/6560"
+      },
+      {
+        "letter": "D",
+        "title": "Fail Fast",
+        "url": "https://contest.ucup.ac/contest/1248/problem/6561"
+      },
+      {
+        "letter": "E",
+        "title": "First Last",
+        "url": "https://contest.ucup.ac/contest/1248/problem/6562"
+      },
+      {
+        "letter": "F",
+        "title": "Four Square",
+        "url": "https://contest.ucup.ac/contest/1248/problem/6563"
+      },
+      {
+        "letter": "G",
+        "title": "Frequent Flier",
+        "url": "https://contest.ucup.ac/contest/1248/problem/6564"
+      },
+      {
+        "letter": "H",
+        "title": "Game Show Elimination",
+        "url": "https://contest.ucup.ac/contest/1248/problem/6565"
+      },
+      {
+        "letter": "I",
+        "title": "Power of Divisors",
+        "url": "https://contest.ucup.ac/contest/1248/problem/6566"
+      },
+      {
+        "letter": "J",
+        "title": "Repetitive String Invention",
+        "url": "https://contest.ucup.ac/contest/1248/problem/6567"
+      },
+      {
+        "letter": "K",
+        "title": "Space Alignment",
+        "url": "https://contest.ucup.ac/contest/1248/problem/6568"
+      },
+      {
+        "letter": "L",
+        "title": "Splitting Pairs",
+        "url": "https://contest.ucup.ac/contest/1248/problem/6569"
+      },
+      {
+        "letter": "M",
+        "title": "Who Watches the Watchmen?",
+        "url": "https://contest.ucup.ac/contest/1248/problem/6570"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s1-20",
+    "season": 1,
+    "stage": "20",
+    "name": "India",
+    "date": "",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://universal-cup-website.qoj.ac/?season=1",
+    "statements": [
+      "https://assets.ucup.ac/statements/statements-1-20.pdf"
+    ],
+    "editorials": [
+      "https://assets.ucup.ac/tutorials/tutorials-1-20.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1259",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Maximum Bitwise OR",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6631"
+      },
+      {
+        "letter": "B",
+        "title": "Minimize Median",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6632"
+      },
+      {
+        "letter": "C",
+        "title": "Exam Requirements",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6633"
+      },
+      {
+        "letter": "D",
+        "title": "Central Subset",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6634"
+      },
+      {
+        "letter": "E",
+        "title": "Strange Keyboard",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6635"
+      },
+      {
+        "letter": "F",
+        "title": "Longest Strictly Increasing Sequence",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6636"
+      },
+      {
+        "letter": "G",
+        "title": "Perfect Strings",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6637"
+      },
+      {
+        "letter": "H",
+        "title": "Treelection",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6638"
+      },
+      {
+        "letter": "I",
+        "title": "Disk Tree",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6639"
+      },
+      {
+        "letter": "J",
+        "title": "Talk That Talk",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6640"
+      },
+      {
+        "letter": "K",
+        "title": "XOR Dice",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6641"
+      },
+      {
+        "letter": "L",
+        "title": "(1, 2) Nim",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6642"
+      },
+      {
+        "letter": "M",
+        "title": "Graphs and Colors",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6643"
+      },
+      {
+        "letter": "N",
+        "title": "Red Black Grid",
+        "url": "https://contest.ucup.ac/contest/1259/problem/6644"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1259&r=1"
+    ]
+  },
+  {
+    "id": "s2-1",
+    "season": 2,
+    "stage": "1",
+    "name": "Qingdao",
+    "date": "2023-09-02",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-2",
+    "season": 2,
+    "stage": "2",
+    "name": "SPb",
+    "date": "2023-09-09",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [
+      "https://ucup.ac/statements/statements-2-2.pdf",
+      "https://ucup.ac/statements/statements-2-2-ru.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-2-2.zip"
+    ],
+    "contest_url": "https://qoj.ac/contest/1356",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Mixed Messages",
+        "url": "https://contest.ucup.ac/contest/1356/problem/7175"
+      },
+      {
+        "letter": "B",
+        "title": "I Flipped The Calendar...",
+        "url": "https://contest.ucup.ac/contest/1356/problem/7176"
+      },
+      {
+        "letter": "C",
+        "title": "Many Many Cycles",
+        "url": "https://contest.ucup.ac/contest/1356/problem/7177"
+      },
+      {
+        "letter": "D",
+        "title": "Bishops",
+        "url": "https://contest.ucup.ac/contest/1356/problem/7178"
+      },
+      {
+        "letter": "E",
+        "title": "Fischer's Chess Guessing Game",
+        "url": "https://contest.ucup.ac/contest/1356/problem/7179"
+      },
+      {
+        "letter": "F",
+        "title": "Forward-Capturing Pawns",
+        "url": "https://contest.ucup.ac/contest/1356/problem/7180"
+      },
+      {
+        "letter": "G",
+        "title": "Graph Cuts",
+        "url": "https://contest.ucup.ac/contest/1356/problem/7181"
+      },
+      {
+        "letter": "H",
+        "title": "Very Sparse Table",
+        "url": "https://contest.ucup.ac/contest/1356/problem/7182"
+      },
+      {
+        "letter": "I",
+        "title": "Password",
+        "url": "https://contest.ucup.ac/contest/1356/problem/7183"
+      },
+      {
+        "letter": "J",
+        "title": "Transport Pluses",
+        "url": "https://contest.ucup.ac/contest/1356/problem/7184"
+      },
+      {
+        "letter": "K",
+        "title": "Poor Students",
+        "url": "https://contest.ucup.ac/contest/1356/problem/7185"
+      },
+      {
+        "letter": "L",
+        "title": "\"Memo\" Game With a Hint",
+        "url": "https://contest.ucup.ac/contest/1356/problem/7186"
+      },
+      {
+        "letter": "M",
+        "title": "Hardcore String Counting",
+        "url": "https://contest.ucup.ac/contest/1356/problem/7187"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1356&r=1",
+      "https://contest.ucup.ac/download.php?type=attachments&id=1356&r=2",
+      "https://contest.ucup.ac/download.php?type=attachments&id=1356&r=3"
+    ]
+  },
+  {
+    "id": "s2-3",
+    "season": 2,
+    "stage": "3",
+    "name": "Binjiang",
+    "date": "2023-09-30",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-4",
+    "season": 2,
+    "stage": "4",
+    "name": "Taipei",
+    "date": "2023-10-07",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-5",
+    "season": 2,
+    "stage": "5",
+    "name": "Northern",
+    "date": "2023-10-14",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [
+      "https://ucup.ac/statements/statements-2-5.pdf"
+    ],
+    "editorials": [],
+    "contest_url": "https://qoj.ac/contest/1388",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Greedy Bipartite Matching",
+        "url": "https://contest.ucup.ac/contest/1388/problem/6546"
+      },
+      {
+        "letter": "B",
+        "title": "Banshee",
+        "url": "https://contest.ucup.ac/contest/1388/problem/6547"
+      },
+      {
+        "letter": "C",
+        "title": "Courses",
+        "url": "https://contest.ucup.ac/contest/1388/problem/6548"
+      },
+      {
+        "letter": "D",
+        "title": "Two Missing Numbers",
+        "url": "https://contest.ucup.ac/contest/1388/problem/6549"
+      },
+      {
+        "letter": "E",
+        "title": "Elimination Race",
+        "url": "https://contest.ucup.ac/contest/1388/problem/6550"
+      },
+      {
+        "letter": "F",
+        "title": "Forever Young",
+        "url": "https://contest.ucup.ac/contest/1388/problem/6551"
+      },
+      {
+        "letter": "G",
+        "title": "Good and Lucky Matrices",
+        "url": "https://contest.ucup.ac/contest/1388/problem/6552"
+      },
+      {
+        "letter": "H",
+        "title": "Shared Memory Switch",
+        "url": "https://contest.ucup.ac/contest/1388/problem/6553"
+      },
+      {
+        "letter": "I",
+        "title": "Endless Road",
+        "url": "https://contest.ucup.ac/contest/1388/problem/6554"
+      },
+      {
+        "letter": "J",
+        "title": "Sets May Be Good",
+        "url": "https://contest.ucup.ac/contest/1388/problem/6555"
+      },
+      {
+        "letter": "K",
+        "title": "Text Editor",
+        "url": "https://contest.ucup.ac/contest/1388/problem/6556"
+      },
+      {
+        "letter": "L",
+        "title": "LCSLCSLCS",
+        "url": "https://contest.ucup.ac/contest/1388/problem/6557"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1388&r=1",
+      "https://contest.ucup.ac/download.php?type=attachments&id=1388&r=2",
+      "https://contest.ucup.ac/download.php?type=attachments&id=1388&r=3"
+    ]
+  },
+  {
+    "id": "s2-6",
+    "season": 2,
+    "stage": "6",
+    "name": "Warsaw",
+    "date": "2023-10-21",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [
+      "https://ucup.ac/statements/statements-2-6.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-2-6.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1398",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Digital Nim",
+        "url": "https://contest.ucup.ac/contest/1398/problem/7606"
+      },
+      {
+        "letter": "B",
+        "title": "The Doubling Game 2",
+        "url": "https://contest.ucup.ac/contest/1398/problem/7607"
+      },
+      {
+        "letter": "C",
+        "title": "Cliques",
+        "url": "https://contest.ucup.ac/contest/1398/problem/7608"
+      },
+      {
+        "letter": "D",
+        "title": "Colonization",
+        "url": "https://contest.ucup.ac/contest/1398/problem/7609"
+      },
+      {
+        "letter": "E",
+        "title": "Bus Lines",
+        "url": "https://contest.ucup.ac/contest/1398/problem/7610"
+      },
+      {
+        "letter": "F",
+        "title": "Max-Min",
+        "url": "https://contest.ucup.ac/contest/1398/problem/7611"
+      },
+      {
+        "letter": "G",
+        "title": "Matrix Inverse",
+        "url": "https://contest.ucup.ac/contest/1398/problem/7612"
+      },
+      {
+        "letter": "H",
+        "title": "Inverse Problem",
+        "url": "https://contest.ucup.ac/contest/1398/problem/7613"
+      },
+      {
+        "letter": "I",
+        "title": "Boxes",
+        "url": "https://contest.ucup.ac/contest/1398/problem/7614"
+      },
+      {
+        "letter": "J",
+        "title": "Sequence Folding",
+        "url": "https://contest.ucup.ac/contest/1398/problem/7615"
+      },
+      {
+        "letter": "K",
+        "title": "Jump Graph",
+        "url": "https://contest.ucup.ac/contest/1398/problem/7616"
+      },
+      {
+        "letter": "L",
+        "title": "Spectacle",
+        "url": "https://contest.ucup.ac/contest/1398/problem/7617"
+      },
+      {
+        "letter": "M",
+        "title": "Pattern Search",
+        "url": "https://contest.ucup.ac/contest/1398/problem/7618"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1398&r=1"
+    ]
+  },
+  {
+    "id": "s2-7",
+    "season": 2,
+    "stage": "7",
+    "name": "Two Capitals",
+    "date": "2023-10-28",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [
+      "https://ucup.ac/statements/statements-2-7.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-2-7.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1399",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Balanced Arrays",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7632"
+      },
+      {
+        "letter": "B",
+        "title": "Bins and Balls",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7633"
+      },
+      {
+        "letter": "C",
+        "title": "Cards",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7634"
+      },
+      {
+        "letter": "D",
+        "title": "Fairy Chess",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7635"
+      },
+      {
+        "letter": "E",
+        "title": "Fair Elections",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7636"
+      },
+      {
+        "letter": "F",
+        "title": "Exactly Three Neighbors",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7637"
+      },
+      {
+        "letter": "G",
+        "title": "Lake",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7638"
+      },
+      {
+        "letter": "H",
+        "title": "Forbidden Set",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7639"
+      },
+      {
+        "letter": "I",
+        "title": "Colorful Cycles",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7640"
+      },
+      {
+        "letter": "J",
+        "title": "Range Sets",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7641"
+      },
+      {
+        "letter": "K",
+        "title": "Integer Half-Sum",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7642"
+      },
+      {
+        "letter": "L",
+        "title": "esreveR Order",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7643"
+      },
+      {
+        "letter": "M",
+        "title": "Good Splits",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7644"
+      },
+      {
+        "letter": "N",
+        "title": "Shoes",
+        "url": "https://contest.ucup.ac/contest/1399/problem/7645"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1399&r=2"
+    ]
+  },
+  {
+    "id": "s2-8",
+    "season": 2,
+    "stage": "8",
+    "name": "Guilin",
+    "date": "2023-11-04",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-9",
+    "season": 2,
+    "stage": "9",
+    "name": "Qinhuangdao",
+    "date": "2023-11-11",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-10",
+    "season": 2,
+    "stage": "10",
+    "name": "Harbin",
+    "date": "2023-11-18",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-11",
+    "season": 2,
+    "stage": "11",
+    "name": "Nanjing",
+    "date": "2023-11-25",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-12",
+    "season": 2,
+    "stage": "12",
+    "name": "Hefei",
+    "date": "2023-12-02",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-13",
+    "season": 2,
+    "stage": "13",
+    "name": "Shenyang",
+    "date": "2023-12-09",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-14",
+    "season": 2,
+    "stage": "14",
+    "name": "Southeastern Europe",
+    "date": "2023-12-16",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [
+      "https://ucup.ac/statements/statements-2-14.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-2-14.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1452",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "AND-OR closure",
+        "url": "https://contest.ucup.ac/contest/1452/problem/7932"
+      },
+      {
+        "letter": "B",
+        "title": "Build Permutation",
+        "url": "https://contest.ucup.ac/contest/1452/problem/7933"
+      },
+      {
+        "letter": "C",
+        "title": "Christmas Sky",
+        "url": "https://contest.ucup.ac/contest/1452/problem/7934"
+      },
+      {
+        "letter": "D",
+        "title": "Distinct Game",
+        "url": "https://contest.ucup.ac/contest/1452/problem/7935"
+      },
+      {
+        "letter": "E",
+        "title": "Eliminate Tree",
+        "url": "https://contest.ucup.ac/contest/1452/problem/7936"
+      },
+      {
+        "letter": "F",
+        "title": "Fast XORting",
+        "url": "https://contest.ucup.ac/contest/1452/problem/7937"
+      },
+      {
+        "letter": "G",
+        "title": "Graph Race",
+        "url": "https://contest.ucup.ac/contest/1452/problem/7938"
+      },
+      {
+        "letter": "H",
+        "title": "High Towers",
+        "url": "https://contest.ucup.ac/contest/1452/problem/7939"
+      },
+      {
+        "letter": "I",
+        "title": "Impossible Numbers",
+        "url": "https://contest.ucup.ac/contest/1452/problem/7940"
+      },
+      {
+        "letter": "J",
+        "title": "Jackpot",
+        "url": "https://contest.ucup.ac/contest/1452/problem/7941"
+      },
+      {
+        "letter": "K",
+        "title": "$K$ Subsequences",
+        "url": "https://contest.ucup.ac/contest/1452/problem/7942"
+      },
+      {
+        "letter": "L",
+        "title": "LIS on Grid",
+        "url": "https://contest.ucup.ac/contest/1452/problem/7943"
+      },
+      {
+        "letter": "M",
+        "title": "Max Minus Min",
+        "url": "https://contest.ucup.ac/contest/1452/problem/7944"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1452&r=1"
+    ]
+  },
+  {
+    "id": "s2-15",
+    "season": 2,
+    "stage": "15",
+    "name": "Macau",
+    "date": "2023-12-23",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-16",
+    "season": 2,
+    "stage": "16",
+    "name": "Run Twice",
+    "date": "2023-12-30",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [
+      "https://ucup.ac/statements/statements-2-16.pdf",
+      "https://ucup.ac/statements/statements-2-16-ru.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-2-16.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1465",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Bracket-and-bar Sequences",
+        "url": "https://contest.ucup.ac/contest/1465/problem/4824"
+      },
+      {
+        "letter": "B",
+        "title": "Even and Odd Combinations",
+        "url": "https://contest.ucup.ac/contest/1465/problem/4825"
+      },
+      {
+        "letter": "C",
+        "title": "Find the Parts",
+        "url": "https://contest.ucup.ac/contest/1465/problem/4826"
+      },
+      {
+        "letter": "D",
+        "title": "Message Made of Noise",
+        "url": "https://contest.ucup.ac/contest/1465/problem/4827"
+      },
+      {
+        "letter": "E",
+        "title": "Four Plus Four",
+        "url": "https://contest.ucup.ac/contest/1465/problem/4828"
+      },
+      {
+        "letter": "F",
+        "title": "Mark on a Graph",
+        "url": "https://contest.ucup.ac/contest/1465/problem/4829"
+      },
+      {
+        "letter": "G",
+        "title": "Transfer of Duty",
+        "url": "https://contest.ucup.ac/contest/1465/problem/4830"
+      },
+      {
+        "letter": "H",
+        "title": "Eager Sorting",
+        "url": "https://contest.ucup.ac/contest/1465/problem/4831"
+      },
+      {
+        "letter": "I",
+        "title": "Telepathy",
+        "url": "https://contest.ucup.ac/contest/1465/problem/4832"
+      },
+      {
+        "letter": "J",
+        "title": "Tetra-puzzle",
+        "url": "https://contest.ucup.ac/contest/1465/problem/4833"
+      },
+      {
+        "letter": "K",
+        "title": "Trijection",
+        "url": "https://contest.ucup.ac/contest/1465/problem/4834"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1465&r=3"
+    ]
+  },
+  {
+    "id": "s2-17",
+    "season": 2,
+    "stage": "17",
+    "name": "Jinan",
+    "date": "2024-01-06",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-18",
+    "season": 2,
+    "stage": "18",
+    "name": "Dolgoprudny",
+    "date": "2024-01-13",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [
+      "https://ucup.ac/statements/statements-2-18.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-2-18.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1475",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Anti-Plagiarism",
+        "url": "https://contest.ucup.ac/contest/1475/problem/8003"
+      },
+      {
+        "letter": "B",
+        "title": "Bit Component",
+        "url": "https://contest.ucup.ac/contest/1475/problem/8004"
+      },
+      {
+        "letter": "C",
+        "title": "Crossing the Border",
+        "url": "https://contest.ucup.ac/contest/1475/problem/8005"
+      },
+      {
+        "letter": "D",
+        "title": "Dinosaur Bones Digging",
+        "url": "https://contest.ucup.ac/contest/1475/problem/8006"
+      },
+      {
+        "letter": "E",
+        "title": "Egg Drop Challenge",
+        "url": "https://contest.ucup.ac/contest/1475/problem/8007"
+      },
+      {
+        "letter": "F",
+        "title": "Fortune Wheel",
+        "url": "https://contest.ucup.ac/contest/1475/problem/8008"
+      },
+      {
+        "letter": "G",
+        "title": "Growing Sequences",
+        "url": "https://contest.ucup.ac/contest/1475/problem/8009"
+      },
+      {
+        "letter": "H",
+        "title": "Hierarchies of Judges",
+        "url": "https://contest.ucup.ac/contest/1475/problem/8010"
+      },
+      {
+        "letter": "I",
+        "title": "Institute",
+        "url": "https://contest.ucup.ac/contest/1475/problem/8011"
+      },
+      {
+        "letter": "J",
+        "title": "Jumping Lights",
+        "url": "https://contest.ucup.ac/contest/1475/problem/8012"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1475&r=1"
+    ]
+  },
+  {
+    "id": "s2-19",
+    "season": 2,
+    "stage": "19",
+    "name": "Estonia",
+    "date": "2024-01-20",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [
+      "https://ucup.ac/statements/statements-2-19.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-2-19.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1487",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Alternating Paths",
+        "url": "https://contest.ucup.ac/contest/1487/problem/8128"
+      },
+      {
+        "letter": "B",
+        "title": "Binary Sequence",
+        "url": "https://contest.ucup.ac/contest/1487/problem/8129"
+      },
+      {
+        "letter": "C",
+        "title": "Yet Another Balanced Coloring Problem",
+        "url": "https://contest.ucup.ac/contest/1487/problem/8130"
+      },
+      {
+        "letter": "D",
+        "title": "Filesystem",
+        "url": "https://contest.ucup.ac/contest/1487/problem/8131"
+      },
+      {
+        "letter": "E",
+        "title": "Freshman's Dream",
+        "url": "https://contest.ucup.ac/contest/1487/problem/8132"
+      },
+      {
+        "letter": "F",
+        "title": "When Anton Saw This Task He Reacted With 😩",
+        "url": "https://contest.ucup.ac/contest/1487/problem/8133"
+      },
+      {
+        "letter": "G",
+        "title": "LCA Counting",
+        "url": "https://contest.ucup.ac/contest/1487/problem/8134"
+      },
+      {
+        "letter": "H",
+        "title": "Minimum Cost Flow²",
+        "url": "https://contest.ucup.ac/contest/1487/problem/8135"
+      },
+      {
+        "letter": "I",
+        "title": "Rebellious Edge",
+        "url": "https://contest.ucup.ac/contest/1487/problem/8136"
+      },
+      {
+        "letter": "J",
+        "title": "'Ello, and What Are You After, Then?",
+        "url": "https://contest.ucup.ac/contest/1487/problem/8137"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1487&r=1"
+    ]
+  },
+  {
+    "id": "s2-20",
+    "season": 2,
+    "stage": "20",
+    "name": "Ōokayama",
+    "date": "2024-01-27",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [
+      "https://ucup.ac/statements/statements-2-20.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-2-20.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1499",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Numerous Elimination",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8165"
+      },
+      {
+        "letter": "B",
+        "title": "Almost Large",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8166"
+      },
+      {
+        "letter": "C",
+        "title": "Yet Another Simple Math Problem",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8167"
+      },
+      {
+        "letter": "D",
+        "title": "Spacecraft",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8168"
+      },
+      {
+        "letter": "E",
+        "title": "R-Connected Components",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8169"
+      },
+      {
+        "letter": "F",
+        "title": "$N^a (\\log N)^b$",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8170"
+      },
+      {
+        "letter": "G",
+        "title": "Cola",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8171"
+      },
+      {
+        "letter": "H",
+        "title": "404 Chotto Found",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8172"
+      },
+      {
+        "letter": "I",
+        "title": "T Tile Placement Counting",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8173"
+      },
+      {
+        "letter": "J",
+        "title": "Set Construction",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8174"
+      },
+      {
+        "letter": "K",
+        "title": "Dense Planting",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8175"
+      },
+      {
+        "letter": "L",
+        "title": "Next TTPC 3",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8176"
+      },
+      {
+        "letter": "M",
+        "title": "Sum is Integer",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8177"
+      },
+      {
+        "letter": "N",
+        "title": "Bracket Sequestion",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8178"
+      },
+      {
+        "letter": "O",
+        "title": "2D Parentheses",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8179"
+      },
+      {
+        "letter": "P",
+        "title": "Bridge Elimination",
+        "url": "https://contest.ucup.ac/contest/1499/problem/8180"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1499&r=1"
+    ]
+  },
+  {
+    "id": "s2-21",
+    "season": 2,
+    "stage": "21",
+    "name": "Delft",
+    "date": "2024-02-03",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [
+      "https://ucup.ac/statements/statements-2-21.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-2-21.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1511",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Anton's ABCD",
+        "url": "https://contest.ucup.ac/contest/1511/problem/8207"
+      },
+      {
+        "letter": "B",
+        "title": "Beer Circuits",
+        "url": "https://contest.ucup.ac/contest/1511/problem/8208"
+      },
+      {
+        "letter": "C",
+        "title": "Curly Palindromes",
+        "url": "https://contest.ucup.ac/contest/1511/problem/8209"
+      },
+      {
+        "letter": "D",
+        "title": "Division 3 Polyglot",
+        "url": "https://contest.ucup.ac/contest/1511/problem/8210"
+      },
+      {
+        "letter": "E",
+        "title": "Enumerating Substrings",
+        "url": "https://contest.ucup.ac/contest/1511/problem/8211"
+      },
+      {
+        "letter": "F",
+        "title": "Football in Osijek",
+        "url": "https://contest.ucup.ac/contest/1511/problem/8212"
+      },
+      {
+        "letter": "G",
+        "title": "Graffiti",
+        "url": "https://contest.ucup.ac/contest/1511/problem/8213"
+      },
+      {
+        "letter": "H",
+        "title": "Huge Oil Platform",
+        "url": "https://contest.ucup.ac/contest/1511/problem/8214"
+      },
+      {
+        "letter": "I",
+        "title": "Isomorphic Delight",
+        "url": "https://contest.ucup.ac/contest/1511/problem/8215"
+      },
+      {
+        "letter": "J",
+        "title": "Jumbled Primes",
+        "url": "https://contest.ucup.ac/contest/1511/problem/8216"
+      },
+      {
+        "letter": "K",
+        "title": "King's Dinner",
+        "url": "https://contest.ucup.ac/contest/1511/problem/8217"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1511&r=1"
+    ]
+  },
+  {
+    "id": "s2-22",
+    "season": 2,
+    "stage": "22",
+    "name": "Hangzhou",
+    "date": "2024-02-10",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-23",
+    "season": 2,
+    "stage": "23",
+    "name": "Shanghai",
+    "date": "2024-02-17",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-24",
+    "season": 2,
+    "stage": "24",
+    "name": "Chongqing",
+    "date": "2024-02-24",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-25",
+    "season": 2,
+    "stage": "25",
+    "name": "Shenzhen",
+    "date": "2024-03-09",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-26",
+    "season": 2,
+    "stage": "26",
+    "name": "Latin America",
+    "date": "2024-03-23",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [
+      "https://ucup.ac/statements/statements-2-26.pdf"
+    ],
+    "editorials": [],
+    "contest_url": "https://qoj.ac/contest/1576",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Almost Aligned",
+        "url": "https://contest.ucup.ac/contest/1576/problem/8505"
+      },
+      {
+        "letter": "B",
+        "title": "Beating the Record",
+        "url": "https://contest.ucup.ac/contest/1576/problem/8506"
+      },
+      {
+        "letter": "C",
+        "title": "Clever Cell Choices",
+        "url": "https://contest.ucup.ac/contest/1576/problem/8507"
+      },
+      {
+        "letter": "D",
+        "title": "DiviDuelo",
+        "url": "https://contest.ucup.ac/contest/1576/problem/8508"
+      },
+      {
+        "letter": "E",
+        "title": "Expanding STACKS!",
+        "url": "https://contest.ucup.ac/contest/1576/problem/8509"
+      },
+      {
+        "letter": "F",
+        "title": "Fair Distribution",
+        "url": "https://contest.ucup.ac/contest/1576/problem/8510"
+      },
+      {
+        "letter": "G",
+        "title": "Greek Casino",
+        "url": "https://contest.ucup.ac/contest/1576/problem/8511"
+      },
+      {
+        "letter": "H",
+        "title": "Harmonic Operations",
+        "url": "https://contest.ucup.ac/contest/1576/problem/8512"
+      },
+      {
+        "letter": "I",
+        "title": "Insects, Mathematics, Accuracy, and Efficiency",
+        "url": "https://contest.ucup.ac/contest/1576/problem/8513"
+      },
+      {
+        "letter": "J",
+        "title": "Joys of Trading",
+        "url": "https://contest.ucup.ac/contest/1576/problem/8514"
+      },
+      {
+        "letter": "K",
+        "title": "KMOP",
+        "url": "https://contest.ucup.ac/contest/1576/problem/8515"
+      },
+      {
+        "letter": "L",
+        "title": "LED Matrix",
+        "url": "https://contest.ucup.ac/contest/1576/problem/8516"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s2-27",
+    "season": 2,
+    "stage": "27",
+    "name": "India",
+    "date": "2024-04-06",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [
+      "https://ucup.ac/statements/statements-2-27.pdf"
+    ],
+    "editorials": [],
+    "contest_url": "https://qoj.ac/contest/1586",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Basic Blooms",
+        "url": "https://contest.ucup.ac/contest/1586/problem/8565"
+      },
+      {
+        "letter": "B",
+        "title": "Can We Still Qualify For Semifinals?",
+        "url": "https://contest.ucup.ac/contest/1586/problem/8566"
+      },
+      {
+        "letter": "C",
+        "title": "Cheap Construction",
+        "url": "https://contest.ucup.ac/contest/1586/problem/8567"
+      },
+      {
+        "letter": "D",
+        "title": "Expected Diameter",
+        "url": "https://contest.ucup.ac/contest/1586/problem/8568"
+      },
+      {
+        "letter": "E",
+        "title": "Generalized Collatz Conjecture",
+        "url": "https://contest.ucup.ac/contest/1586/problem/8569"
+      },
+      {
+        "letter": "F",
+        "title": "Idola-Tree",
+        "url": "https://contest.ucup.ac/contest/1586/problem/8570"
+      },
+      {
+        "letter": "G",
+        "title": "Palworld",
+        "url": "https://contest.ucup.ac/contest/1586/problem/8571"
+      },
+      {
+        "letter": "H",
+        "title": "Passing Game",
+        "url": "https://contest.ucup.ac/contest/1586/problem/8572"
+      },
+      {
+        "letter": "I",
+        "title": "Slothful Secretary",
+        "url": "https://contest.ucup.ac/contest/1586/problem/8573"
+      },
+      {
+        "letter": "J",
+        "title": "Swirly Sort",
+        "url": "https://contest.ucup.ac/contest/1586/problem/8574"
+      },
+      {
+        "letter": "K",
+        "title": "Three Person Tree Game",
+        "url": "https://contest.ucup.ac/contest/1586/problem/8575"
+      },
+      {
+        "letter": "L",
+        "title": "Symphony in c++ major",
+        "url": "https://contest.ucup.ac/contest/1586/problem/8576"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s2-28",
+    "season": 2,
+    "stage": "28",
+    "name": "Chengdu",
+    "date": "2024.04.10 to 2024.04.13*",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season2/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-0",
+    "season": 3,
+    "stage": "0",
+    "name": "America",
+    "date": "2024-06-01",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-0.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-00-en.pdf",
+      "https://qoj.ac/blogs/885"
+    ],
+    "contest_url": "https://qoj.ac/contest/1695",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Arrested Development",
+        "url": "https://contest.ucup.ac/contest/1695/problem/8768"
+      },
+      {
+        "letter": "B",
+        "title": "Champernowne Substring",
+        "url": "https://contest.ucup.ac/contest/1695/problem/8769"
+      },
+      {
+        "letter": "C",
+        "title": "Comparator",
+        "url": "https://contest.ucup.ac/contest/1695/problem/8770"
+      },
+      {
+        "letter": "D",
+        "title": "Dihedral Group",
+        "url": "https://contest.ucup.ac/contest/1695/problem/8771"
+      },
+      {
+        "letter": "E",
+        "title": "House Deconstruction",
+        "url": "https://contest.ucup.ac/contest/1695/problem/8772"
+      },
+      {
+        "letter": "F",
+        "title": "Magic Bean",
+        "url": "https://contest.ucup.ac/contest/1695/problem/8773"
+      },
+      {
+        "letter": "G",
+        "title": "Manhattan Walk",
+        "url": "https://contest.ucup.ac/contest/1695/problem/8774"
+      },
+      {
+        "letter": "H",
+        "title": "MountainCraft",
+        "url": "https://contest.ucup.ac/contest/1695/problem/8775"
+      },
+      {
+        "letter": "I",
+        "title": "Not Another Constructive!",
+        "url": "https://contest.ucup.ac/contest/1695/problem/8776"
+      },
+      {
+        "letter": "J",
+        "title": "Passport Stamps",
+        "url": "https://contest.ucup.ac/contest/1695/problem/8777"
+      },
+      {
+        "letter": "K",
+        "title": "Shadow Line",
+        "url": "https://contest.ucup.ac/contest/1695/problem/8778"
+      },
+      {
+        "letter": "L",
+        "title": "Square of Triangles",
+        "url": "https://contest.ucup.ac/contest/1695/problem/8779"
+      },
+      {
+        "letter": "M",
+        "title": "Training, Round 2",
+        "url": "https://contest.ucup.ac/contest/1695/problem/8780"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s3-1",
+    "season": 3,
+    "stage": "1",
+    "name": "St. Petersburg",
+    "date": "2024-06-08",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-1.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-01-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1696",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Element-Wise Comparison",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8781"
+      },
+      {
+        "letter": "B",
+        "title": "Schoolgirls",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8782"
+      },
+      {
+        "letter": "C",
+        "title": "Cherry Picking",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8783"
+      },
+      {
+        "letter": "D",
+        "title": "Dwarfs' Bedtime",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8784"
+      },
+      {
+        "letter": "E",
+        "title": "Fake Coin and Lying Scales",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8785"
+      },
+      {
+        "letter": "F",
+        "title": "The Whole World",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8786"
+      },
+      {
+        "letter": "G",
+        "title": "Unusual Case",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8787"
+      },
+      {
+        "letter": "H",
+        "title": "Page on vdome.com",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8788"
+      },
+      {
+        "letter": "I",
+        "title": "Spin & Rotate!",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8789"
+      },
+      {
+        "letter": "J",
+        "title": "First Billion",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8790"
+      },
+      {
+        "letter": "K",
+        "title": "Tasks and Bugs",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8791"
+      },
+      {
+        "letter": "L",
+        "title": "Candies",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8792"
+      },
+      {
+        "letter": "M",
+        "title": "Toilets",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8793"
+      },
+      {
+        "letter": "N",
+        "title": "(Un)labeled graphs",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8794"
+      },
+      {
+        "letter": "O",
+        "title": "Mysterious Sequence",
+        "url": "https://contest.ucup.ac/contest/1696/problem/8795"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1696&r=1"
+    ]
+  },
+  {
+    "id": "s3-2",
+    "season": 3,
+    "stage": "2",
+    "name": "Zielona Gora",
+    "date": "2024-06-15",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-2.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-02-en.pdf",
+      "https://qoj.ac/blogs/936"
+    ],
+    "contest_url": "https://qoj.ac/contest/1699",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Interesting Paths",
+        "url": "https://contest.ucup.ac/contest/1699/problem/8517"
+      },
+      {
+        "letter": "B",
+        "title": "Roars III",
+        "url": "https://contest.ucup.ac/contest/1699/problem/8518"
+      },
+      {
+        "letter": "C",
+        "title": "Radars",
+        "url": "https://contest.ucup.ac/contest/1699/problem/8519"
+      },
+      {
+        "letter": "D",
+        "title": "Xor Partitions",
+        "url": "https://contest.ucup.ac/contest/1699/problem/8520"
+      },
+      {
+        "letter": "E",
+        "title": "Pattern Search II",
+        "url": "https://contest.ucup.ac/contest/1699/problem/8521"
+      },
+      {
+        "letter": "F",
+        "title": "Waterfall Matrix",
+        "url": "https://contest.ucup.ac/contest/1699/problem/8522"
+      },
+      {
+        "letter": "G",
+        "title": "Puzzle II",
+        "url": "https://contest.ucup.ac/contest/1699/problem/8523"
+      },
+      {
+        "letter": "H",
+        "title": "Weather Forecast",
+        "url": "https://contest.ucup.ac/contest/1699/problem/8524"
+      },
+      {
+        "letter": "I",
+        "title": "Mercenaries",
+        "url": "https://contest.ucup.ac/contest/1699/problem/8525"
+      },
+      {
+        "letter": "J",
+        "title": "Polygon II",
+        "url": "https://contest.ucup.ac/contest/1699/problem/8526"
+      },
+      {
+        "letter": "K",
+        "title": "Power Divisions",
+        "url": "https://contest.ucup.ac/contest/1699/problem/8527"
+      },
+      {
+        "letter": "L",
+        "title": "Chords",
+        "url": "https://contest.ucup.ac/contest/1699/problem/8528"
+      },
+      {
+        "letter": "M",
+        "title": "Balance of Permutation",
+        "url": "https://contest.ucup.ac/contest/1699/problem/8529"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1699&r=1"
+    ]
+  },
+  {
+    "id": "s3-3",
+    "season": 3,
+    "stage": "3",
+    "name": "Ukraine",
+    "date": "2024-06-29",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-3.pdf"
+    ],
+    "editorials": [],
+    "contest_url": "https://qoj.ac/contest/1714",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Aibohphobia",
+        "url": "https://contest.ucup.ac/contest/1714/problem/8829"
+      },
+      {
+        "letter": "B",
+        "title": "Breaking Bad",
+        "url": "https://contest.ucup.ac/contest/1714/problem/8830"
+      },
+      {
+        "letter": "C",
+        "title": "Chemistry Class",
+        "url": "https://contest.ucup.ac/contest/1714/problem/8831"
+      },
+      {
+        "letter": "D",
+        "title": "Daily Disinfection",
+        "url": "https://contest.ucup.ac/contest/1714/problem/8832"
+      },
+      {
+        "letter": "E",
+        "title": "Equalizer Ehrmantraut",
+        "url": "https://contest.ucup.ac/contest/1714/problem/8833"
+      },
+      {
+        "letter": "F",
+        "title": "Formal Fring",
+        "url": "https://contest.ucup.ac/contest/1714/problem/8834"
+      },
+      {
+        "letter": "G",
+        "title": "Goodman",
+        "url": "https://contest.ucup.ac/contest/1714/problem/8835"
+      },
+      {
+        "letter": "H",
+        "title": "Highway Hoax",
+        "url": "https://contest.ucup.ac/contest/1714/problem/8836"
+      },
+      {
+        "letter": "I",
+        "title": "Increasing Income",
+        "url": "https://contest.ucup.ac/contest/1714/problem/8837"
+      },
+      {
+        "letter": "J",
+        "title": "Jesse's Job",
+        "url": "https://contest.ucup.ac/contest/1714/problem/8838"
+      },
+      {
+        "letter": "K",
+        "title": "Knocker",
+        "url": "https://contest.ucup.ac/contest/1714/problem/8839"
+      },
+      {
+        "letter": "L",
+        "title": "Lalo's Lawyer Lost",
+        "url": "https://contest.ucup.ac/contest/1714/problem/8840"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s3-4",
+    "season": 3,
+    "stage": "4",
+    "name": "Hongo",
+    "date": "2024-07-13",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-4.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-04-ja.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1738",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Again Make UTPC",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9113"
+      },
+      {
+        "letter": "B",
+        "title": "Black or White 2",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9114"
+      },
+      {
+        "letter": "C",
+        "title": "Contour Multiplication",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9115"
+      },
+      {
+        "letter": "D",
+        "title": "DRD String",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9116"
+      },
+      {
+        "letter": "E",
+        "title": "Equally Dividing",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9117"
+      },
+      {
+        "letter": "F",
+        "title": "Flip or Not",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9118"
+      },
+      {
+        "letter": "G",
+        "title": "Graph Weighting",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9119"
+      },
+      {
+        "letter": "H",
+        "title": "Huge Segment Tree",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9120"
+      },
+      {
+        "letter": "I",
+        "title": "I Love Marathon Contest",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9121"
+      },
+      {
+        "letter": "J",
+        "title": "Japanese Gift Money",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9122"
+      },
+      {
+        "letter": "K",
+        "title": "Kth Sum",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9123"
+      },
+      {
+        "letter": "L",
+        "title": "Largest Triangle",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9124"
+      },
+      {
+        "letter": "M",
+        "title": "Majority and Permutation",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9125"
+      },
+      {
+        "letter": "N",
+        "title": "Number of Abbreviations",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9126"
+      },
+      {
+        "letter": "O",
+        "title": "Optimal Train Operation",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9127"
+      },
+      {
+        "letter": "P",
+        "title": "Priority Queue 3",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9128"
+      },
+      {
+        "letter": "Q",
+        "title": "Quotient Sum",
+        "url": "https://contest.ucup.ac/contest/1738/problem/9129"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1738&r=1"
+    ]
+  },
+  {
+    "id": "s3-5",
+    "season": 3,
+    "stage": "5",
+    "name": "Moscow",
+    "date": "2024-07-27",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-5.pdf"
+    ],
+    "editorials": [
+      "https://qoj.ac/blogs/941"
+    ],
+    "contest_url": "https://qoj.ac/contest/1741",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Counting Permutations",
+        "url": "https://contest.ucup.ac/contest/1741/problem/9130"
+      },
+      {
+        "letter": "B",
+        "title": "Bookshelf Tracking",
+        "url": "https://contest.ucup.ac/contest/1741/problem/9131"
+      },
+      {
+        "letter": "C",
+        "title": "Painting Fences",
+        "url": "https://contest.ucup.ac/contest/1741/problem/9132"
+      },
+      {
+        "letter": "D",
+        "title": "Function with Many Maximums",
+        "url": "https://contest.ucup.ac/contest/1741/problem/9133"
+      },
+      {
+        "letter": "E",
+        "title": "Building a Fence",
+        "url": "https://contest.ucup.ac/contest/1741/problem/9134"
+      },
+      {
+        "letter": "F",
+        "title": "Teleports",
+        "url": "https://contest.ucup.ac/contest/1741/problem/9135"
+      },
+      {
+        "letter": "G",
+        "title": "Exponent Calculator",
+        "url": "https://contest.ucup.ac/contest/1741/problem/9136"
+      },
+      {
+        "letter": "H",
+        "title": "Ancient Country",
+        "url": "https://contest.ucup.ac/contest/1741/problem/9137"
+      },
+      {
+        "letter": "I",
+        "title": "Marks Sum",
+        "url": "https://contest.ucup.ac/contest/1741/problem/9138"
+      },
+      {
+        "letter": "J",
+        "title": "Prefix Divisible by Suffix",
+        "url": "https://contest.ucup.ac/contest/1741/problem/9139"
+      },
+      {
+        "letter": "K",
+        "title": "Train Depot",
+        "url": "https://contest.ucup.ac/contest/1741/problem/9140"
+      },
+      {
+        "letter": "L",
+        "title": "Array Spread",
+        "url": "https://contest.ucup.ac/contest/1741/problem/9141"
+      },
+      {
+        "letter": "M",
+        "title": "Uniting Amoebas",
+        "url": "https://contest.ucup.ac/contest/1741/problem/9142"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s3-6",
+    "season": 3,
+    "stage": "6",
+    "name": "Osijek",
+    "date": "2024-08-10",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-6.pdf"
+    ],
+    "editorials": [
+      "https://qoj.ac/blogs/948"
+    ],
+    "contest_url": "https://qoj.ac/contest/1762",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Coprime Array",
+        "url": "https://contest.ucup.ac/contest/1762/problem/9167"
+      },
+      {
+        "letter": "B",
+        "title": "Square Locator",
+        "url": "https://contest.ucup.ac/contest/1762/problem/9168"
+      },
+      {
+        "letter": "C",
+        "title": "-is-this-bitset-",
+        "url": "https://contest.ucup.ac/contest/1762/problem/9169"
+      },
+      {
+        "letter": "D",
+        "title": "Cycle Game",
+        "url": "https://contest.ucup.ac/contest/1762/problem/9170"
+      },
+      {
+        "letter": "E",
+        "title": "Sum of Squares",
+        "url": "https://contest.ucup.ac/contest/1762/problem/9171"
+      },
+      {
+        "letter": "F",
+        "title": "Alternating Cycle",
+        "url": "https://contest.ucup.ac/contest/1762/problem/9172"
+      },
+      {
+        "letter": "G",
+        "title": "Touching Grass",
+        "url": "https://contest.ucup.ac/contest/1762/problem/9173"
+      },
+      {
+        "letter": "H",
+        "title": "Game Design",
+        "url": "https://contest.ucup.ac/contest/1762/problem/9174"
+      },
+      {
+        "letter": "I",
+        "title": "Geometry Hacking",
+        "url": "https://contest.ucup.ac/contest/1762/problem/9175"
+      },
+      {
+        "letter": "J",
+        "title": "Non-Interactive Nim",
+        "url": "https://contest.ucup.ac/contest/1762/problem/9176"
+      },
+      {
+        "letter": "K",
+        "title": "String and Nails",
+        "url": "https://contest.ucup.ac/contest/1762/problem/9177"
+      },
+      {
+        "letter": "L",
+        "title": "All-You-Can-Eat",
+        "url": "https://contest.ucup.ac/contest/1762/problem/9178"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s3-7",
+    "season": 3,
+    "stage": "7",
+    "name": "Warsaw",
+    "date": "2024-08-24",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-7.pdf"
+    ],
+    "editorials": [
+      "https://qoj.ac/blogs/958"
+    ],
+    "contest_url": "https://qoj.ac/contest/1774",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Bus Analysis",
+        "url": "https://contest.ucup.ac/contest/1774/problem/9220"
+      },
+      {
+        "letter": "B",
+        "title": "Missing Boundaries",
+        "url": "https://contest.ucup.ac/contest/1774/problem/9221"
+      },
+      {
+        "letter": "C",
+        "title": "Price Combo",
+        "url": "https://contest.ucup.ac/contest/1774/problem/9222"
+      },
+      {
+        "letter": "D",
+        "title": "Data Determination",
+        "url": "https://contest.ucup.ac/contest/1774/problem/9223"
+      },
+      {
+        "letter": "E",
+        "title": "Express Eviction",
+        "url": "https://contest.ucup.ac/contest/1774/problem/9224"
+      },
+      {
+        "letter": "F",
+        "title": "Fibonacci Fusion",
+        "url": "https://contest.ucup.ac/contest/1774/problem/9225"
+      },
+      {
+        "letter": "G",
+        "title": "Game of Geniuses",
+        "url": "https://contest.ucup.ac/contest/1774/problem/9226"
+      },
+      {
+        "letter": "H",
+        "title": "Henry the Plumber",
+        "url": "https://contest.ucup.ac/contest/1774/problem/9227"
+      },
+      {
+        "letter": "I",
+        "title": "ICPC Inference",
+        "url": "https://contest.ucup.ac/contest/1774/problem/9228"
+      },
+      {
+        "letter": "J",
+        "title": "Juliet Unifies Ones",
+        "url": "https://contest.ucup.ac/contest/1774/problem/9229"
+      },
+      {
+        "letter": "K",
+        "title": "Routing K-Codes",
+        "url": "https://contest.ucup.ac/contest/1774/problem/9230"
+      },
+      {
+        "letter": "L",
+        "title": "Random Numbers",
+        "url": "https://contest.ucup.ac/contest/1774/problem/9231"
+      },
+      {
+        "letter": "M",
+        "title": "Mathematics Championships",
+        "url": "https://contest.ucup.ac/contest/1774/problem/9232"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s3-8",
+    "season": 3,
+    "stage": "8",
+    "name": "Cangqian",
+    "date": "2024-08-31",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-9",
+    "season": 3,
+    "stage": "9",
+    "name": "Xi'an",
+    "date": "2024-09-07",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-10",
+    "season": 3,
+    "stage": "10",
+    "name": "West Lake",
+    "date": "2024-09-28",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-11",
+    "season": 3,
+    "stage": "11",
+    "name": "Sumiyosi",
+    "date": "2024-10-05",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-11.pdf"
+    ],
+    "editorials": [
+      "https://atcoder.jp/contests/npcapc_2024/editorial?editorialLang=ja"
+    ],
+    "contest_url": "https://qoj.ac/contest/1804",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Welcome to NPCAPC",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9435"
+      },
+      {
+        "letter": "B",
+        "title": "Some Sum of Subset",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9436"
+      },
+      {
+        "letter": "C",
+        "title": "Solve with Friends",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9437"
+      },
+      {
+        "letter": "D",
+        "title": "Two Box",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9438"
+      },
+      {
+        "letter": "E",
+        "title": "Aim High",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9439"
+      },
+      {
+        "letter": "F",
+        "title": "Train Seats",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9440"
+      },
+      {
+        "letter": "G",
+        "title": "Many Common Segment Problems",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9441"
+      },
+      {
+        "letter": "H",
+        "title": "Music Game",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9442"
+      },
+      {
+        "letter": "I",
+        "title": "Left Equals Right",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9443"
+      },
+      {
+        "letter": "J",
+        "title": "Again Permutation Problem",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9444"
+      },
+      {
+        "letter": "K",
+        "title": "Peace with Magic",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9445"
+      },
+      {
+        "letter": "L",
+        "title": "Construction of Town",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9446"
+      },
+      {
+        "letter": "M",
+        "title": "Admired Person",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9447"
+      },
+      {
+        "letter": "N",
+        "title": "Product Matrix",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9448"
+      },
+      {
+        "letter": "O",
+        "title": "New School Term",
+        "url": "https://contest.ucup.ac/contest/1804/problem/9449"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s3-12",
+    "season": 3,
+    "stage": "12",
+    "name": "Qinhuangdao",
+    "date": "2024-10-12",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-13",
+    "season": 3,
+    "stage": "13",
+    "name": "Sendai",
+    "date": "2024-10-19",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-13.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-13-ja.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1812",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "012 Grid",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9476"
+      },
+      {
+        "letter": "B",
+        "title": "Topological Sort",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9477"
+      },
+      {
+        "letter": "C",
+        "title": "Shift Puzzle",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9478"
+      },
+      {
+        "letter": "D",
+        "title": "And DNA",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9479"
+      },
+      {
+        "letter": "E",
+        "title": "Hotel",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9480"
+      },
+      {
+        "letter": "F",
+        "title": "Min Nim",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9481"
+      },
+      {
+        "letter": "G",
+        "title": "Count Pseudo-Palindromes",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9482"
+      },
+      {
+        "letter": "H",
+        "title": "Maximize Array",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9483"
+      },
+      {
+        "letter": "I",
+        "title": "Colored Complete Graph",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9484"
+      },
+      {
+        "letter": "J",
+        "title": "(mod N² + 1)",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9485"
+      },
+      {
+        "letter": "K",
+        "title": "Random Mex",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9486"
+      },
+      {
+        "letter": "L",
+        "title": "Vivid Colors",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9487"
+      },
+      {
+        "letter": "M",
+        "title": "Do Not Turn Back",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9488"
+      },
+      {
+        "letter": "N",
+        "title": "0100 Insertion",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9489"
+      },
+      {
+        "letter": "O",
+        "title": "Sub Brackets",
+        "url": "https://contest.ucup.ac/contest/1812/problem/9490"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s3-14",
+    "season": 3,
+    "stage": "14",
+    "name": "Harbin",
+    "date": "2024-10-26",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-15",
+    "season": 3,
+    "stage": "15",
+    "name": "Chengdu",
+    "date": "2024-11-02",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-16",
+    "season": 3,
+    "stage": "16",
+    "name": "Nanjing",
+    "date": "2024-11-09",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-17",
+    "season": 3,
+    "stage": "17",
+    "name": "Jinan",
+    "date": "2024-11-16",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-18",
+    "season": 3,
+    "stage": "18",
+    "name": "Southeastern Europe",
+    "date": "2024-11-23",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-18.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-18-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1849",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "All-Star",
+        "url": "https://contest.ucup.ac/contest/1849/problem/9781"
+      },
+      {
+        "letter": "B",
+        "title": "NonZero PrefSuf Sums",
+        "url": "https://contest.ucup.ac/contest/1849/problem/9782"
+      },
+      {
+        "letter": "C",
+        "title": "Duloc Network",
+        "url": "https://contest.ucup.ac/contest/1849/problem/9783"
+      },
+      {
+        "letter": "D",
+        "title": "Donkey and Puss in Boots",
+        "url": "https://contest.ucup.ac/contest/1849/problem/9784"
+      },
+      {
+        "letter": "E",
+        "title": "Shrooks",
+        "url": "https://contest.ucup.ac/contest/1849/problem/9785"
+      },
+      {
+        "letter": "F",
+        "title": "Magical Bags",
+        "url": "https://contest.ucup.ac/contest/1849/problem/9786"
+      },
+      {
+        "letter": "G",
+        "title": "Shrek's Song of the Swamp",
+        "url": "https://contest.ucup.ac/contest/1849/problem/9787"
+      },
+      {
+        "letter": "H",
+        "title": "Shreckless",
+        "url": "https://contest.ucup.ac/contest/1849/problem/9788"
+      },
+      {
+        "letter": "I",
+        "title": "Donkey, Keep Watch",
+        "url": "https://contest.ucup.ac/contest/1849/problem/9789"
+      },
+      {
+        "letter": "J",
+        "title": "Make Swamp Great Again",
+        "url": "https://contest.ucup.ac/contest/1849/problem/9790"
+      },
+      {
+        "letter": "K",
+        "title": "Intrusive Donkey",
+        "url": "https://contest.ucup.ac/contest/1849/problem/9791"
+      },
+      {
+        "letter": "L",
+        "title": "Ogre Sort",
+        "url": "https://contest.ucup.ac/contest/1849/problem/9792"
+      },
+      {
+        "letter": "M",
+        "title": "Enchanted Lawns Quest",
+        "url": "https://contest.ucup.ac/contest/1849/problem/9793"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1849&r=1"
+    ]
+  },
+  {
+    "id": "s3-19",
+    "season": 3,
+    "stage": "19",
+    "name": "Shenyang",
+    "date": "2024-11-30",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-20",
+    "season": 3,
+    "stage": "20",
+    "name": "Kunming",
+    "date": "2024-12-07",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-21",
+    "season": 3,
+    "stage": "21",
+    "name": "Ōokayama",
+    "date": "2024-12-14",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-21.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-21-ja.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1872",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Don't Detect Cycle",
+        "url": "https://contest.ucup.ac/contest/1872/problem/9875"
+      },
+      {
+        "letter": "B",
+        "title": "Self Checkout",
+        "url": "https://contest.ucup.ac/contest/1872/problem/9876"
+      },
+      {
+        "letter": "C",
+        "title": "Segment Tree",
+        "url": "https://contest.ucup.ac/contest/1872/problem/9877"
+      },
+      {
+        "letter": "D",
+        "title": "A xor B plus C",
+        "url": "https://contest.ucup.ac/contest/1872/problem/9878"
+      },
+      {
+        "letter": "E",
+        "title": "ReTravel",
+        "url": "https://contest.ucup.ac/contest/1872/problem/9879"
+      },
+      {
+        "letter": "F",
+        "title": "Origami Warp",
+        "url": "https://contest.ucup.ac/contest/1872/problem/9880"
+      },
+      {
+        "letter": "G",
+        "title": "Diverge and Converge",
+        "url": "https://contest.ucup.ac/contest/1872/problem/9881"
+      },
+      {
+        "letter": "H",
+        "title": "Two Convex Sets",
+        "url": "https://contest.ucup.ac/contest/1872/problem/9882"
+      },
+      {
+        "letter": "I",
+        "title": "Near Pair",
+        "url": "https://contest.ucup.ac/contest/1872/problem/9883"
+      },
+      {
+        "letter": "J",
+        "title": "Grid Construction",
+        "url": "https://contest.ucup.ac/contest/1872/problem/9884"
+      },
+      {
+        "letter": "K",
+        "title": "Sum is One",
+        "url": "https://contest.ucup.ac/contest/1872/problem/9885"
+      },
+      {
+        "letter": "L",
+        "title": "Long Sequence Inversion 2",
+        "url": "https://contest.ucup.ac/contest/1872/problem/9886"
+      },
+      {
+        "letter": "M",
+        "title": "Cartesian Trees",
+        "url": "https://contest.ucup.ac/contest/1872/problem/9887"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s3-22",
+    "season": 3,
+    "stage": "22",
+    "name": "Zhengzhou",
+    "date": "2024-12-21",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-23",
+    "season": 3,
+    "stage": "23",
+    "name": "Hong Kong",
+    "date": "2024-12-28",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-24",
+    "season": 3,
+    "stage": "24",
+    "name": "Poland",
+    "date": "2025-01-04",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-24.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-24-pl.pdf",
+      "https://qoj.ac/blogs/1145"
+    ],
+    "contest_url": "https://qoj.ac/contest/1890",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Acronym",
+        "url": "https://contest.ucup.ac/contest/1890/problem/9959"
+      },
+      {
+        "letter": "B",
+        "title": "Baggage",
+        "url": "https://contest.ucup.ac/contest/1890/problem/9960"
+      },
+      {
+        "letter": "C",
+        "title": "Cows",
+        "url": "https://contest.ucup.ac/contest/1890/problem/9961"
+      },
+      {
+        "letter": "D",
+        "title": "Diminishing Fractions",
+        "url": "https://contest.ucup.ac/contest/1890/problem/9962"
+      },
+      {
+        "letter": "E",
+        "title": "Express Rotations",
+        "url": "https://contest.ucup.ac/contest/1890/problem/9963"
+      },
+      {
+        "letter": "F",
+        "title": "Frogs",
+        "url": "https://contest.ucup.ac/contest/1890/problem/9964"
+      },
+      {
+        "letter": "G",
+        "title": "Game MPO",
+        "url": "https://contest.ucup.ac/contest/1890/problem/9965"
+      },
+      {
+        "letter": "H",
+        "title": "High Jump",
+        "url": "https://contest.ucup.ac/contest/1890/problem/9966"
+      },
+      {
+        "letter": "I",
+        "title": "Imbalanced Teams",
+        "url": "https://contest.ucup.ac/contest/1890/problem/9967"
+      },
+      {
+        "letter": "J",
+        "title": "Just Zeros",
+        "url": "https://contest.ucup.ac/contest/1890/problem/9968"
+      },
+      {
+        "letter": "K",
+        "title": "Kindergarten Square",
+        "url": "https://contest.ucup.ac/contest/1890/problem/9969"
+      },
+      {
+        "letter": "L",
+        "title": "Looping RPS",
+        "url": "https://contest.ucup.ac/contest/1890/problem/9970"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s3-25",
+    "season": 3,
+    "stage": "25",
+    "name": "Hangzhou",
+    "date": "2025-01-11",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-26",
+    "season": 3,
+    "stage": "26",
+    "name": "China",
+    "date": "2025-01-18",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-27",
+    "season": 3,
+    "stage": "27",
+    "name": "London",
+    "date": "2025-01-25",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-27.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-27-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1901",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "(A + B) mod P",
+        "url": "https://contest.ucup.ac/contest/1901/problem/8611"
+      },
+      {
+        "letter": "B",
+        "title": "The Best Wife",
+        "url": "https://contest.ucup.ac/contest/1901/problem/8612"
+      },
+      {
+        "letter": "C",
+        "title": "Cardinality",
+        "url": "https://contest.ucup.ac/contest/1901/problem/8613"
+      },
+      {
+        "letter": "D",
+        "title": "3D",
+        "url": "https://contest.ucup.ac/contest/1901/problem/8614"
+      },
+      {
+        "letter": "E",
+        "title": "Equal Strings",
+        "url": "https://contest.ucup.ac/contest/1901/problem/8615"
+      },
+      {
+        "letter": "F",
+        "title": "Fast Tree Queries",
+        "url": "https://contest.ucup.ac/contest/1901/problem/8616"
+      },
+      {
+        "letter": "G",
+        "title": "Geo Sharding",
+        "url": "https://contest.ucup.ac/contest/1901/problem/8617"
+      },
+      {
+        "letter": "H",
+        "title": "Have You Seen This Subarray?",
+        "url": "https://contest.ucup.ac/contest/1901/problem/8618"
+      },
+      {
+        "letter": "I",
+        "title": "Interactive Casino",
+        "url": "https://contest.ucup.ac/contest/1901/problem/8619"
+      },
+      {
+        "letter": "J",
+        "title": "Jigsaw Puzzle",
+        "url": "https://contest.ucup.ac/contest/1901/problem/8620"
+      },
+      {
+        "letter": "K",
+        "title": "Knapsack",
+        "url": "https://contest.ucup.ac/contest/1901/problem/8621"
+      },
+      {
+        "letter": "L",
+        "title": "London Underground",
+        "url": "https://contest.ucup.ac/contest/1901/problem/8622"
+      },
+      {
+        "letter": "M",
+        "title": "Meta",
+        "url": "https://contest.ucup.ac/contest/1901/problem/8623"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1901&r=1"
+    ]
+  },
+  {
+    "id": "s3-28",
+    "season": 3,
+    "stage": "28",
+    "name": "Haidian Huangzhuang",
+    "date": "2025-02-01",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-29",
+    "season": 3,
+    "stage": "29",
+    "name": "Metropolis",
+    "date": "2025-02-08",
+    "policy": "excluded",
+    "reason": "地域未确认，保守排除",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-30",
+    "season": 3,
+    "stage": "30",
+    "name": "Northern",
+    "date": "2025-02-15",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-30.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-30-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1917",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Archaeology",
+        "url": "https://contest.ucup.ac/contest/1917/problem/10087"
+      },
+      {
+        "letter": "B",
+        "title": "Glass Stepping Stones",
+        "url": "https://contest.ucup.ac/contest/1917/problem/10088"
+      },
+      {
+        "letter": "C",
+        "title": "Elegia❄️ 's Mind",
+        "url": "https://contest.ucup.ac/contest/1917/problem/10089"
+      },
+      {
+        "letter": "D",
+        "title": "Preparation for the Exam",
+        "url": "https://contest.ucup.ac/contest/1917/problem/10090"
+      },
+      {
+        "letter": "E",
+        "title": "Fractal Maze",
+        "url": "https://contest.ucup.ac/contest/1917/problem/10091"
+      },
+      {
+        "letter": "F",
+        "title": "Interactive Primality",
+        "url": "https://contest.ucup.ac/contest/1917/problem/10092"
+      },
+      {
+        "letter": "G",
+        "title": "Jump the Frog",
+        "url": "https://contest.ucup.ac/contest/1917/problem/10093"
+      },
+      {
+        "letter": "H",
+        "title": "Slot Machine",
+        "url": "https://contest.ucup.ac/contest/1917/problem/10094"
+      },
+      {
+        "letter": "I",
+        "title": "Product",
+        "url": "https://contest.ucup.ac/contest/1917/problem/10095"
+      },
+      {
+        "letter": "J",
+        "title": "Generating Random Trees",
+        "url": "https://contest.ucup.ac/contest/1917/problem/10096"
+      },
+      {
+        "letter": "K",
+        "title": "Vortex",
+        "url": "https://contest.ucup.ac/contest/1917/problem/10097"
+      },
+      {
+        "letter": "L",
+        "title": "Random Sum",
+        "url": "https://contest.ucup.ac/contest/1917/problem/10098"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1917&r=1"
+    ]
+  },
+  {
+    "id": "s3-31",
+    "season": 3,
+    "stage": "31",
+    "name": "Wroclaw",
+    "date": "2025-03-01",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-31.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-31-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1924",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Anthem",
+        "url": "https://contest.ucup.ac/contest/1924/problem/10114"
+      },
+      {
+        "letter": "B",
+        "title": "Bad Digits",
+        "url": "https://contest.ucup.ac/contest/1924/problem/10115"
+      },
+      {
+        "letter": "C",
+        "title": "CERC Plaques",
+        "url": "https://contest.ucup.ac/contest/1924/problem/10116"
+      },
+      {
+        "letter": "D",
+        "title": "Divisors",
+        "url": "https://contest.ucup.ac/contest/1924/problem/10117"
+      },
+      {
+        "letter": "E",
+        "title": "Expression",
+        "url": "https://contest.ucup.ac/contest/1924/problem/10118"
+      },
+      {
+        "letter": "F",
+        "title": "Flats",
+        "url": "https://contest.ucup.ac/contest/1924/problem/10119"
+      },
+      {
+        "letter": "G",
+        "title": "Groceries",
+        "url": "https://contest.ucup.ac/contest/1924/problem/10120"
+      },
+      {
+        "letter": "H",
+        "title": "Hues",
+        "url": "https://contest.ucup.ac/contest/1924/problem/10121"
+      },
+      {
+        "letter": "I",
+        "title": "Illuminati",
+        "url": "https://contest.ucup.ac/contest/1924/problem/10122"
+      },
+      {
+        "letter": "J",
+        "title": "Just Mining",
+        "url": "https://contest.ucup.ac/contest/1924/problem/10123"
+      },
+      {
+        "letter": "K",
+        "title": "King's Festival",
+        "url": "https://contest.ucup.ac/contest/1924/problem/10124"
+      },
+      {
+        "letter": "L",
+        "title": "Labyrinth",
+        "url": "https://contest.ucup.ac/contest/1924/problem/10125"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1924&r=1"
+    ]
+  },
+  {
+    "id": "s3-32",
+    "season": 3,
+    "stage": "32",
+    "name": "Dhaka",
+    "date": "2025-03-15",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-32.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-32-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1939",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Sort and &",
+        "url": "https://contest.ucup.ac/contest/1939/problem/10214"
+      },
+      {
+        "letter": "B",
+        "title": "Gona Guni",
+        "url": "https://contest.ucup.ac/contest/1939/problem/10215"
+      },
+      {
+        "letter": "C",
+        "title": "Packet Transmission",
+        "url": "https://contest.ucup.ac/contest/1939/problem/10216"
+      },
+      {
+        "letter": "D",
+        "title": "Qwiksort",
+        "url": "https://contest.ucup.ac/contest/1939/problem/10217"
+      },
+      {
+        "letter": "E",
+        "title": "Travel on the Grid",
+        "url": "https://contest.ucup.ac/contest/1939/problem/10218"
+      },
+      {
+        "letter": "F",
+        "title": "Yet Another Crossover Episode",
+        "url": "https://contest.ucup.ac/contest/1939/problem/10219"
+      },
+      {
+        "letter": "G",
+        "title": "Picturesque Skyline",
+        "url": "https://contest.ucup.ac/contest/1939/problem/10220"
+      },
+      {
+        "letter": "H",
+        "title": "Are the nodes reachable?",
+        "url": "https://contest.ucup.ac/contest/1939/problem/10221"
+      },
+      {
+        "letter": "I",
+        "title": "Unhappy Team",
+        "url": "https://contest.ucup.ac/contest/1939/problem/10222"
+      },
+      {
+        "letter": "K",
+        "title": "Island Invasion",
+        "url": "https://contest.ucup.ac/contest/1939/problem/10224"
+      },
+      {
+        "letter": "L",
+        "title": "Uncle Bob and XOR Sum",
+        "url": "https://contest.ucup.ac/contest/1939/problem/10225"
+      },
+      {
+        "letter": "M",
+        "title": "Tree Flip",
+        "url": "https://contest.ucup.ac/contest/1939/problem/10226"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1939&r=1"
+    ]
+  },
+  {
+    "id": "s3-33",
+    "season": 3,
+    "stage": "33",
+    "name": "India",
+    "date": "2025-03-29",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-33.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-33-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1954",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "AB to C",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10265"
+      },
+      {
+        "letter": "B",
+        "title": "Bin Packing",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10266"
+      },
+      {
+        "letter": "C",
+        "title": "Construct uwu",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10267"
+      },
+      {
+        "letter": "D",
+        "title": "Counting Distance Arrays",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10268"
+      },
+      {
+        "letter": "E",
+        "title": "Easy Counting Problem",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10269"
+      },
+      {
+        "letter": "F",
+        "title": "Greedy Prices",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10270"
+      },
+      {
+        "letter": "G",
+        "title": "Lexicographic Raffle",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10271"
+      },
+      {
+        "letter": "H",
+        "title": "Majority Graph",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10272"
+      },
+      {
+        "letter": "I",
+        "title": "Majority Voters",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10273"
+      },
+      {
+        "letter": "J",
+        "title": "Max Mod",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10274"
+      },
+      {
+        "letter": "K",
+        "title": "P to Q",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10275"
+      },
+      {
+        "letter": "L",
+        "title": "Score Sum",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10276"
+      },
+      {
+        "letter": "M",
+        "title": "Ticket Revenue Maximization",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10277"
+      },
+      {
+        "letter": "N",
+        "title": "Yet Another MST Problem",
+        "url": "https://contest.ucup.ac/contest/1954/problem/10278"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1954&r=1"
+    ]
+  },
+  {
+    "id": "s3-34",
+    "season": 3,
+    "stage": "34",
+    "name": "Aobayama",
+    "date": "2025-04-12",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-34.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-34-ja.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1965",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Inversions of PQ and QP",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10321"
+      },
+      {
+        "letter": "B",
+        "title": "Matching Query",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10322"
+      },
+      {
+        "letter": "C",
+        "title": "2-Power Rush",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10323"
+      },
+      {
+        "letter": "D",
+        "title": "Swap Counter",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10324"
+      },
+      {
+        "letter": "E",
+        "title": "010-11 Shorten",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10325"
+      },
+      {
+        "letter": "F",
+        "title": "Another Long Sequence Inversion",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10326"
+      },
+      {
+        "letter": "G",
+        "title": "Convex Hull of Intersections",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10327"
+      },
+      {
+        "letter": "H",
+        "title": "12 Grid",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10328"
+      },
+      {
+        "letter": "I",
+        "title": "Small Steps",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10329"
+      },
+      {
+        "letter": "J",
+        "title": "Median Operations",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10330"
+      },
+      {
+        "letter": "K",
+        "title": "Shuffle and Max Bracket Score",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10331"
+      },
+      {
+        "letter": "L",
+        "title": "Square Connection",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10332"
+      },
+      {
+        "letter": "M",
+        "title": "Divide Digit String",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10333"
+      },
+      {
+        "letter": "N",
+        "title": "Palindromic Path",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10334"
+      },
+      {
+        "letter": "O",
+        "title": "Twin Contests",
+        "url": "https://contest.ucup.ac/contest/1965/problem/10335"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s3-35",
+    "season": 3,
+    "stage": "35",
+    "name": "Kraków",
+    "date": "2025-04-26",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-35.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-35-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/1993",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Suspicious Submissions",
+        "url": "https://contest.ucup.ac/contest/1993/problem/10701"
+      },
+      {
+        "letter": "B",
+        "title": "ICFC World Finals",
+        "url": "https://contest.ucup.ac/contest/1993/problem/10702"
+      },
+      {
+        "letter": "C",
+        "title": "Diamonds and the Genie",
+        "url": "https://contest.ucup.ac/contest/1993/problem/10703"
+      },
+      {
+        "letter": "D",
+        "title": "Money in the Hat",
+        "url": "https://contest.ucup.ac/contest/1993/problem/10704"
+      },
+      {
+        "letter": "E",
+        "title": "Gambling",
+        "url": "https://contest.ucup.ac/contest/1993/problem/10705"
+      },
+      {
+        "letter": "F",
+        "title": "Red-Blue MST",
+        "url": "https://contest.ucup.ac/contest/1993/problem/10706"
+      },
+      {
+        "letter": "G",
+        "title": "Road Trip",
+        "url": "https://contest.ucup.ac/contest/1993/problem/10707"
+      },
+      {
+        "letter": "H",
+        "title": "Decent Path Around Bajtów",
+        "url": "https://contest.ucup.ac/contest/1993/problem/10708"
+      },
+      {
+        "letter": "I",
+        "title": "Random Remainders",
+        "url": "https://contest.ucup.ac/contest/1993/problem/10709"
+      },
+      {
+        "letter": "J",
+        "title": "Sumotonic Sequences",
+        "url": "https://contest.ucup.ac/contest/1993/problem/10710"
+      },
+      {
+        "letter": "K",
+        "title": "Bitter",
+        "url": "https://contest.ucup.ac/contest/1993/problem/10711"
+      },
+      {
+        "letter": "L",
+        "title": "Empty Triangles",
+        "url": "https://contest.ucup.ac/contest/1993/problem/10712"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=1993&r=1"
+    ]
+  },
+  {
+    "id": "s3-36",
+    "season": 3,
+    "stage": "36",
+    "name": "Wulin",
+    "date": "2025-05-10",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-37",
+    "season": 3,
+    "stage": "37",
+    "name": "Wuhan",
+    "date": "2025-05-17",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-38",
+    "season": 3,
+    "stage": "38",
+    "name": "Guangzhou",
+    "date": "2025-05-24",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s3-39",
+    "season": 3,
+    "stage": "39",
+    "name": "Tokyo",
+    "date": "2025-06-07",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-39.pdf"
+    ],
+    "editorials": [
+      "https://qoj.ac/blogs/1261"
+    ],
+    "contest_url": "https://qoj.ac/contest/2071",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Array Similarity",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10970"
+      },
+      {
+        "letter": "B",
+        "title": "Bracket Character Frequency",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10971"
+      },
+      {
+        "letter": "C",
+        "title": "Card Deck",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10972"
+      },
+      {
+        "letter": "D",
+        "title": "Digits of Prefix Product",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10973"
+      },
+      {
+        "letter": "E",
+        "title": "Edge Coloring Problem",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10974"
+      },
+      {
+        "letter": "F",
+        "title": "Fourier Coefficients",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10975"
+      },
+      {
+        "letter": "G",
+        "title": "Guarding Plan",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10976"
+      },
+      {
+        "letter": "H",
+        "title": "Hidden Sequence Rotation",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10977"
+      },
+      {
+        "letter": "I",
+        "title": "Insert AB or BA",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10978"
+      },
+      {
+        "letter": "J",
+        "title": "Journey through the Fractal",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10979"
+      },
+      {
+        "letter": "K",
+        "title": "K-rep Array",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10980"
+      },
+      {
+        "letter": "L",
+        "title": "LIS Triangle",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10981"
+      },
+      {
+        "letter": "M",
+        "title": "Minimum Distance Tree",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10982"
+      },
+      {
+        "letter": "N",
+        "title": "Nice Bouquets",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10983"
+      },
+      {
+        "letter": "O",
+        "title": "One Different Inequality",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10984"
+      },
+      {
+        "letter": "P",
+        "title": "Perfect Suika Game on a Tree",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10985"
+      },
+      {
+        "letter": "Q",
+        "title": "Quadratic Pieces",
+        "url": "https://contest.ucup.ac/contest/2071/problem/10986"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s3-40",
+    "season": 3,
+    "stage": "40",
+    "name": "Potyczki",
+    "date": "2025-06-21",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season3/",
+    "statements": [
+      "https://ucup.ac/statements/statements-3-40.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-3-40-pl.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/2135",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "AGI",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12150"
+      },
+      {
+        "letter": "B",
+        "title": "Collatz Sum",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12151"
+      },
+      {
+        "letter": "C",
+        "title": "DNA Subsequences",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12152"
+      },
+      {
+        "letter": "D",
+        "title": "Fern Market",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12153"
+      },
+      {
+        "letter": "E",
+        "title": "One Bit",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12154"
+      },
+      {
+        "letter": "F",
+        "title": "Puzzle IV",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12155"
+      },
+      {
+        "letter": "G",
+        "title": "Furniture",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12156"
+      },
+      {
+        "letter": "H",
+        "title": "Merge Sort",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12157"
+      },
+      {
+        "letter": "I",
+        "title": "Santa Claus",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12158"
+      },
+      {
+        "letter": "J",
+        "title": "Housing Estate",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12159"
+      },
+      {
+        "letter": "K",
+        "title": "Projects",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12160"
+      },
+      {
+        "letter": "L",
+        "title": "Directed Hanoi",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12161"
+      },
+      {
+        "letter": "M",
+        "title": "Clubs",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12162"
+      },
+      {
+        "letter": "N",
+        "title": "Frequency Function",
+        "url": "https://contest.ucup.ac/contest/2135/problem/12163"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=2135&r=1"
+    ]
+  },
+  {
+    "id": "s4-0",
+    "season": 4,
+    "stage": "0",
+    "name": "America",
+    "date": "2025-09-27",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-0.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-00-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/2041",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "A Totient Quotient",
+        "url": "https://contest.ucup.ac/contest/2041/problem/11356"
+      },
+      {
+        "letter": "B",
+        "title": "Circle of Leaf",
+        "url": "https://contest.ucup.ac/contest/2041/problem/11357"
+      },
+      {
+        "letter": "C",
+        "title": "Entrapment",
+        "url": "https://contest.ucup.ac/contest/2041/problem/11358"
+      },
+      {
+        "letter": "D",
+        "title": "Geometry Rush",
+        "url": "https://contest.ucup.ac/contest/2041/problem/11359"
+      },
+      {
+        "letter": "E",
+        "title": "Humans vs AI",
+        "url": "https://contest.ucup.ac/contest/2041/problem/11360"
+      },
+      {
+        "letter": "F",
+        "title": "Mob Grinder",
+        "url": "https://contest.ucup.ac/contest/2041/problem/11361"
+      },
+      {
+        "letter": "G",
+        "title": "Most Scenic Cycle",
+        "url": "https://contest.ucup.ac/contest/2041/problem/11362"
+      },
+      {
+        "letter": "H",
+        "title": "Ornaments on a Tree",
+        "url": "https://contest.ucup.ac/contest/2041/problem/11363"
+      },
+      {
+        "letter": "I",
+        "title": "Polygon Partition",
+        "url": "https://contest.ucup.ac/contest/2041/problem/11364"
+      },
+      {
+        "letter": "J",
+        "title": "Popping Balloons",
+        "url": "https://contest.ucup.ac/contest/2041/problem/11365"
+      },
+      {
+        "letter": "K",
+        "title": "SLA Tomography",
+        "url": "https://contest.ucup.ac/contest/2041/problem/11366"
+      },
+      {
+        "letter": "L",
+        "title": "Solar Farm",
+        "url": "https://contest.ucup.ac/contest/2041/problem/11367"
+      },
+      {
+        "letter": "M",
+        "title": "This Is Sparta!",
+        "url": "https://contest.ucup.ac/contest/2041/problem/11368"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=2041&r=1"
+    ]
+  },
+  {
+    "id": "s4-1",
+    "season": 4,
+    "stage": "1",
+    "name": "Korolyov",
+    "date": "2025-10-04",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-1.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-01-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/2539",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Grid Problem",
+        "url": "https://contest.ucup.ac/contest/2539/problem/14426"
+      },
+      {
+        "letter": "B",
+        "title": "Domain Compression",
+        "url": "https://contest.ucup.ac/contest/2539/problem/14427"
+      },
+      {
+        "letter": "C",
+        "title": "Staple Stable",
+        "url": "https://contest.ucup.ac/contest/2539/problem/14428"
+      },
+      {
+        "letter": "D",
+        "title": "Sequence Is Not Subsequence",
+        "url": "https://contest.ucup.ac/contest/2539/problem/14429"
+      },
+      {
+        "letter": "E",
+        "title": "Coffee Shops",
+        "url": "https://contest.ucup.ac/contest/2539/problem/14430"
+      },
+      {
+        "letter": "F",
+        "title": "Yet Another MST Problem",
+        "url": "https://contest.ucup.ac/contest/2539/problem/14431"
+      },
+      {
+        "letter": "G",
+        "title": "Cyclic Topsort",
+        "url": "https://contest.ucup.ac/contest/2539/problem/14432"
+      },
+      {
+        "letter": "H",
+        "title": "Misread Problem",
+        "url": "https://contest.ucup.ac/contest/2539/problem/14433"
+      },
+      {
+        "letter": "I",
+        "title": "troS XEM",
+        "url": "https://contest.ucup.ac/contest/2539/problem/14434"
+      },
+      {
+        "letter": "J",
+        "title": "Yet Another Constructive Problem",
+        "url": "https://contest.ucup.ac/contest/2539/problem/14435"
+      },
+      {
+        "letter": "K",
+        "title": "Robot Construction",
+        "url": "https://contest.ucup.ac/contest/2539/problem/14436"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=2539&r=1"
+    ]
+  },
+  {
+    "id": "s4-2",
+    "season": 4,
+    "stage": "2",
+    "name": "Paris",
+    "date": "2025-10-11",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-2.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-02-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/2551",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Apple Tree",
+        "url": "https://contest.ucup.ac/contest/2551/problem/14130"
+      },
+      {
+        "letter": "B",
+        "title": "Balatro",
+        "url": "https://contest.ucup.ac/contest/2551/problem/14131"
+      },
+      {
+        "letter": "C",
+        "title": "Classement Nationale",
+        "url": "https://contest.ucup.ac/contest/2551/problem/14132"
+      },
+      {
+        "letter": "D",
+        "title": "Digit Division",
+        "url": "https://contest.ucup.ac/contest/2551/problem/14133"
+      },
+      {
+        "letter": "E",
+        "title": "Euclid in Manhattan",
+        "url": "https://contest.ucup.ac/contest/2551/problem/14134"
+      },
+      {
+        "letter": "F",
+        "title": "Framboise 2",
+        "url": "https://contest.ucup.ac/contest/2551/problem/14135"
+      },
+      {
+        "letter": "G",
+        "title": "Goofy Songs",
+        "url": "https://contest.ucup.ac/contest/2551/problem/14136"
+      },
+      {
+        "letter": "H",
+        "title": "Heure de Rush",
+        "url": "https://contest.ucup.ac/contest/2551/problem/14137"
+      },
+      {
+        "letter": "I",
+        "title": "Infrared",
+        "url": "https://contest.ucup.ac/contest/2551/problem/14138"
+      },
+      {
+        "letter": "J",
+        "title": "JamBrains",
+        "url": "https://contest.ucup.ac/contest/2551/problem/14139"
+      },
+      {
+        "letter": "K",
+        "title": "$k$ Operations",
+        "url": "https://contest.ucup.ac/contest/2551/problem/14140"
+      },
+      {
+        "letter": "L",
+        "title": "Lice Hopping",
+        "url": "https://contest.ucup.ac/contest/2551/problem/14141"
+      },
+      {
+        "letter": "M",
+        "title": "Manhattan Graph",
+        "url": "https://contest.ucup.ac/contest/2551/problem/14142"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=2551&r=1"
+    ]
+  },
+  {
+    "id": "s4-3",
+    "season": 4,
+    "stage": "3",
+    "name": "Polar",
+    "date": "2025-10-25",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-3.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-03-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/2559",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Two Spanning Trees",
+        "url": "https://contest.ucup.ac/contest/2559/problem/14415"
+      },
+      {
+        "letter": "B",
+        "title": "Christmas Tree",
+        "url": "https://contest.ucup.ac/contest/2559/problem/14416"
+      },
+      {
+        "letter": "C",
+        "title": "Roman Numerals",
+        "url": "https://contest.ucup.ac/contest/2559/problem/14417"
+      },
+      {
+        "letter": "D",
+        "title": "Disjoint Set Splitting",
+        "url": "https://contest.ucup.ac/contest/2559/problem/14418"
+      },
+      {
+        "letter": "E",
+        "title": "Maximum Segment Sum",
+        "url": "https://contest.ucup.ac/contest/2559/problem/14419"
+      },
+      {
+        "letter": "F",
+        "title": "This Time I Will Be Lucky",
+        "url": "https://contest.ucup.ac/contest/2559/problem/14420"
+      },
+      {
+        "letter": "G",
+        "title": "Far Away",
+        "url": "https://contest.ucup.ac/contest/2559/problem/14421"
+      },
+      {
+        "letter": "H",
+        "title": "Absolutely Flat",
+        "url": "https://contest.ucup.ac/contest/2559/problem/14422"
+      },
+      {
+        "letter": "I",
+        "title": "Two Permutations",
+        "url": "https://contest.ucup.ac/contest/2559/problem/14423"
+      },
+      {
+        "letter": "J",
+        "title": "One Permutation",
+        "url": "https://contest.ucup.ac/contest/2559/problem/14424"
+      },
+      {
+        "letter": "K",
+        "title": "Game on Board",
+        "url": "https://contest.ucup.ac/contest/2559/problem/14425"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=2559&r=1"
+    ]
+  },
+  {
+    "id": "s4-4",
+    "season": 4,
+    "stage": "4",
+    "name": "Chengdu",
+    "date": "2025-11-01",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-5",
+    "season": 4,
+    "stage": "5",
+    "name": "Nanjing",
+    "date": "2025-11-09",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-6",
+    "season": 4,
+    "stage": "6",
+    "name": "Shenyang",
+    "date": "2025-11-22",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-7",
+    "season": 4,
+    "stage": "7",
+    "name": "Zhengzhou",
+    "date": "2025-11-29",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-8",
+    "season": 4,
+    "stage": "8",
+    "name": "Poland",
+    "date": "2025-12-06",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-8.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-08-pl.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/2668",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "AIMPPZ",
+        "url": "https://contest.ucup.ac/contest/2668/problem/15444"
+      },
+      {
+        "letter": "B",
+        "title": "Beats",
+        "url": "https://contest.ucup.ac/contest/2668/problem/15445"
+      },
+      {
+        "letter": "C",
+        "title": "Count Triangular Sequences",
+        "url": "https://contest.ucup.ac/contest/2668/problem/15446"
+      },
+      {
+        "letter": "D",
+        "title": "Division with Polylines",
+        "url": "https://contest.ucup.ac/contest/2668/problem/15447"
+      },
+      {
+        "letter": "E",
+        "title": "Enigma",
+        "url": "https://contest.ucup.ac/contest/2668/problem/15448"
+      },
+      {
+        "letter": "F",
+        "title": "Finances",
+        "url": "https://contest.ucup.ac/contest/2668/problem/15449"
+      },
+      {
+        "letter": "G",
+        "title": "Game of Pipes",
+        "url": "https://contest.ucup.ac/contest/2668/problem/15450"
+      },
+      {
+        "letter": "H",
+        "title": "Hacking",
+        "url": "https://contest.ucup.ac/contest/2668/problem/15451"
+      },
+      {
+        "letter": "I",
+        "title": "ICPC Isolation",
+        "url": "https://contest.ucup.ac/contest/2668/problem/15452"
+      },
+      {
+        "letter": "J",
+        "title": "Jury of AMPPZ",
+        "url": "https://contest.ucup.ac/contest/2668/problem/15453"
+      },
+      {
+        "letter": "K",
+        "title": "Kids' Blocks",
+        "url": "https://contest.ucup.ac/contest/2668/problem/15454"
+      },
+      {
+        "letter": "L",
+        "title": "Linear Averaging",
+        "url": "https://contest.ucup.ac/contest/2668/problem/15455"
+      },
+      {
+        "letter": "M",
+        "title": "Market",
+        "url": "https://contest.ucup.ac/contest/2668/problem/15456"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=2668&r=1"
+    ]
+  },
+  {
+    "id": "s4-9",
+    "season": 4,
+    "stage": "9",
+    "name": "Jinan",
+    "date": "2025-12-13",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-10",
+    "season": 4,
+    "stage": "10",
+    "name": "Wrocław",
+    "date": "2025-12-27",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-10.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-10-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/2814",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Automatized Mineral Classification",
+        "url": "https://contest.ucup.ac/contest/2814/problem/16000"
+      },
+      {
+        "letter": "B",
+        "title": "Bit Recovery",
+        "url": "https://contest.ucup.ac/contest/2814/problem/16001"
+      },
+      {
+        "letter": "C",
+        "title": "Connecting Railway Stations",
+        "url": "https://contest.ucup.ac/contest/2814/problem/16002"
+      },
+      {
+        "letter": "D",
+        "title": "DNA",
+        "url": "https://contest.ucup.ac/contest/2814/problem/16003"
+      },
+      {
+        "letter": "E",
+        "title": "Easy Tetris",
+        "url": "https://contest.ucup.ac/contest/2814/problem/16004"
+      },
+      {
+        "letter": "F",
+        "title": "Foxes",
+        "url": "https://contest.ucup.ac/contest/2814/problem/16005"
+      },
+      {
+        "letter": "G",
+        "title": "Game of Darts",
+        "url": "https://contest.ucup.ac/contest/2814/problem/16006"
+      },
+      {
+        "letter": "H",
+        "title": "Hiking",
+        "url": "https://contest.ucup.ac/contest/2814/problem/16007"
+      },
+      {
+        "letter": "I",
+        "title": "Identical Fences",
+        "url": "https://contest.ucup.ac/contest/2814/problem/16008"
+      },
+      {
+        "letter": "J",
+        "title": "Joyful Guided Tour",
+        "url": "https://contest.ucup.ac/contest/2814/problem/16009"
+      },
+      {
+        "letter": "K",
+        "title": "Key Properties",
+        "url": "https://contest.ucup.ac/contest/2814/problem/16010"
+      },
+      {
+        "letter": "L",
+        "title": "Letters on T-shirts",
+        "url": "https://contest.ucup.ac/contest/2814/problem/16011"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=2814&r=1"
+    ]
+  },
+  {
+    "id": "s4-11",
+    "season": 4,
+    "stage": "11",
+    "name": "Southeastern Europe",
+    "date": "2026-01-03",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-11.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-11-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/2828",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Sum Game",
+        "url": "https://contest.ucup.ac/contest/2828/problem/16115"
+      },
+      {
+        "letter": "B",
+        "title": "AND Reconstruction",
+        "url": "https://contest.ucup.ac/contest/2828/problem/16116"
+      },
+      {
+        "letter": "C",
+        "title": "XOR-Excluding Sets",
+        "url": "https://contest.ucup.ac/contest/2828/problem/16117"
+      },
+      {
+        "letter": "D",
+        "title": "Two Options",
+        "url": "https://contest.ucup.ac/contest/2828/problem/16118"
+      },
+      {
+        "letter": "E",
+        "title": "Phone Company",
+        "url": "https://contest.ucup.ac/contest/2828/problem/16119"
+      },
+      {
+        "letter": "F",
+        "title": "Language Barrier",
+        "url": "https://contest.ucup.ac/contest/2828/problem/16120"
+      },
+      {
+        "letter": "G",
+        "title": "Intervals from Triplets",
+        "url": "https://contest.ucup.ac/contest/2828/problem/16121"
+      },
+      {
+        "letter": "H",
+        "title": "Sorted Pairs",
+        "url": "https://contest.ucup.ac/contest/2828/problem/16122"
+      },
+      {
+        "letter": "I",
+        "title": "Colorful Components",
+        "url": "https://contest.ucup.ac/contest/2828/problem/16123"
+      },
+      {
+        "letter": "J",
+        "title": "Triangle Hull",
+        "url": "https://contest.ucup.ac/contest/2828/problem/16124"
+      },
+      {
+        "letter": "K",
+        "title": "Connect the Points",
+        "url": "https://contest.ucup.ac/contest/2828/problem/16125"
+      },
+      {
+        "letter": "L",
+        "title": "Neo-Nim",
+        "url": "https://contest.ucup.ac/contest/2828/problem/16126"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=2828&r=1"
+    ]
+  },
+  {
+    "id": "s4-12",
+    "season": 4,
+    "stage": "12",
+    "name": "Shanghai",
+    "date": "2026-01-10",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-13",
+    "season": 4,
+    "stage": "13",
+    "name": "Ōokayama",
+    "date": "2026-01-17",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-13.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-13-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/2921",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Depth of Interval",
+        "url": "https://contest.ucup.ac/contest/2921/problem/16226"
+      },
+      {
+        "letter": "B",
+        "title": "Increasing Swaps",
+        "url": "https://contest.ucup.ac/contest/2921/problem/16227"
+      },
+      {
+        "letter": "C",
+        "title": "Sum of Three Inversions",
+        "url": "https://contest.ucup.ac/contest/2921/problem/16228"
+      },
+      {
+        "letter": "D",
+        "title": "Grid Path Tree",
+        "url": "https://contest.ucup.ac/contest/2921/problem/16229"
+      },
+      {
+        "letter": "E",
+        "title": "Max Twice Subsequences",
+        "url": "https://contest.ucup.ac/contest/2921/problem/16230"
+      },
+      {
+        "letter": "F",
+        "title": "Decimal Pyramid",
+        "url": "https://contest.ucup.ac/contest/2921/problem/16231"
+      },
+      {
+        "letter": "G",
+        "title": "Don't Make Zero",
+        "url": "https://contest.ucup.ac/contest/2921/problem/16232"
+      },
+      {
+        "letter": "H",
+        "title": "Akari Counting",
+        "url": "https://contest.ucup.ac/contest/2921/problem/16233"
+      },
+      {
+        "letter": "I",
+        "title": "Subgrid Connected Components",
+        "url": "https://contest.ucup.ac/contest/2921/problem/16234"
+      },
+      {
+        "letter": "J",
+        "title": "Divide Polygon",
+        "url": "https://contest.ucup.ac/contest/2921/problem/16235"
+      },
+      {
+        "letter": "K",
+        "title": "Two-Way Communication",
+        "url": "https://contest.ucup.ac/contest/2921/problem/16236"
+      },
+      {
+        "letter": "L",
+        "title": "Colorful Quadrilateral",
+        "url": "https://contest.ucup.ac/contest/2921/problem/16237"
+      },
+      {
+        "letter": "M",
+        "title": "Many Approaches",
+        "url": "https://contest.ucup.ac/contest/2921/problem/16238"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=2921&r=1"
+    ]
+  },
+  {
+    "id": "s4-14",
+    "season": 4,
+    "stage": "14",
+    "name": "Hong Kong",
+    "date": "2026-01-31",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-15",
+    "season": 4,
+    "stage": "15",
+    "name": "China",
+    "date": "2026-02-07",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-16",
+    "season": 4,
+    "stage": "16",
+    "name": "Warsaw",
+    "date": "2026-02-14",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-16.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-16-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/3347",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Three Castles",
+        "url": "https://contest.ucup.ac/contest/3347/problem/17150"
+      },
+      {
+        "letter": "B",
+        "title": "Bitwise Beach",
+        "url": "https://contest.ucup.ac/contest/3347/problem/17151"
+      },
+      {
+        "letter": "C",
+        "title": "Copy-paste",
+        "url": "https://contest.ucup.ac/contest/3347/problem/17152"
+      },
+      {
+        "letter": "D",
+        "title": "Deque Sort",
+        "url": "https://contest.ucup.ac/contest/3347/problem/17153"
+      },
+      {
+        "letter": "E",
+        "title": "Evaluation",
+        "url": "https://contest.ucup.ac/contest/3347/problem/17154"
+      },
+      {
+        "letter": "F",
+        "title": "Fix the Coloring",
+        "url": "https://contest.ucup.ac/contest/3347/problem/17155"
+      },
+      {
+        "letter": "G",
+        "title": "Good Permutations",
+        "url": "https://contest.ucup.ac/contest/3347/problem/17156"
+      },
+      {
+        "letter": "H",
+        "title": "House",
+        "url": "https://contest.ucup.ac/contest/3347/problem/17157"
+      },
+      {
+        "letter": "I",
+        "title": "Palindromes",
+        "url": "https://contest.ucup.ac/contest/3347/problem/17158"
+      },
+      {
+        "letter": "J",
+        "title": "Jewel Guards",
+        "url": "https://contest.ucup.ac/contest/3347/problem/17159"
+      },
+      {
+        "letter": "K",
+        "title": "Multiset Variance",
+        "url": "https://contest.ucup.ac/contest/3347/problem/17160"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=3347&r=1"
+    ]
+  },
+  {
+    "id": "s4-17",
+    "season": 4,
+    "stage": "17",
+    "name": "St. Petersburg",
+    "date": "2026-02-21",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-17.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-17-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/3384",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Anthill/Honeypot Simulator",
+        "url": "https://contest.ucup.ac/contest/3384/problem/17161"
+      },
+      {
+        "letter": "B",
+        "title": "Missing Number",
+        "url": "https://contest.ucup.ac/contest/3384/problem/17162"
+      },
+      {
+        "letter": "C",
+        "title": "String Workshop",
+        "url": "https://contest.ucup.ac/contest/3384/problem/17163"
+      },
+      {
+        "letter": "D",
+        "title": "Distinguishable Distributions",
+        "url": "https://contest.ucup.ac/contest/3384/problem/17164"
+      },
+      {
+        "letter": "E",
+        "title": "Four Sages Around an Oak Tree",
+        "url": "https://contest.ucup.ac/contest/3384/problem/17165"
+      },
+      {
+        "letter": "F",
+        "title": "Pluses and Minuses",
+        "url": "https://contest.ucup.ac/contest/3384/problem/17166"
+      },
+      {
+        "letter": "G",
+        "title": "Traffic Lights",
+        "url": "https://contest.ucup.ac/contest/3384/problem/17167"
+      },
+      {
+        "letter": "H",
+        "title": "Sweet Remainders!",
+        "url": "https://contest.ucup.ac/contest/3384/problem/17168"
+      },
+      {
+        "letter": "I",
+        "title": "Wooden Checker",
+        "url": "https://contest.ucup.ac/contest/3384/problem/17169"
+      },
+      {
+        "letter": "J",
+        "title": "Euler Line",
+        "url": "https://contest.ucup.ac/contest/3384/problem/17170"
+      },
+      {
+        "letter": "K",
+        "title": "Traversal of a Triangular Grid",
+        "url": "https://contest.ucup.ac/contest/3384/problem/17171"
+      },
+      {
+        "letter": "L",
+        "title": "Triangles",
+        "url": "https://contest.ucup.ac/contest/3384/problem/17172"
+      },
+      {
+        "letter": "M",
+        "title": "Construction Company",
+        "url": "https://contest.ucup.ac/contest/3384/problem/17173"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=3384&r=1"
+    ]
+  },
+  {
+    "id": "s4-18",
+    "season": 4,
+    "stage": "18",
+    "name": "Hongō",
+    "date": "2026-02-28",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-18.pdf"
+    ],
+    "editorials": [
+      "https://atcoder.jp/contests/utpc2025/editorial"
+    ],
+    "contest_url": "https://qoj.ac/contest/3420",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Apparently Make UTPC",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17246"
+      },
+      {
+        "letter": "B",
+        "title": "Binary Tree Counting",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17247"
+      },
+      {
+        "letter": "C",
+        "title": "Convex Crusher",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17248"
+      },
+      {
+        "letter": "D",
+        "title": "Divisible by 11",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17249"
+      },
+      {
+        "letter": "E",
+        "title": "Exchange or Not",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17250"
+      },
+      {
+        "letter": "F",
+        "title": "Finite Bracket Sequence",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17251"
+      },
+      {
+        "letter": "G",
+        "title": "Greatest Bracket Sequence",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17252"
+      },
+      {
+        "letter": "H",
+        "title": "Heyawake-like Problem",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17253"
+      },
+      {
+        "letter": "I",
+        "title": "Inversion Graph",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17254"
+      },
+      {
+        "letter": "J",
+        "title": "Jelly",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17255"
+      },
+      {
+        "letter": "K",
+        "title": "Keep or Gamble",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17256"
+      },
+      {
+        "letter": "L",
+        "title": "Linear Floor",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17257"
+      },
+      {
+        "letter": "M",
+        "title": "Max Conference",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17258"
+      },
+      {
+        "letter": "N",
+        "title": "Numerical Error",
+        "url": "https://contest.ucup.ac/contest/3420/problem/17259"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s4-19",
+    "season": 4,
+    "stage": "19",
+    "name": "Belarus",
+    "date": "2026-03-07",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-19.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-19-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/3426",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Art of Multiplication",
+        "url": "https://contest.ucup.ac/contest/3426/problem/17260"
+      },
+      {
+        "letter": "B",
+        "title": "Building a Reactor",
+        "url": "https://contest.ucup.ac/contest/3426/problem/17261"
+      },
+      {
+        "letter": "C",
+        "title": "Cell Flip Game",
+        "url": "https://contest.ucup.ac/contest/3426/problem/17262"
+      },
+      {
+        "letter": "D",
+        "title": "Detecting the Missing Ship",
+        "url": "https://contest.ucup.ac/contest/3426/problem/17263"
+      },
+      {
+        "letter": "E",
+        "title": "Encountering a Friend",
+        "url": "https://contest.ucup.ac/contest/3426/problem/17264"
+      },
+      {
+        "letter": "F",
+        "title": "Forgot to Refuel",
+        "url": "https://contest.ucup.ac/contest/3426/problem/17265"
+      },
+      {
+        "letter": "G",
+        "title": "Guaranteed Medal",
+        "url": "https://contest.ucup.ac/contest/3426/problem/17266"
+      },
+      {
+        "letter": "H",
+        "title": "Helpful Bits",
+        "url": "https://contest.ucup.ac/contest/3426/problem/17267"
+      },
+      {
+        "letter": "I",
+        "title": "Ivan Tsarevich in the Magical Grove",
+        "url": "https://contest.ucup.ac/contest/3426/problem/17268"
+      },
+      {
+        "letter": "J",
+        "title": "Jolly Wheel",
+        "url": "https://contest.ucup.ac/contest/3426/problem/17269"
+      },
+      {
+        "letter": "K",
+        "title": "Kitchen",
+        "url": "https://contest.ucup.ac/contest/3426/problem/17270"
+      },
+      {
+        "letter": "L",
+        "title": "Layered Caesar Salad",
+        "url": "https://contest.ucup.ac/contest/3426/problem/17271"
+      },
+      {
+        "letter": "M",
+        "title": "May We Answer Your Questions Right?",
+        "url": "https://contest.ucup.ac/contest/3426/problem/17272"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=3426&r=1"
+    ]
+  },
+  {
+    "id": "s4-20",
+    "season": 4,
+    "stage": "20",
+    "name": "India",
+    "date": "2026-03-21",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-20.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-20-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/3516",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Ant and Sticks",
+        "url": "https://contest.ucup.ac/contest/3516/problem/17406"
+      },
+      {
+        "letter": "B",
+        "title": "Palindrome and Permutation",
+        "url": "https://contest.ucup.ac/contest/3516/problem/17407"
+      },
+      {
+        "letter": "C",
+        "title": "Score Queries",
+        "url": "https://contest.ucup.ac/contest/3516/problem/17408"
+      },
+      {
+        "letter": "D",
+        "title": "Merging Maximum",
+        "url": "https://contest.ucup.ac/contest/3516/problem/17409"
+      },
+      {
+        "letter": "E",
+        "title": "Optimal Splitting",
+        "url": "https://contest.ucup.ac/contest/3516/problem/17410"
+      },
+      {
+        "letter": "F",
+        "title": "Restricted Removals",
+        "url": "https://contest.ucup.ac/contest/3516/problem/17411"
+      },
+      {
+        "letter": "G",
+        "title": "Sequence Domination",
+        "url": "https://contest.ucup.ac/contest/3516/problem/17412"
+      },
+      {
+        "letter": "H",
+        "title": "Maximum Difference",
+        "url": "https://contest.ucup.ac/contest/3516/problem/17413"
+      },
+      {
+        "letter": "I",
+        "title": "Point Mirror",
+        "url": "https://contest.ucup.ac/contest/3516/problem/17414"
+      },
+      {
+        "letter": "J",
+        "title": "Counting Is Fun",
+        "url": "https://contest.ucup.ac/contest/3516/problem/17415"
+      },
+      {
+        "letter": "K",
+        "title": "Prefix MEX Equation",
+        "url": "https://contest.ucup.ac/contest/3516/problem/17416"
+      },
+      {
+        "letter": "L",
+        "title": "Alice and Bob",
+        "url": "https://contest.ucup.ac/contest/3516/problem/17417"
+      },
+      {
+        "letter": "M",
+        "title": "Vertex Separation",
+        "url": "https://contest.ucup.ac/contest/3516/problem/17418"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=3516&r=1"
+    ]
+  },
+  {
+    "id": "s4-21",
+    "season": 4,
+    "stage": "21",
+    "name": "Kamigō",
+    "date": "2026-03-28",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-21.pdf"
+    ],
+    "editorials": [
+      "https://atcoder.jp/contests/pakencamp-2025-day3/editorial"
+    ],
+    "contest_url": "https://qoj.ac/contest/3542",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "01 Matrix",
+        "url": "https://contest.ucup.ac/contest/3542/problem/17419"
+      },
+      {
+        "letter": "B",
+        "title": "Birds-of-Paradise' Card Game",
+        "url": "https://contest.ucup.ac/contest/3542/problem/17420"
+      },
+      {
+        "letter": "C",
+        "title": "Don't be Clockwise",
+        "url": "https://contest.ucup.ac/contest/3542/problem/17421"
+      },
+      {
+        "letter": "D",
+        "title": "Except Ai",
+        "url": "https://contest.ucup.ac/contest/3542/problem/17422"
+      },
+      {
+        "letter": "E",
+        "title": "Find \"rururutata\"",
+        "url": "https://contest.ucup.ac/contest/3542/problem/17423"
+      },
+      {
+        "letter": "F",
+        "title": "Increase Decrease",
+        "url": "https://contest.ucup.ac/contest/3542/problem/17424"
+      },
+      {
+        "letter": "H",
+        "title": "OR Preference",
+        "url": "https://contest.ucup.ac/contest/3542/problem/17426"
+      },
+      {
+        "letter": "I",
+        "title": "Penguin Flicker",
+        "url": "https://contest.ucup.ac/contest/3542/problem/17427"
+      },
+      {
+        "letter": "J",
+        "title": "Set Sequence",
+        "url": "https://contest.ucup.ac/contest/3542/problem/17428"
+      },
+      {
+        "letter": "K",
+        "title": "Talk Event",
+        "url": "https://contest.ucup.ac/contest/3542/problem/17429"
+      },
+      {
+        "letter": "L",
+        "title": "Unique Sheet",
+        "url": "https://contest.ucup.ac/contest/3542/problem/17430"
+      },
+      {
+        "letter": "M",
+        "title": "Up-Down Sequence",
+        "url": "https://contest.ucup.ac/contest/3542/problem/17431"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s4-22",
+    "season": 4,
+    "stage": "22",
+    "name": "Kyoto",
+    "date": "2026-04-04",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-22.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-22-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/3575",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Kendama Challenge",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17713"
+      },
+      {
+        "letter": "B",
+        "title": "Cat Cut",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17714"
+      },
+      {
+        "letter": "C",
+        "title": "Partition AND/OR Aggregation",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17715"
+      },
+      {
+        "letter": "D",
+        "title": "Campaign Speech",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17716"
+      },
+      {
+        "letter": "E",
+        "title": "Ball Dumping Golf",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17717"
+      },
+      {
+        "letter": "F",
+        "title": "1e16 Cities",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17718"
+      },
+      {
+        "letter": "G",
+        "title": "The Symbolic Tree",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17719"
+      },
+      {
+        "letter": "H",
+        "title": "How to Validate Such a Program",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17720"
+      },
+      {
+        "letter": "I",
+        "title": "Xor Magic Square",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17721"
+      },
+      {
+        "letter": "J",
+        "title": "Sum of max of iai",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17722"
+      },
+      {
+        "letter": "K",
+        "title": "Square Resistance Value",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17723"
+      },
+      {
+        "letter": "L",
+        "title": "Make Many KUPC",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17724"
+      },
+      {
+        "letter": "M",
+        "title": "Linked VERSE",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17725"
+      },
+      {
+        "letter": "N",
+        "title": "Cellular Component Constellation",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17726"
+      },
+      {
+        "letter": "O",
+        "title": "Xor Triangle",
+        "url": "https://contest.ucup.ac/contest/3575/problem/17727"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=3575&r=1"
+    ]
+  },
+  {
+    "id": "s4-23",
+    "season": 4,
+    "stage": "23",
+    "name": "Nanyang",
+    "date": "2026-05-02",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-24",
+    "season": 4,
+    "stage": "24",
+    "name": "Wulin",
+    "date": "2026-05-16",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-25",
+    "season": 4,
+    "stage": "25",
+    "name": "Zagreb",
+    "date": "2026-05-30",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-25.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-25-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/3773",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Arrow Array",
+        "url": "https://contest.ucup.ac/contest/3773/problem/18401"
+      },
+      {
+        "letter": "B",
+        "title": "Big Balls",
+        "url": "https://contest.ucup.ac/contest/3773/problem/18402"
+      },
+      {
+        "letter": "C",
+        "title": "Crooked Cycles",
+        "url": "https://contest.ucup.ac/contest/3773/problem/18403"
+      },
+      {
+        "letter": "D",
+        "title": "Dangerous Data",
+        "url": "https://contest.ucup.ac/contest/3773/problem/18404"
+      },
+      {
+        "letter": "E",
+        "title": "Exchange Error",
+        "url": "https://contest.ucup.ac/contest/3773/problem/18405"
+      },
+      {
+        "letter": "F",
+        "title": "Flipping Frenzy",
+        "url": "https://contest.ucup.ac/contest/3773/problem/18406"
+      },
+      {
+        "letter": "G",
+        "title": "Grid Gradient",
+        "url": "https://contest.ucup.ac/contest/3773/problem/18407"
+      },
+      {
+        "letter": "H",
+        "title": "Halfway Hawser",
+        "url": "https://contest.ucup.ac/contest/3773/problem/18408"
+      },
+      {
+        "letter": "I",
+        "title": "Intricate Instrument",
+        "url": "https://contest.ucup.ac/contest/3773/problem/18409"
+      },
+      {
+        "letter": "J",
+        "title": "Jolly Janes",
+        "url": "https://contest.ucup.ac/contest/3773/problem/18410"
+      },
+      {
+        "letter": "K",
+        "title": "Kempt Kale",
+        "url": "https://contest.ucup.ac/contest/3773/problem/18411"
+      },
+      {
+        "letter": "L",
+        "title": "Loop Land",
+        "url": "https://contest.ucup.ac/contest/3773/problem/18412"
+      },
+      {
+        "letter": "M",
+        "title": "Maximum Mex",
+        "url": "https://contest.ucup.ac/contest/3773/problem/18413"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=3773&r=1",
+      "https://contest.ucup.ac/download.php?type=attachments&id=3773&r=2"
+    ]
+  },
+  {
+    "id": "s4-Extra-1",
+    "season": 4,
+    "stage": "Extra-1",
+    "name": "Xi'an",
+    "date": "2025-11-05",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-Extra-2",
+    "season": 4,
+    "stage": "Extra-2",
+    "name": "Wuhan",
+    "date": "2025-11-18",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-Challenge",
+    "season": 4,
+    "stage": "Challenge",
+    "name": "UCup Online",
+    "date": "2025-12-17",
+    "policy": "excluded",
+    "reason": "地域未确认，保守排除",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-Extra-3",
+    "season": 4,
+    "stage": "Extra-3",
+    "name": "Osijek",
+    "date": "2025-12-20",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [
+      "https://ucup.ac/statements/statements-4-e3.pdf"
+    ],
+    "editorials": [
+      "https://ucup.ac/tutorials/tutorials-4-e3-en.pdf"
+    ],
+    "contest_url": "https://qoj.ac/contest/2757",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Magician",
+        "url": "https://contest.ucup.ac/contest/2757/problem/15517"
+      },
+      {
+        "letter": "B",
+        "title": "Word Generator",
+        "url": "https://contest.ucup.ac/contest/2757/problem/15518"
+      },
+      {
+        "letter": "C",
+        "title": "Glitch",
+        "url": "https://contest.ucup.ac/contest/2757/problem/15519"
+      },
+      {
+        "letter": "D",
+        "title": "Electi Lamps",
+        "url": "https://contest.ucup.ac/contest/2757/problem/15520"
+      },
+      {
+        "letter": "E",
+        "title": "XOR Again?",
+        "url": "https://contest.ucup.ac/contest/2757/problem/15521"
+      },
+      {
+        "letter": "F",
+        "title": "Binary Permutation",
+        "url": "https://contest.ucup.ac/contest/2757/problem/15522"
+      },
+      {
+        "letter": "G",
+        "title": "Amoeba Tree",
+        "url": "https://contest.ucup.ac/contest/2757/problem/15523"
+      },
+      {
+        "letter": "H",
+        "title": "Magical Puzzles",
+        "url": "https://contest.ucup.ac/contest/2757/problem/15524"
+      },
+      {
+        "letter": "I",
+        "title": "Bobs Rating",
+        "url": "https://contest.ucup.ac/contest/2757/problem/15525"
+      },
+      {
+        "letter": "J",
+        "title": "AND Components",
+        "url": "https://contest.ucup.ac/contest/2757/problem/15526"
+      },
+      {
+        "letter": "K",
+        "title": "Hidden Digits",
+        "url": "https://contest.ucup.ac/contest/2757/problem/15527"
+      },
+      {
+        "letter": "L",
+        "title": "Robots",
+        "url": "https://contest.ucup.ac/contest/2757/problem/15528"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=2757&r=1"
+    ]
+  },
+  {
+    "id": "s4-Extra-4",
+    "season": 4,
+    "stage": "Extra-4",
+    "name": "Chongqing",
+    "date": "2026-02-23",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-Extra-5",
+    "season": 4,
+    "stage": "Extra-5",
+    "name": "Shenzhen",
+    "date": "2026-04-18",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-Finals(Season 3)",
+    "season": 4,
+    "stage": "Finals(Season 3)",
+    "name": "2026 Finals",
+    "date": "2026-05-10",
+    "policy": "excluded",
+    "reason": "地域未确认，保守排除",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-Extra-6",
+    "season": 4,
+    "stage": "Extra-6",
+    "name": "Shaanxi",
+    "date": "2026-05-31",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/archive/season4/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s5-1",
+    "season": 5,
+    "stage": "1",
+    "name": "Nizhny Novgorod",
+    "date": "2026-09-19",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": "https://qoj.ac/contest/4126",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Astana Hard Metro",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20248"
+      },
+      {
+        "letter": "B",
+        "title": "Beggar Robin",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20249"
+      },
+      {
+        "letter": "C",
+        "title": "Cost of Conflicts",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20250"
+      },
+      {
+        "letter": "D",
+        "title": "Digesting",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20251"
+      },
+      {
+        "letter": "E",
+        "title": "Easter Eggs",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20252"
+      },
+      {
+        "letter": "F",
+        "title": "Fresh Cartridges",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20253"
+      },
+      {
+        "letter": "G",
+        "title": "Game Show: XOR Edition",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20254"
+      },
+      {
+        "letter": "H",
+        "title": "Hockey Hog",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20255"
+      },
+      {
+        "letter": "I",
+        "title": "Incident in the Bakery",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20256"
+      },
+      {
+        "letter": "J",
+        "title": "Jaded Juice",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20257"
+      },
+      {
+        "letter": "K",
+        "title": "Kitchen Knives",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20258"
+      },
+      {
+        "letter": "L",
+        "title": "Leave Triple & Link Tree",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20259"
+      },
+      {
+        "letter": "M",
+        "title": "Minecraft Spiderweb",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20260"
+      },
+      {
+        "letter": "N",
+        "title": "Native Niuean",
+        "url": "https://contest.ucup.ac/contest/4126/problem/20261"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=4126&r=1"
+    ]
+  },
+  {
+    "id": "s5-2",
+    "season": 5,
+    "stage": "2",
+    "name": "EPS",
+    "date": "2026-09-26",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": "https://qoj.ac/contest/4207",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "All the Trades Are the Best",
+        "url": "https://contest.ucup.ac/contest/4207/problem/20715"
+      },
+      {
+        "letter": "B",
+        "title": "Best Trades Again",
+        "url": "https://contest.ucup.ac/contest/4207/problem/21379"
+      },
+      {
+        "letter": "C",
+        "title": "Cross the Road",
+        "url": "https://contest.ucup.ac/contest/4207/problem/20717"
+      },
+      {
+        "letter": "D",
+        "title": "Dodge the Car",
+        "url": "https://contest.ucup.ac/contest/4207/problem/20718"
+      },
+      {
+        "letter": "E",
+        "title": "EPS.AC",
+        "url": "https://contest.ucup.ac/contest/4207/problem/20719"
+      },
+      {
+        "letter": "F",
+        "title": "Flight of the Night Butterfly",
+        "url": "https://contest.ucup.ac/contest/4207/problem/20720"
+      },
+      {
+        "letter": "G",
+        "title": "Growing Prefix Span",
+        "url": "https://contest.ucup.ac/contest/4207/problem/20721"
+      },
+      {
+        "letter": "H",
+        "title": "Harmonizing Charges",
+        "url": "https://contest.ucup.ac/contest/4207/problem/21380"
+      },
+      {
+        "letter": "I",
+        "title": "Integer Triple",
+        "url": "https://contest.ucup.ac/contest/4207/problem/20723"
+      },
+      {
+        "letter": "J",
+        "title": "Jobs through Pipelines",
+        "url": "https://contest.ucup.ac/contest/4207/problem/20724"
+      },
+      {
+        "letter": "K",
+        "title": "Killer Die",
+        "url": "https://contest.ucup.ac/contest/4207/problem/21381"
+      },
+      {
+        "letter": "L",
+        "title": "Logging Compression",
+        "url": "https://contest.ucup.ac/contest/4207/problem/20726"
+      },
+      {
+        "letter": "M",
+        "title": "Median Equals X",
+        "url": "https://contest.ucup.ac/contest/4207/problem/20727"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s5-3",
+    "season": 5,
+    "stage": "3",
+    "name": "Gorkovskaya",
+    "date": "2026-10-03",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": "https://qoj.ac/contest/4565",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Adjacent Decrements",
+        "url": "https://contest.ucup.ac/contest/4565/problem/20729"
+      },
+      {
+        "letter": "B",
+        "title": "Binary Rotations",
+        "url": "https://contest.ucup.ac/contest/4565/problem/20730"
+      },
+      {
+        "letter": "C",
+        "title": "Circle Construction",
+        "url": "https://contest.ucup.ac/contest/4565/problem/20731"
+      },
+      {
+        "letter": "D",
+        "title": "Dynamic Adjustment",
+        "url": "https://contest.ucup.ac/contest/4565/problem/20732"
+      },
+      {
+        "letter": "E",
+        "title": "Equal Totients",
+        "url": "https://contest.ucup.ac/contest/4565/problem/20733"
+      },
+      {
+        "letter": "F",
+        "title": "Flipping Lamps",
+        "url": "https://contest.ucup.ac/contest/4565/problem/20734"
+      },
+      {
+        "letter": "G",
+        "title": "Game",
+        "url": "https://contest.ucup.ac/contest/4565/problem/20735"
+      },
+      {
+        "letter": "H",
+        "title": "Hamiltonian LCM",
+        "url": "https://contest.ucup.ac/contest/4565/problem/20736"
+      },
+      {
+        "letter": "I",
+        "title": "Interval MST",
+        "url": "https://contest.ucup.ac/contest/4565/problem/20737"
+      },
+      {
+        "letter": "J",
+        "title": "Jump Cycle",
+        "url": "https://contest.ucup.ac/contest/4565/problem/20738"
+      },
+      {
+        "letter": "K",
+        "title": "Keep Colors Apart",
+        "url": "https://contest.ucup.ac/contest/4565/problem/20739"
+      },
+      {
+        "letter": "L",
+        "title": "Leaf Meeting",
+        "url": "https://contest.ucup.ac/contest/4565/problem/20740"
+      },
+      {
+        "letter": "M",
+        "title": "Matching Substrings",
+        "url": "https://contest.ucup.ac/contest/4565/problem/20741"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=4565&r=1"
+    ]
+  },
+  {
+    "id": "s5-5",
+    "season": 5,
+    "stage": "5",
+    "name": "Chengdu",
+    "date": "2026-10-31",
+    "policy": "excluded",
+    "reason": "中国赛站，保留 VP",
+    "index_url": "https://ucup.ac/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s5-6",
+    "season": 5,
+    "stage": "6",
+    "name": "Hyakumanben",
+    "date": "2026-11-07",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://ucup.ac/",
+    "statements": [],
+    "editorials": [],
+    "contest_url": "https://qoj.ac/contest/4617",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Fugaku NK-kei",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23669"
+      },
+      {
+        "letter": "B",
+        "title": "PerMutation",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23670"
+      },
+      {
+        "letter": "C",
+        "title": "Moving Silver",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23671"
+      },
+      {
+        "letter": "D",
+        "title": "Go Robots",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23672"
+      },
+      {
+        "letter": "E",
+        "title": "K-Independent Matrix",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23673"
+      },
+      {
+        "letter": "F",
+        "title": "Path XOR on MST",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23674"
+      },
+      {
+        "letter": "G",
+        "title": "Source to Sink",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23675"
+      },
+      {
+        "letter": "H",
+        "title": "Please Insert Coin",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23676"
+      },
+      {
+        "letter": "I",
+        "title": "tatesoto decomposition",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23677"
+      },
+      {
+        "letter": "J",
+        "title": "Hugest Number",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23678"
+      },
+      {
+        "letter": "K",
+        "title": "Dyads of Hanoi",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23679"
+      },
+      {
+        "letter": "L",
+        "title": "Consecutive Pairs",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23680"
+      },
+      {
+        "letter": "M",
+        "title": "I hate prime numbers",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23681"
+      },
+      {
+        "letter": "N",
+        "title": "Delete Sad Faces (Hard)",
+        "url": "https://contest.ucup.ac/contest/4617/problem/23682"
+      }
+    ],
+    "attachment_editorials": [
+      "https://contest.ucup.ac/download.php?type=attachments&id=4617&r=1"
+    ]
+  },
+  {
+    "id": "s5-4",
+    "season": 5,
+    "stage": "4",
+    "name": "Grand Prix of Xi'an",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s5-Extra-1",
+    "season": 5,
+    "stage": "Extra-1",
+    "name": "Dolgoprudny",
+    "date": "",
+    "policy": "overseas",
+    "reason": "",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": "https://qoj.ac/contest/4569",
+    "problems": [
+      {
+        "letter": "A",
+        "title": "Mafia and Candies",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23126"
+      },
+      {
+        "letter": "B",
+        "title": "Valid Assignment",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23127"
+      },
+      {
+        "letter": "C",
+        "title": "Reconstruction",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23128"
+      },
+      {
+        "letter": "D",
+        "title": "Penalties on a Segment of Cities",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23129"
+      },
+      {
+        "letter": "E",
+        "title": "Orientation of a Graph",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23130"
+      },
+      {
+        "letter": "F",
+        "title": "Trading",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23131"
+      },
+      {
+        "letter": "G",
+        "title": "XOR of All Children",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23132"
+      },
+      {
+        "letter": "H",
+        "title": "A Near-Inversion Graph",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23133"
+      },
+      {
+        "letter": "I",
+        "title": "Swap and Shift",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23134"
+      },
+      {
+        "letter": "J",
+        "title": "Minimum Spanning Forest",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23135"
+      },
+      {
+        "letter": "K",
+        "title": "Three Permutations",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23136"
+      },
+      {
+        "letter": "L",
+        "title": "Graph Built by XOR",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23137"
+      },
+      {
+        "letter": "M",
+        "title": "Board Game",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23138"
+      },
+      {
+        "letter": "N",
+        "title": "Transfers in a Cactus Graph",
+        "url": "https://contest.ucup.ac/contest/4569/problem/23139"
+      }
+    ],
+    "attachment_editorials": []
+  },
+  {
+    "id": "s4-26",
+    "season": 4,
+    "stage": "26",
+    "name": "Grand Prix of Guangdong",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s4-Extra-7",
+    "season": 4,
+    "stage": "Extra-7",
+    "name": "Hubei",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s2-0",
+    "season": 2,
+    "stage": "0",
+    "name": "Trial Contest",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s1-22",
+    "season": 1,
+    "stage": "22",
+    "name": "Shaanxi",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s1-21",
+    "season": 1,
+    "stage": "21",
+    "name": "Shandong",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s1-18",
+    "season": 1,
+    "stage": "18",
+    "name": "Shenzhen",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s1-17",
+    "season": 1,
+    "stage": "17",
+    "name": "第八届中国大学生程序设计竞赛总决赛（CCPC Final 2022）",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s1-15",
+    "season": 1,
+    "stage": "15",
+    "name": "Hangzhou",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s1-14",
+    "season": 1,
+    "stage": "14",
+    "name": "Ranoa",
+    "date": "",
+    "policy": "excluded",
+    "reason": "地域未确认，保守排除",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s1-11",
+    "season": 1,
+    "stage": "11",
+    "name": "The 2022 ICPC Asia East Continent Final Contest (EC-Final 2022)",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s1-10",
+    "season": 1,
+    "stage": "10",
+    "name": "Zhejiang",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s1-9",
+    "season": 1,
+    "stage": "9",
+    "name": "The 2018 ICPC Asia Qingdao Regional Contest",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s1-6",
+    "season": 1,
+    "stage": "6",
+    "name": "The 2022 ICPC Asia Taoyuan Regional Programming Contest",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s1-2",
+    "season": 1,
+    "stage": "2",
+    "name": "The 2022 ICPC Asia Hong Kong Regional Contest",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s1-1",
+    "season": 1,
+    "stage": "1",
+    "name": "The 2022 ICPC Asia Shenyang Regional Contest",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  },
+  {
+    "id": "s1-0",
+    "season": 1,
+    "stage": "0",
+    "name": "The 2022 ICPC Asia Nanjing Regional Contest",
+    "date": "",
+    "policy": "excluded",
+    "reason": "中国赛站或非专题范围，保留 VP",
+    "index_url": "https://contest.ucup.ac/contests",
+    "statements": [],
+    "editorials": [],
+    "contest_url": ""
+  }
+]

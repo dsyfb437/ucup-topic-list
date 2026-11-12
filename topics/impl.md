@@ -1,0 +1,33 @@
+# 模拟与基础实现
+
+27 题。主副专题都纳入本页，同题可在多个专题出现。分类是题解归纳，排序不代表难度。
+
+| 题目 | 赛站 | 专题 | 题解依据 |
+|---|---|---|---|
+| [s1-8-L · The Game](https://contest.ucup.ac/contest/1070/problem/5260) | S1 Slovenia | 模拟与基础实现 | 按优先规则模拟牌堆、手牌和行；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-8.pdf)（文件 p.2） |
+| [s2-2-B · I Flipped The Calendar...](https://contest.ucup.ac/contest/1356/problem/7176) | S2 SPb | 模拟与基础实现 | 按公历日期枚举星期一与每月一日，交集只计一次；[原文](https://assets.ucup.ac/tutorials/tutorials-2-2.zip)（文件 p.2） |
+| [s2-6-J · Sequence Folding](https://contest.ucup.ac/contest/1398/problem/7615) | S2 Warsaw | 模拟与基础实现 | 按折叠位置合并 0、1 和问号状态；[原文](https://assets.ucup.ac/tutorials/tutorials-2-6.pdf)（文件 p.4） |
+| [s2-20-F · $N^a (\log N)^b$](https://contest.ucup.ac/contest/1499/problem/8170) | S2 Ōokayama | 模拟与基础实现 | 递归解析表达式，用三元组维护渐近增长阶；[原文](https://assets.ucup.ac/tutorials/tutorials-2-20.pdf)（文件 p.7） |
+| [s2-26-L · LED Matrix](https://contest.ucup.ac/contest/1576/problem/8516) | S2 Latin America | 模拟与基础实现、位运算与状态压缩 | 逐行判断 LED 完好或目标全灭条件；[原文](https://scorelatam.naquadah.com.br/pda24/editorial.pdf)（文件 p.16） |
+| [s3-0-C · Comparator](https://contest.ucup.ac/contest/1695/problem/8770) | S3 America | 位运算与状态压缩、模拟与基础实现 | 表达式真值表压缩，用 bitset 检验传递性；[原文](https://assets.ucup.ac/tutorials/tutorials-3-00-en.pdf)（文件 p.7） |
+| [s3-0-D · Dihedral Group](https://contest.ucup.ac/contest/1695/problem/8771) | S3 America | 模拟与基础实现 | 唯一首元素定位后，检查两个环上方向；[原文](https://assets.ucup.ac/tutorials/tutorials-3-00-en.pdf)（文件 p.9） |
+| [s3-1-H · Page on vdome.com](https://contest.ucup.ac/contest/1696/problem/8788) | S3 St. Petersburg | 模拟与基础实现 | 规范化编号去前导零，按小范围计算 mex；[原文](https://assets.ucup.ac/tutorials/tutorials-3-01-en.pdf)（文件 p.111） |
+| [s3-1-K · Tasks and Bugs](https://contest.ucup.ac/contest/1696/problem/8791) | S3 St. Petersburg | 模拟与基础实现、数据结构 | 映射聚合任务与 bug，按数值顺序输出；[原文](https://assets.ucup.ac/tutorials/tutorials-3-01-en.pdf)（文件 p.187） |
+| [s3-1-M · Toilets](https://contest.ucup.ac/contest/1696/problem/8793) | S3 St. Petersburg | 数据结构、模拟与基础实现 | 有序集合维护最近候选，事件模拟如厕分配；[原文](https://assets.ucup.ac/tutorials/tutorials-3-01-en.pdf)（文件 p.210） |
+| [s3-5-B · Bookshelf Tracking](https://contest.ucup.ac/contest/1741/problem/9131) | S3 Moscow | 模拟与基础实现 | 只保留最后一次重排前的半区归属，再模拟交换；[原文](https://qoj.ac/blog/jiangly/blogs/941) |
+| [s3-13-E · Hotel](https://contest.ucup.ac/contest/1812/problem/9480) | S3 Sendai | 模拟与基础实现 | 离线逆推插入时刻，批量跳过同类操作；[原文](https://assets.ucup.ac/tutorials/tutorials-3-13-ja.pdf)（文件 p.29） |
+| [s3-24-A · Acronym](https://contest.ucup.ac/contest/1890/problem/9959) | S3 Poland | 字符串、模拟与基础实现 | 记录每个首字母代表词，检查缩写的所有字母；[原文](https://assets.ucup.ac/tutorials/tutorials-3-24-pl.pdf)（文件 p.2） |
+| [s3-24-F · Frogs](https://contest.ucup.ac/contest/1890/problem/9964) | S3 Poland | 数论、模拟与基础实现 | 分析方向传播与环上位移平衡，前缀和计算最终方向；[原文](https://assets.ucup.ac/tutorials/tutorials-3-24-pl.pdf)（文件 p.162） |
+| [s3-24-G · Game MPO](https://contest.ucup.ac/contest/1890/problem/9965) | S3 Poland | 图论、模拟与基础实现 | 网格 DFS 传播大小写配对约束；[原文](https://assets.ucup.ac/tutorials/tutorials-3-24-pl.pdf)（文件 p.13） |
+| [s3-24-K · Kindergarten Square](https://contest.ucup.ac/contest/1890/problem/9969) | S3 Poland | 模拟与基础实现 | 相邻差恢复宽度，检查边界与整除条件；[原文](https://assets.ucup.ac/tutorials/tutorials-3-24-pl.pdf)（文件 p.8） |
+| [s3-27-F · Fast Tree Queries](https://contest.ucup.ac/contest/1901/problem/8616) | S3 London | 树上算法、模拟与基础实现 | 重链剖分后对连续数组使用 SIMD 批量运算；[原文](https://assets.ucup.ac/tutorials/tutorials-3-27-en.pdf)（文件 p.2） |
+| [s3-31-E · Expression](https://contest.ucup.ac/contest/1924/problem/10118) | S3 Wroclaw | 模拟与基础实现、位运算与状态压缩 | 解析布尔表达式，利用等价恒等式重写运算；[原文](https://assets.ucup.ac/tutorials/tutorials-3-31-en.pdf)（文件 p.51） |
+| [s3-31-L · Labyrinth](https://contest.ucup.ac/contest/1924/problem/10125) | S3 Wroclaw | 图论、模拟与基础实现 | 位置和方向组成函数图，检测环并计算出界步数；[原文](https://assets.ucup.ac/tutorials/tutorials-3-31-en.pdf)（文件 p.25） |
+| [s4-0-M · This Is Sparta!](https://contest.ucup.ac/contest/2041/problem/11368) | S4 America | 数论、模拟与基础实现 | 先模拟缩小有效长度，再批量计算三元组差分过程；[原文](https://assets.ucup.ac/tutorials/tutorials-4-00-en.pdf)（文件 p.53） |
+| [s4-2-C · Classement Nationale](https://contest.ucup.ac/contest/2551/problem/14132) | S4 Paris | 位运算与状态压缩、模拟与基础实现 | 枚举比赛子集，三指针模拟稀疏时间事件；[原文](https://assets.ucup.ac/tutorials/tutorials-4-02-en.pdf)（文件 p.1） |
+| [s4-2-G · Goofy Songs](https://contest.ucup.ac/contest/2551/problem/14136) | S4 Paris | 字符串、模拟与基础实现 | 正则表达式分组与重复短句匹配；[原文](https://assets.ucup.ac/tutorials/tutorials-4-02-en.pdf)（文件 p.4） |
+| [s4-8-H · Hacking](https://contest.ucup.ac/contest/2668/problem/15451) | S4 Poland | 模拟与基础实现 | 六百分钟减去给定耗时总和；[原文](https://assets.ucup.ac/tutorials/tutorials-4-08-pl.pdf)（文件 p.2） |
+| [s4-19-A · Art of Multiplication](https://contest.ucup.ac/contest/3426/problem/17260) | S4 Belarus | 数论、模拟与基础实现 | 重复数字积写成等比数列，压缩长串零九并处理进位；[原文](https://assets.ucup.ac/tutorials/tutorials-4-19-en.pdf)（文件 p.1） |
+| [s4-19-E · Encountering a Friend](https://contest.ucup.ac/contest/3426/problem/17264) | S4 Belarus | 数论、模拟与基础实现 | 朋友对局间隔规律，计算首次相遇与之后隔场次数；[原文](https://assets.ucup.ac/tutorials/tutorials-4-19-en.pdf)（文件 p.3） |
+| [s4-19-G · Guaranteed Medal](https://contest.ucup.ac/contest/3426/problem/17266) | S4 Belarus | 模拟与基础实现、数据结构 | 按提交顺序模拟判题与罚时，map 维护队伍成绩；[原文](https://assets.ucup.ac/tutorials/tutorials-4-19-en.pdf)（文件 p.4） |
+| [s4-19-K · Kitchen](https://contest.ucup.ac/contest/3426/problem/17270) | S4 Belarus | 模拟与基础实现、数据结构 | 优先队列维护蟑螂吃诱饵事件；[原文](https://assets.ucup.ac/tutorials/tutorials-4-19-en.pdf)（文件 p.7） |

@@ -1,0 +1,490 @@
+[
+  {
+    "stage_id": "s3-11",
+    "title": "A - Welcome to NPCAPC",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10269",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_a",
+    "path": "sources/s3-11-atcoder-10269.txt",
+    "characters": 2124
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "B - Some Sum of Subset",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10175",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_b",
+    "path": "sources/s3-11-atcoder-10175.txt",
+    "characters": 1913
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "C - Solve with Friends",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10201",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_c",
+    "path": "sources/s3-11-atcoder-10201.txt",
+    "characters": 1146
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "D - Two Box",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10024",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_d",
+    "path": "sources/s3-11-atcoder-10024.txt",
+    "characters": 2406
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "E - Aim High",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10023",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_e",
+    "path": "sources/s3-11-atcoder-10023.txt",
+    "characters": 2177
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "F - Train Seats",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10270",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_f",
+    "path": "sources/s3-11-atcoder-10270.txt",
+    "characters": 3712
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "G - Many Common Segment Problems",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10026",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_g",
+    "path": "sources/s3-11-atcoder-10026.txt",
+    "characters": 2344
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "H - Music Game",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10268",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_h",
+    "path": "sources/s3-11-atcoder-10268.txt",
+    "characters": 1143
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "I - Left Equals Right",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10176",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_i",
+    "path": "sources/s3-11-atcoder-10176.txt",
+    "characters": 1416
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "J - Again Permutation Problem",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10019",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_j",
+    "path": "sources/s3-11-atcoder-10019.txt",
+    "characters": 3675
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "K - Peace with Magic",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10223",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_k",
+    "path": "sources/s3-11-atcoder-10223.txt",
+    "characters": 1580
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "L - Construction of Town",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/9999",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_l",
+    "path": "sources/s3-11-atcoder-9999.txt",
+    "characters": 603
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "M - Admired Person",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10177",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_m",
+    "path": "sources/s3-11-atcoder-10177.txt",
+    "characters": 1210
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "N - Product Matrix",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10025",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_n",
+    "path": "sources/s3-11-atcoder-10025.txt",
+    "characters": 2991
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "O - New School Term",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10178",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_o",
+    "path": "sources/s3-11-atcoder-10178.txt",
+    "characters": 2997
+  },
+  {
+    "stage_id": "s3-11",
+    "title": "P - Make Testcase",
+    "url": "https://atcoder.jp/contests/npcapc_2024/editorial/10000",
+    "task_url": "https://atcoder.jp/contests/npcapc_2024/tasks/npcapc_2024_p",
+    "path": "sources/s3-11-atcoder-10000.txt",
+    "characters": 1183
+  },
+  {
+    "stage_id": "s3-21",
+    "title": "A - Don't Detect Cycle",
+    "url": "https://atcoder.jp/contests/ttpc2024_1/editorial/11085",
+    "task_url": "https://atcoder.jp/contests/ttpc2024_1/tasks/ttpc2024_1_a",
+    "path": "sources/s3-21-atcoder-11085.txt",
+    "characters": 6106
+  },
+  {
+    "stage_id": "s3-21",
+    "title": "B - Self Checkout",
+    "url": "https://atcoder.jp/contests/ttpc2024_1/editorial/11403",
+    "task_url": "https://atcoder.jp/contests/ttpc2024_1/tasks/ttpc2024_1_b",
+    "path": "sources/s3-21-atcoder-11403.txt",
+    "characters": 1875
+  },
+  {
+    "stage_id": "s3-21",
+    "title": "C - Segment Tree",
+    "url": "https://atcoder.jp/contests/ttpc2024_1/editorial/11291",
+    "task_url": "https://atcoder.jp/contests/ttpc2024_1/tasks/ttpc2024_1_c",
+    "path": "sources/s3-21-atcoder-11291.txt",
+    "characters": 1457
+  },
+  {
+    "stage_id": "s3-21",
+    "title": "D - A xor B plus C",
+    "url": "https://atcoder.jp/contests/ttpc2024_1/editorial/11464",
+    "task_url": "https://atcoder.jp/contests/ttpc2024_1/tasks/ttpc2024_1_d",
+    "path": "sources/s3-21-atcoder-11464.txt",
+    "characters": 1917
+  },
+  {
+    "stage_id": "s3-21",
+    "title": "E - ReTravel",
+    "url": "https://atcoder.jp/contests/ttpc2024_1/editorial/11086",
+    "task_url": "https://atcoder.jp/contests/ttpc2024_1/tasks/ttpc2024_1_e",
+    "path": "sources/s3-21-atcoder-11086.txt",
+    "characters": 1229
+  },
+  {
+    "stage_id": "s3-21",
+    "title": "F - Origami Warp",
+    "url": "https://atcoder.jp/contests/ttpc2024_1/editorial/11224",
+    "task_url": "https://atcoder.jp/contests/ttpc2024_1/tasks/ttpc2024_1_f",
+    "path": "sources/s3-21-atcoder-11224.txt",
+    "characters": 8664
+  },
+  {
+    "stage_id": "s3-21",
+    "title": "G - Diverge and Converge",
+    "url": "https://atcoder.jp/contests/ttpc2024_1/editorial/11092",
+    "task_url": "https://atcoder.jp/contests/ttpc2024_1/tasks/ttpc2024_1_g",
+    "path": "sources/s3-21-atcoder-11092.txt",
+    "characters": 1518
+  },
+  {
+    "stage_id": "s3-21",
+    "title": "H - Two Convex Sets",
+    "url": "https://atcoder.jp/contests/ttpc2024_1/editorial/11084",
+    "task_url": "https://atcoder.jp/contests/ttpc2024_1/tasks/ttpc2024_1_h",
+    "path": "sources/s3-21-atcoder-11084.txt",
+    "characters": 1576
+  },
+  {
+    "stage_id": "s3-21",
+    "title": "I - Near Pair",
+    "url": "https://atcoder.jp/contests/ttpc2024_1/editorial/11470",
+    "task_url": "https://atcoder.jp/contests/ttpc2024_1/tasks/ttpc2024_1_i",
+    "path": "sources/s3-21-atcoder-11470.txt",
+    "characters": 1205
+  },
+  {
+    "stage_id": "s3-21",
+    "title": "J - Grid Construction",
+    "url": "https://atcoder.jp/contests/ttpc2024_1/editorial/11083",
+    "task_url": "https://atcoder.jp/contests/ttpc2024_1/tasks/ttpc2024_1_j",
+    "path": "sources/s3-21-atcoder-11083.txt",
+    "characters": 3215
+  },
+  {
+    "stage_id": "s3-21",
+    "title": "K - Sum is One",
+    "url": "https://atcoder.jp/contests/ttpc2024_1/editorial/11225",
+    "task_url": "https://atcoder.jp/contests/ttpc2024_1/tasks/ttpc2024_1_k",
+    "path": "sources/s3-21-atcoder-11225.txt",
+    "characters": 5445
+  },
+  {
+    "stage_id": "s3-21",
+    "title": "L - Long Sequence Inversion 2",
+    "url": "https://atcoder.jp/contests/ttpc2024_1/editorial/11222",
+    "task_url": "https://atcoder.jp/contests/ttpc2024_1/tasks/ttpc2024_1_l",
+    "path": "sources/s3-21-atcoder-11222.txt",
+    "characters": 1899
+  },
+  {
+    "stage_id": "s3-21",
+    "title": "M - Cartesian Trees",
+    "url": "https://atcoder.jp/contests/ttpc2024_1/editorial/11194",
+    "task_url": "https://atcoder.jp/contests/ttpc2024_1/tasks/ttpc2024_1_m",
+    "path": "sources/s3-21-atcoder-11194.txt",
+    "characters": 2527
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "A - Apparently Make UTPC",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/15605",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_a",
+    "path": "sources/s4-18-atcoder-15605.txt",
+    "characters": 1382
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "B - Binary Tree Counting",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/15693",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_b",
+    "path": "sources/s4-18-atcoder-15693.txt",
+    "characters": 3909
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "C - Convex Crusher",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/16125",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_c",
+    "path": "sources/s4-18-atcoder-16125.txt",
+    "characters": 4255
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "D - Divisible by 11",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/16122",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_d",
+    "path": "sources/s4-18-atcoder-16122.txt",
+    "characters": 5514
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "E - Exchange or Not",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/16127",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_e",
+    "path": "sources/s4-18-atcoder-16127.txt",
+    "characters": 938
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "F - Finite Bracket Sequence",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/15692",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_f",
+    "path": "sources/s4-18-atcoder-15692.txt",
+    "characters": 1300
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "G - Greatest Bracket Sequence",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/16136",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_g",
+    "path": "sources/s4-18-atcoder-16136.txt",
+    "characters": 4093
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "H - Heyawake-like Problem",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/15852",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_h",
+    "path": "sources/s4-18-atcoder-15852.txt",
+    "characters": 679
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "I - Inversion Graph",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/15607",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_i",
+    "path": "sources/s4-18-atcoder-15607.txt",
+    "characters": 3759
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "J - Jelly",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/16128",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_j",
+    "path": "sources/s4-18-atcoder-16128.txt",
+    "characters": 908
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "K - Keep or Gamble",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/15851",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_k",
+    "path": "sources/s4-18-atcoder-15851.txt",
+    "characters": 1077
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "L - Linear Floor",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/15885",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_l",
+    "path": "sources/s4-18-atcoder-15885.txt",
+    "characters": 1905
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "M - Max Conference",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/15903",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_m",
+    "path": "sources/s4-18-atcoder-15903.txt",
+    "characters": 1070
+  },
+  {
+    "stage_id": "s4-18",
+    "title": "N - Numerical Error",
+    "url": "https://atcoder.jp/contests/utpc2025/editorial/15904",
+    "task_url": "https://atcoder.jp/contests/utpc2025/tasks/utpc2025_n",
+    "path": "sources/s4-18-atcoder-15904.txt",
+    "characters": 1224
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "A - 01 Matrix",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/18120",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_a",
+    "path": "sources/s4-21-atcoder-18120.txt",
+    "characters": 424
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "B - Birds-of-Paradise' Card Game",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/17017",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_b",
+    "path": "sources/s4-21-atcoder-17017.txt",
+    "characters": 3546
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "C - Don't be Clockwise",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/17020",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_c",
+    "path": "sources/s4-21-atcoder-17020.txt",
+    "characters": 686
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "D - Except Ai",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/17026",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_d",
+    "path": "sources/s4-21-atcoder-17026.txt",
+    "characters": 623
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "E - Find ''rururutata''",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/17002",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_e",
+    "path": "sources/s4-21-atcoder-17002.txt",
+    "characters": 2130
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "F - Increase Decrease",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/18127",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_f",
+    "path": "sources/s4-21-atcoder-18127.txt",
+    "characters": 1231
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "G - Make T",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/18123",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_g",
+    "path": "sources/s4-21-atcoder-18123.txt",
+    "characters": 1601
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "H - OR Preference",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/18129",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_h",
+    "path": "sources/s4-21-atcoder-18129.txt",
+    "characters": 3215
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "I - Penguin Flicker",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/18125",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_i",
+    "path": "sources/s4-21-atcoder-18125.txt",
+    "characters": 777
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "J - Set Sequence",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/18121",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_j",
+    "path": "sources/s4-21-atcoder-18121.txt",
+    "characters": 1106
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "K - Talk Event",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/17343",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_k",
+    "path": "sources/s4-21-atcoder-17343.txt",
+    "characters": 1410
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "L - Unique Sheet",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/18124",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_l",
+    "path": "sources/s4-21-atcoder-18124.txt",
+    "characters": 1723
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "M - Up-Down Sequence",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/17005",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_m",
+    "path": "sources/s4-21-atcoder-17005.txt",
+    "characters": 2067
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "N - Complete Set",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/17344",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_n",
+    "path": "sources/s4-21-atcoder-17344.txt",
+    "characters": 555
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "O - Giraffe? Zebra?",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/17346",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_o",
+    "path": "sources/s4-21-atcoder-17346.txt",
+    "characters": 495
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "P - Simple Tree Paint Game",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/17121",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_p",
+    "path": "sources/s4-21-atcoder-17121.txt",
+    "characters": 674
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "Q - Thorny Path",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/18122",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_q",
+    "path": "sources/s4-21-atcoder-18122.txt",
+    "characters": 1461
+  },
+  {
+    "stage_id": "s4-21",
+    "title": "R - Subtree with Lower Limit",
+    "url": "https://atcoder.jp/contests/pakencamp-2025-day3/editorial/18118",
+    "task_url": "https://atcoder.jp/contests/pakencamp-2025-day3/tasks/pakencamp_2025_day3_r",
+    "path": "sources/s4-21-atcoder-18118.txt",
+    "characters": 757
+  }
+]

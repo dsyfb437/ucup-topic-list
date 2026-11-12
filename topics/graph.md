@@ -1,0 +1,144 @@
+# 图论
+
+138 题。主副专题都纳入本页，同题可在多个专题出现。分类是题解归纳，排序不代表难度。
+
+| 题目 | 赛站 | 专题 | 题解依据 |
+|---|---|---|---|
+| [s1-4-B · Binary Arrays and Sliding Sums](https://contest.ucup.ac/contest/1106/problem/5518) | S1 Ukraine | 组合计数、图论 | 按步长循环分组，恢复差分并统计自由分量；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-4.pdf)（文件 p.1） |
+| [s1-4-C · Count Hamiltonian Cycles](https://contest.ucup.ac/contest/1106/problem/5519) | S1 Ukraine | 组合计数、图论 | 割两侧颜色差给出下界，统计达到下界的环；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-4.pdf)（文件 p.2） |
+| [s1-4-D · Distance Parities](https://contest.ucup.ac/contest/1106/problem/5520) | S1 Ukraine | 图论、构造 | 奇距离连边，利用长度二路径验证偶距离；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-4.pdf)（文件 p.3） |
+| [s1-4-F · F*** 3-Colorable Graphs](https://contest.ucup.ac/contest/1106/problem/5522) | S1 Ukraine | 图论、构造 | 利用特殊边结构扩展三染色；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-4.pdf)（文件 p.3） |
+| [s1-4-G · Graph Problem With Small $n$](https://contest.ucup.ac/contest/1106/problem/5523) | S1 Ukraine | 动态规划、图论、位运算与状态压缩 | 子集 Hamilton 路 DP，位集压缩端点；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-4.pdf)（文件 p.4） |
+| [s1-4-H · Help Me to Get This Published](https://contest.ucup.ac/contest/1106/problem/5524) | S1 Ukraine | 动态规划、组合计数、图论 | 按彩色度数从大到小计数 DP；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-4.pdf)（文件 p.5） |
+| [s1-4-K · King of Swapping](https://contest.ucup.ac/contest/1106/problem/5527) | S1 Ukraine | 图论、构造 | 强连通性判定与交换可达性；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-4.pdf)（文件 p.8） |
+| [s1-4-L · Least Annoying Constructive Problem](https://contest.ucup.ac/contest/1106/problem/5528) | S1 Ukraine | 构造、图论 | 分块排列边，使连续窗口连成树；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-4.pdf)（文件 p.9） |
+| [s1-7-D · Triterminant](https://contest.ucup.ac/contest/1129/problem/5741) | S1 Zaporizhzhia | 图论、多项式与线性代数 | 多项式系数约束化为二染色，分量取最小改动；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-7.pdf)（文件 p.6） |
+| [s1-7-H · Graph Isomorphism](https://contest.ucup.ac/contest/1129/problem/5745) | S1 Zaporizhzhia | 图论、组合计数 | 自同构数量界，分类为少量图结构；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-7.pdf)（文件 p.14） |
+| [s1-7-I · DAG Generation](https://contest.ucup.ac/contest/1129/problem/5746) | S1 Zaporizhzhia | 概率期望与随机化、图论 | 把 DAG 与拓扑序视作等概率样本；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-7.pdf)（文件 p.14） |
+| [s1-7-L · Directed Vertex Cacti](https://contest.ucup.ac/contest/1129/problem/5749) | S1 Zaporizhzhia | 组合计数、图论 | 有向仙人掌与排列环分解计数；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-7.pdf)（文件 p.16） |
+| [s1-7-M · Siteswap](https://contest.ucup.ac/contest/1129/problem/5750) | S1 Zaporizhzhia | 图论 | 置换环分解并判断环上奇偶性；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-7.pdf)（文件 p.16） |
+| [s1-8-B · Combination Locks](https://contest.ucup.ac/contest/1070/problem/5250) | S1 Slovenia | 博弈论、图论 | 最大匹配与增广路刻画先后手必胜；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-8.pdf)（文件 p.8） |
+| [s1-8-I · Money Laundering](https://contest.ucup.ac/contest/1070/problem/5257) | S1 Slovenia | 多项式与线性代数、图论 | SCC 分块与线性方程组求解收益流转；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-8.pdf)（文件 p.10） |
+| [s1-12-M · Colorful Graph](https://contest.ucup.ac/contest/1207/problem/6329) | S1 Ōokayama | 图论 | SCC 缩点，DAG 最小路径覆盖与网络流；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-12.pdf)（文件 p.8） |
+| [s1-12-N · XOR Reachable](https://contest.ucup.ac/contest/1207/problem/6330) | S1 Ōokayama | 数据结构、图论、位运算与状态压缩 | 异或条件拆成区间，时间分治与可撤销并查集；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-12.pdf)（文件 p.9） |
+| [s1-13-K · 4](https://contest.ucup.ac/contest/1212/problem/6354) | S1 Iberia | 图论、位运算与状态压缩 | 按度数定向，邻居图三角形计数转 K4 数量；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-13.pdf)（文件 p.3） |
+| [s1-16-H · Classical Maximization Problem](https://contest.ucup.ac/contest/1223/problem/6414) | S1 Gomel | 图论、构造 | DFS 树自底向上给边配对；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-16.pdf)（文件 p.3） |
+| [s1-20-C · Exam Requirements](https://contest.ucup.ac/contest/1259/problem/6633) | S1 India | 图论、数据结构 | 区间相交建图，线段树辅助节点压缩边；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-20.pdf)（文件 p.10） |
+| [s1-20-D · Central Subset](https://contest.ucup.ac/contest/1259/problem/6634) | S1 India | 图论、树上算法 | 生成树与深度分组，DSU 或 DFS 构造中心集合；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-20.pdf)（文件 p.14） |
+| [s1-20-M · Graphs and Colors](https://contest.ucup.ac/contest/1259/problem/6643) | S1 India | 构造、图论 | 偶阶图按配对构造边色，奇阶由前一偶阶扩展；[原文](https://contest.ucup.ac/files/ucup/tutorials/tutorials-1-20.pdf)（文件 p.43） |
+| [s2-2-C · Many Many Cycles](https://contest.ucup.ac/contest/1356/problem/7177) | S2 SPb | 图论、数论 | 生成树上基本环及两环交集长度求 gcd；[原文](https://assets.ucup.ac/tutorials/tutorials-2-2.zip)（文件 p.6） |
+| [s2-2-D · Bishops](https://contest.ucup.ac/contest/1356/problem/7178) | S2 SPb | 贪心、图论 | 对角线建二分图，区间邻接按右端点贪心匹配；[原文](https://assets.ucup.ac/tutorials/tutorials-2-2.zip)（文件 p.13） |
+| [s2-2-G · Graph Cuts](https://contest.ucup.ac/contest/1356/problem/7181) | S2 SPb | 数据结构、图论 | 按度数分轻重，分块或 bitset 维护跨集合边；[原文](https://assets.ucup.ac/tutorials/tutorials-2-2.zip)（文件 p.20） |
+| [s2-2-K · Poor Students](https://contest.ucup.ac/contest/1356/problem/7185) | S2 SPb | 图论、数据结构 | 费用流增广路径压成课程图，集合维护转课代价；[原文](https://assets.ucup.ac/tutorials/tutorials-2-2.zip)（文件 p.7） |
+| [s2-5-A · Greedy Bipartite Matching](https://contest.ucup.ac/contest/1388/problem/6546) | S2 Northern | 图论、贪心 | 按权值逐层保留可扩展的二分图匹配；[原文](https://contest.ucup.ac/download.php?type=attachments&id=1388&r=1)（文件 p.2） |
+| [s2-5-E · Elimination Race](https://contest.ucup.ac/contest/1388/problem/6550) | S2 Northern | 图论 | 比赛与被淘汰者建二分图，完美匹配判定；[原文](https://contest.ucup.ac/download.php?type=attachments&id=1388&r=1)（文件 p.33） |
+| [s2-6-K · Jump Graph](https://contest.ucup.ac/contest/1398/problem/7616) | S2 Warsaw | 图论、数据结构 | 区间可达集合压缩，链表或 DSU 跳过已处理位置；[原文](https://assets.ucup.ac/tutorials/tutorials-2-6.pdf)（文件 p.4） |
+| [s2-7-I · Colorful Cycles](https://contest.ucup.ac/contest/1399/problem/7640) | S2 Two Capitals | 图论 | 点双分量内检查三种颜色及非单色顶点数；[原文](https://assets.ucup.ac/tutorials/tutorials-2-7.pdf)（文件 p.7） |
+| [s2-14-A · AND-OR closure](https://contest.ucup.ac/contest/1452/problem/7932) | S2 Southeastern Europe | 位运算与状态压缩、图论、动态规划 | 相同位压缩成 DAG，统计向上闭合集合；[原文](https://assets.ucup.ac/tutorials/tutorials-2-14.pdf)（文件 p.1） |
+| [s2-14-E · Eliminate Tree](https://contest.ucup.ac/contest/1452/problem/7936) | S2 Southeastern Europe | 树上算法、图论 | 树的完美匹配等价于可消除，处理缺配顶点；[原文](https://assets.ucup.ac/tutorials/tutorials-2-14.pdf)（文件 p.6） |
+| [s2-14-G · Graph Race](https://contest.ucup.ac/contest/1452/problem/7938) | S2 Southeastern Europe | 图论、动态规划 | 构造有向无环状态图，DP 聚合竞速答案；[原文](https://assets.ucup.ac/tutorials/tutorials-2-14.pdf)（文件 p.8） |
+| [s2-14-I · Impossible Numbers](https://contest.ucup.ac/contest/1452/problem/7940) | S2 Southeastern Europe | 图论、位运算与状态压缩 | Hall 定理，枚举十个数字的子集寻找不可匹配数；[原文](https://assets.ucup.ac/tutorials/tutorials-2-14.pdf)（文件 p.10） |
+| [s2-14-L · LIS on Grid](https://contest.ucup.ac/contest/1452/problem/7943) | S2 Southeastern Europe | 构造、图论 | Dilworth 定理给出 LIS 下界并构造链划分；[原文](https://assets.ucup.ac/tutorials/tutorials-2-14.pdf)（文件 p.13） |
+| [s2-16-F · Mark on a Graph](https://contest.ucup.ac/contest/1465/problem/4829) | S2 Run Twice | 图论、构造、概率期望与随机化 | 在稀疏随机图中嵌入易识别的 K5 标记；[原文](https://assets.ucup.ac/tutorials/tutorials-2-16.pdf)（文件 p.65） |
+| [s2-18-A · Anti-Plagiarism](https://contest.ucup.ac/contest/1475/problem/8003) | S2 Dolgoprudny | 树上算法、动态规划、图论 | 树嵌入 DP，每对节点用二分图匹配合并子树；[原文](https://assets.ucup.ac/tutorials/tutorials-2-18.pdf)（文件 p.1） |
+| [s2-18-F · Fortune Wheel](https://contest.ucup.ac/contest/1475/problem/8008) | S2 Dolgoprudny | 概率期望与随机化、图论 | 先 BFS 求确定性距离，再比较随机操作策略；[原文](https://assets.ucup.ac/tutorials/tutorials-2-18.pdf)（文件 p.4） |
+| [s2-18-I · Institute](https://contest.ucup.ac/contest/1475/problem/8011) | S2 Dolgoprudny | 图论 | 先求可达点，再检验剩余图弱连通块是否强连通；[原文](https://assets.ucup.ac/tutorials/tutorials-2-18.pdf)（文件 p.6） |
+| [s2-19-A · Alternating Paths](https://contest.ucup.ac/contest/1487/problem/8128) | S2 Estonia | 图论 | 按二分、近二分和奇环结构分析交替路径；[原文](https://assets.ucup.ac/tutorials/tutorials-2-19.pdf)（文件 p.1） |
+| [s2-19-C · Yet Another Balanced Coloring Problem](https://contest.ucup.ac/contest/1487/problem/8130) | S2 Estonia | 树上算法、图论、构造 | 叶子配对形成交替链，两棵树同时平衡染色；[原文](https://assets.ucup.ac/tutorials/tutorials-2-19.pdf)（文件 p.6） |
+| [s2-19-D · Filesystem](https://contest.ucup.ac/contest/1487/problem/8131) | S2 Estonia | 图论 | 两种文件次序建边，最小割求最少分段；[原文](https://assets.ucup.ac/tutorials/tutorials-2-19.pdf)（文件 p.8） |
+| [s2-19-H · Minimum Cost Flow²](https://contest.ucup.ac/contest/1487/problem/8135) | S2 Estonia | 多项式与线性代数、图论 | 二次费用流等价电流最小能量，解线性方程组；[原文](https://assets.ucup.ac/tutorials/tutorials-2-19.pdf)（文件 p.12） |
+| [s2-19-I · Rebellious Edge](https://contest.ucup.ac/contest/1487/problem/8136) | S2 Estonia | 图论 | 仅一条反向边的有向生成树，拆情况化为最短路；[原文](https://assets.ucup.ac/tutorials/tutorials-2-19.pdf)（文件 p.15） |
+| [s2-20-B · Almost Large](https://contest.ucup.ac/contest/1499/problem/8166) | S2 Ōokayama | 图论、位运算与状态压缩 | 三进制状态辅助点建图处理数位操作可达性；[原文](https://assets.ucup.ac/tutorials/tutorials-2-20.pdf)（文件 p.1） |
+| [s2-20-K · Dense Planting](https://contest.ucup.ac/contest/1499/problem/8175) | S2 Ōokayama | 图论、多项式与线性代数、组合计数 | Kirchhoff 矩阵树定理与 Laplacian 余子式；[原文](https://assets.ucup.ac/tutorials/tutorials-2-20.pdf)（文件 p.14） |
+| [s2-20-O · 2D Parentheses](https://contest.ucup.ac/contest/1499/problem/8179) | S2 Ōokayama | 计算几何、贪心、图论 | 扫描线贪心匹配二维括号的左下与右上角；[原文](https://assets.ucup.ac/tutorials/tutorials-2-20.pdf)（文件 p.18） |
+| [s2-20-P · Bridge Elimination](https://contest.ucup.ac/contest/1499/problem/8180) | S2 Ōokayama | 组合计数、动态规划、图论 | 按无桥连通块分解，结合树计数公式；[原文](https://assets.ucup.ac/tutorials/tutorials-2-20.pdf)（文件 p.19） |
+| [s2-21-B · Beer Circuits](https://contest.ucup.ac/contest/1511/problem/8208) | S2 Delft | 搜索与二分、计算几何、图论 | 二分距离，空间网格筛近点并检验度数与环；[原文](https://assets.ucup.ac/tutorials/tutorials-2-21.pdf)（文件 p.1） |
+| [s2-21-F · Football in Osijek](https://contest.ucup.ac/contest/1511/problem/8212) | S2 Delft | 图论 | 函数图路径覆盖，费用流模型与结构优化；[原文](https://assets.ucup.ac/tutorials/tutorials-2-21.pdf)（文件 p.4） |
+| [s2-26-C · Clever Cell Choices](https://contest.ucup.ac/contest/1576/problem/8507) | S2 Latin America | 图论、博弈论 | 网格完美匹配决定先后手，移去必需匹配端点分析；[原文](https://scorelatam.naquadah.com.br/pda24/editorial.pdf)（文件 p.4） |
+| [s2-26-E · Expanding STACKS!](https://contest.ucup.ac/contest/1576/problem/8509) | S2 Latin America | 图论、构造 | 入出栈顺序产生冲突图，二分图染色分配两条队列；[原文](https://scorelatam.naquadah.com.br/pda24/editorial.pdf)（文件 p.6） |
+| [s2-26-K · KMOP](https://contest.ucup.ac/contest/1576/problem/8515) | S2 Latin America | 图论、动态规划 | 打字位置、模式、辅音数量构成 DAG，BFS 求最短方案；[原文](https://scorelatam.naquadah.com.br/pda24/editorial.pdf)（文件 p.14） |
+| [s3-1-G · Unusual Case](https://contest.ucup.ac/contest/1696/problem/8787) | S3 St. Petersburg | 概率期望与随机化、图论、贪心 | 随机贪心游走寻找互不复用的 Hamilton 路；[原文](https://assets.ucup.ac/tutorials/tutorials-3-01-en.pdf)（文件 p.102） |
+| [s3-1-N · (Un)labeled graphs](https://contest.ucup.ac/contest/1696/problem/8794) | S3 St. Petersburg | 构造、图论 | 添加标记结构，将带标号图编码成无标号图；[原文](https://assets.ucup.ac/tutorials/tutorials-3-01-en.pdf)（文件 p.217） |
+| [s3-2-A · Interesting Paths](https://contest.ucup.ac/contest/1699/problem/8517) | S3 Zielona Gora | 图论、组合计数 | 删不可达点边，DAG 路径覆盖增量给出边点差公式；[原文](https://assets.ucup.ac/tutorials/tutorials-3-02-en.pdf)（文件 p.2） |
+| [s3-5-F · Teleports](https://contest.ucup.ac/contest/1741/problem/9135) | S3 Moscow | 动态规划、图论 | 按区间长度分层，层内 Dijkstra 处理等长转移；[原文](https://qoj.ac/blog/jiangly/blogs/941) |
+| [s3-5-L · Array Spread](https://contest.ucup.ac/contest/1741/problem/9141) | S3 Moscow | 图论、搜索与二分 | 二分与差分约束负环，或最优环比率 DP；[原文](https://qoj.ac/blog/jiangly/blogs/941) |
+| [s3-6-D · Cycle Game](https://contest.ucup.ac/contest/1762/problem/9170) | S3 Osijek | 数据结构、图论 | 线段树分治与可撤销 DSU 维护八连通关系；[原文](https://qoj.ac/blog/jiangly/blogs/948) |
+| [s3-7-E · Express Eviction](https://contest.ucup.ac/contest/1774/problem/9224) | S3 Warsaw | 图论 | 网格障碍最小割，或扩展状态最短路；[原文](https://qoj.ac/blog/jiangly/blogs/958) |
+| [s3-11-J · Again Permutation Problem](https://contest.ucup.ac/contest/1804/problem/9444) | S3 Sumiyosi | 动态规划、图论、组合计数 | 置换操作连通性分析，小规模 BFS 与逆序对计数 DP；[原文](https://atcoder.jp/contests/npcapc_2024/editorial/10019) |
+| [s3-11-L · Construction of Town](https://contest.ucup.ac/contest/1804/problem/9446) | S3 Sumiyosi | 构造、图论 | 菊花图加边，使距离多重集达到下界；[原文](https://atcoder.jp/contests/npcapc_2024/editorial/9999) |
+| [s3-13-B · Topological Sort](https://contest.ucup.ac/contest/1812/problem/9477) | S3 Sendai | 组合计数、图论 | 按排列扫描，统计使最小拓扑序固定的入边选择；[原文](https://assets.ucup.ac/tutorials/tutorials-3-13-ja.pdf)（文件 p.13） |
+| [s3-13-I · Colored Complete Graph](https://contest.ucup.ac/contest/1812/problem/9484) | S3 Sendai | 交互与信息编码、图论、构造 | 询问星形边，再逐步合并异色分量找到单色生成树；[原文](https://assets.ucup.ac/tutorials/tutorials-3-13-ja.pdf)（文件 p.44） |
+| [s3-13-M · Do Not Turn Back](https://contest.ucup.ac/contest/1812/problem/9488) | S3 Sendai | 图论、多项式与线性代数 | 不回退游走递推，矩阵快速幂求长步数；[原文](https://assets.ucup.ac/tutorials/tutorials-3-13-ja.pdf)（文件 p.63） |
+| [s3-13-O · Sub Brackets](https://contest.ucup.ac/contest/1812/problem/9490) | S3 Sendai | 图论、字符串 | 不相容区间按左端奇偶建二分图，最大独立集；[原文](https://assets.ucup.ac/tutorials/tutorials-3-13-ja.pdf)（文件 p.72） |
+| [s3-18-A · All-Star](https://contest.ucup.ac/contest/1849/problem/9781) | S3 Southeastern Europe | 图论、构造 | DFS 顺序把边改接到指定中心，构造星形图；[原文](https://assets.ucup.ac/tutorials/tutorials-3-18-en.pdf)（文件 p.1） |
+| [s3-18-H · Shreckless](https://contest.ucup.ac/contest/1849/problem/9788) | S3 Southeastern Europe | 贪心、图论 | 相邻列排序匹配，最大化逆序连接覆盖的行；[原文](https://assets.ucup.ac/tutorials/tutorials-3-18-en.pdf)（文件 p.10） |
+| [s3-21-A · Don't Detect Cycle](https://contest.ucup.ac/contest/1872/problem/9875) | S3 Ōokayama | 图论、贪心 | 逆序删边，维护端点是否处于环内；[原文](https://atcoder.jp/contests/ttpc2024_1/editorial/11085) |
+| [s3-21-C · Segment Tree](https://contest.ucup.ac/contest/1872/problem/9877) | S3 Ōokayama | 数据结构、图论 | 层次图最短路摘要，沿线段树祖先更新；[原文](https://atcoder.jp/contests/ttpc2024_1/editorial/11291) |
+| [s3-21-K · Sum is One](https://contest.ucup.ac/contest/1872/problem/9885) | S3 Ōokayama | 图论、数据结构 | 将共享三元组的等价关系压成线性条边，用 DSU 数分量；[原文](https://atcoder.jp/contests/ttpc2024_1/editorial/11225) |
+| [s3-24-B · Baggage](https://contest.ucup.ac/contest/1890/problem/9960) | S3 Poland | 图论 | 按携带零一二件行李分层，Floyd 求组合路费；[原文](https://assets.ucup.ac/tutorials/tutorials-3-24-pl.pdf)（文件 p.61） |
+| [s3-24-E · Express Rotations](https://contest.ucup.ac/contest/1890/problem/9963) | S3 Poland | 动态规划、数据结构、图论 | 分阶段最短路，用带偏移的有序表处理负边和长度限制；[原文](https://assets.ucup.ac/tutorials/tutorials-3-24-pl.pdf)（文件 p.217） |
+| [s3-24-G · Game MPO](https://contest.ucup.ac/contest/1890/problem/9965) | S3 Poland | 图论、模拟与基础实现 | 网格 DFS 传播大小写配对约束；[原文](https://assets.ucup.ac/tutorials/tutorials-3-24-pl.pdf)（文件 p.13） |
+| [s3-30-E · Fractal Maze](https://contest.ucup.ac/contest/1917/problem/10091) | S3 Northern | 动态规划、图论 | 按分形层级递归求路，记忆化关键边界点；[原文](https://assets.ucup.ac/tutorials/tutorials-3-30-en.pdf)（文件 p.2） |
+| [s3-31-I · Illuminati](https://contest.ucup.ac/contest/1924/problem/10122) | S3 Wroclaw | 图论、贪心 | 入度出度平衡保证环分解，排序配边求字典序最小；[原文](https://assets.ucup.ac/tutorials/tutorials-3-31-en.pdf)（文件 p.29） |
+| [s3-31-J · Just Mining](https://contest.ucup.ac/contest/1924/problem/10123) | S3 Wroclaw | 图论、计算几何 | 两族层状圆构树，最大费用流选择点；[原文](https://assets.ucup.ac/tutorials/tutorials-3-31-en.pdf)（文件 p.81） |
+| [s3-31-L · Labyrinth](https://contest.ucup.ac/contest/1924/problem/10125) | S3 Wroclaw | 图论、模拟与基础实现 | 位置和方向组成函数图，检测环并计算出界步数；[原文](https://assets.ucup.ac/tutorials/tutorials-3-31-en.pdf)（文件 p.25） |
+| [s3-32-E · Travel on the Grid](https://contest.ucup.ac/contest/1939/problem/10218) | S3 Dhaka | 图论 | 位置加拆弹器状态，网格最短路；[原文](https://assets.ucup.ac/tutorials/tutorials-3-32-en.pdf)（文件 p.2） |
+| [s3-32-H · Are the nodes reachable?](https://contest.ucup.ac/contest/1939/problem/10221) | S3 Dhaka | 图论、位运算与状态压缩 | bitset 可达闭包，左右移位扩展小代价路径；[原文](https://assets.ucup.ac/tutorials/tutorials-3-32-en.pdf)（文件 p.4） |
+| [s3-33-H · Majority Graph](https://contest.ucup.ac/contest/1954/problem/10272) | S3 India | 图论、数据结构 | 多数区间隐式建边，差分维护后 BFS 统计分量；[原文](https://assets.ucup.ac/tutorials/tutorials-3-33-en.pdf)（文件 p.9） |
+| [s3-33-N · Yet Another MST Problem](https://contest.ucup.ac/contest/1954/problem/10278) | S3 India | 图论 | 多源 BFS 生成候选边，再用 Kruskal 求 MST；[原文](https://assets.ucup.ac/tutorials/tutorials-3-33-en.pdf)（文件 p.15） |
+| [s3-34-A · Inversions of PQ and QP](https://contest.ucup.ac/contest/1965/problem/10321) | S3 Aobayama | 构造、图论 | 共轭置换环型相同，选环分解后构造 P、Q；[原文](https://assets.ucup.ac/tutorials/tutorials-3-34-ja.pdf)（文件 p.48） |
+| [s3-34-B · Matching Query](https://contest.ucup.ac/contest/1965/problem/10322) | S3 Aobayama | 数据结构、图论 | 匹配转整数规划，线段树维护环上流量约束；[原文](https://assets.ucup.ac/tutorials/tutorials-3-34-ja.pdf)（文件 p.52） |
+| [s3-34-H · 12 Grid](https://contest.ucup.ac/contest/1965/problem/10328) | S3 Aobayama | 图论、构造 | 二分图奇偶判相容，再用四种值染网格；[原文](https://assets.ucup.ac/tutorials/tutorials-3-34-ja.pdf)（文件 p.25） |
+| [s3-34-N · Palindromic Path](https://contest.ucup.ac/contest/1965/problem/10334) | S3 Aobayama | 图论、字符串 | 回文路径转辅助图，点双与割点分析；[原文](https://assets.ucup.ac/tutorials/tutorials-3-34-ja.pdf)（文件 p.34） |
+| [s3-35-F · Red-Blue MST](https://contest.ucup.ac/contest/1993/problem/10706) | S3 Kraków | 图论、搜索与二分 | 红边数量对应凸函数，参数二分并用 MST 求支撑点；[原文](https://assets.ucup.ac/tutorials/tutorials-3-35-en.pdf)（文件 p.4） |
+| [s3-35-H · Decent Path Around Bajtów](https://contest.ucup.ac/contest/1993/problem/10708) | S3 Kraków | 图论、动态规划 | 混合有向无向图分解成树与 DAG，线性统计路径；[原文](https://assets.ucup.ac/tutorials/tutorials-3-35-en.pdf)（文件 p.6） |
+| [s3-39-E · Edge Coloring Problem](https://contest.ucup.ac/contest/2071/problem/10974) | S3 Tokyo | 图论、构造 | 补图环分解，正则二分图反复完美匹配做边染色；[原文](https://qoj.ac/blog/jiangly/blogs/1261) |
+| [s3-39-M · Minimum Distance Tree](https://contest.ucup.ac/contest/2071/problem/10982) | S3 Tokyo | 图论、树上算法 | 求唯一 MST，验证非树边权不小于树上路径长度；[原文](https://qoj.ac/blog/jiangly/blogs/1261) |
+| [s3-40-J · Housing Estate](https://contest.ucup.ac/contest/2135/problem/12159) | S3 Potyczki | 图论 | 网格约束降维成差分约束，Bellman-Ford 或 Floyd 判可行；[原文](https://assets.ucup.ac/tutorials/tutorials-3-40-pl.pdf)（文件 p.145） |
+| [s3-40-L · Directed Hanoi](https://contest.ucup.ac/contest/2135/problem/12161) | S3 Potyczki | 图论、动态规划 | 有向 Hanoi 的中间柱容量递推，按可达关系做三重 DP；[原文](https://assets.ucup.ac/tutorials/tutorials-3-40-pl.pdf)（文件 p.329） |
+| [s4-0-F · Mob Grinder](https://contest.ucup.ac/contest/2041/problem/11361) | S4 America | 构造、图论 | 网格箭头数量约束下构造无环汇入出口的传送带；[原文](https://assets.ucup.ac/tutorials/tutorials-4-00-en.pdf)（文件 p.23） |
+| [s4-0-G · Most Scenic Cycle](https://contest.ucup.ac/contest/2041/problem/11362) | S4 America | 图论、数据结构 | 利用区域环基结构，队列维护收缩与重边合并；[原文](https://assets.ucup.ac/tutorials/tutorials-4-00-en.pdf)（文件 p.25） |
+| [s4-1-B · Domain Compression](https://contest.ucup.ac/contest/2539/problem/14427) | S4 Korolyov | 多项式与线性代数、图论 | 路径长度计数与二项式系数分离，一次卷积；[原文](https://assets.ucup.ac/tutorials/tutorials-4-01-en.pdf)（文件 p.2） |
+| [s4-1-F · Yet Another MST Problem](https://contest.ucup.ac/contest/2539/problem/14431) | S4 Korolyov | 图论、数据结构 | 按 mex 权值模拟 Kruskal，合并不含当前值的区间；[原文](https://assets.ucup.ac/tutorials/tutorials-4-01-en.pdf)（文件 p.2） |
+| [s4-1-G · Cyclic Topsort](https://contest.ucup.ac/contest/2539/problem/14432) | S4 Korolyov | 概率期望与随机化、图论 | 随机访问顺序加记忆化，利用递归访问集层状性摊还；[原文](https://assets.ucup.ac/tutorials/tutorials-4-01-en.pdf)（文件 p.3） |
+| [s4-2-F · Framboise 2](https://contest.ucup.ac/contest/2551/problem/14135) | S4 Paris | 图论 | 阻挡关系建二分图，最大匹配恢复最大独立集；[原文](https://assets.ucup.ac/tutorials/tutorials-4-02-en.pdf)（文件 p.3） |
+| [s4-2-M · Manhattan Graph](https://contest.ucup.ac/contest/2551/problem/14142) | S4 Paris | 图论、计算几何、构造 | 点双块恢复网格坐标，检查坐标切片连续性；[原文](https://assets.ucup.ac/tutorials/tutorials-4-02-en.pdf)（文件 p.13） |
+| [s4-3-A · Two Spanning Trees](https://contest.ucup.ac/contest/2559/problem/14415) | S4 Polar | 图论 | 两图基本环构造交换辅助图，以 SCC 判定可替换边；[原文](https://assets.ucup.ac/tutorials/tutorials-4-03-en.pdf)（文件 p.1） |
+| [s4-3-D · Disjoint Set Splitting](https://contest.ucup.ac/contest/2559/problem/14418) | S4 Polar | 数据结构、图论 | 先假定回答求删边时间，逆序加边 DSU 验证；[原文](https://assets.ucup.ac/tutorials/tutorials-4-03-en.pdf)（文件 p.3） |
+| [s4-3-G · Far Away](https://contest.ucup.ac/contest/2559/problem/14421) | S4 Polar | 图论、概率期望与随机化 | DSU 排除小分量，随机多源 BFS 证远近关系；[原文](https://assets.ucup.ac/tutorials/tutorials-4-03-en.pdf)（文件 p.4） |
+| [s4-8-E · Enigma](https://contest.ucup.ac/contest/2668/problem/15448) | S4 Poland | 图论、数据结构 | 十万个密码状态，增量 BFS 只松弛变小距离；[原文](https://assets.ucup.ac/tutorials/tutorials-4-08-pl.pdf)（文件 p.93） |
+| [s4-8-F · Finances](https://contest.ucup.ac/contest/2668/problem/15449) | S4 Poland | 图论 | 供需流量模型，最大流最小割判定融资可行；[原文](https://assets.ucup.ac/tutorials/tutorials-4-08-pl.pdf)（文件 p.23） |
+| [s4-8-G · Game of Pipes](https://contest.ucup.ac/contest/2668/problem/15450) | S4 Poland | 交互与信息编码、图论、概率期望与随机化 | 从末层恢复管道自动机，随机前缀与区分后缀定位状态；[原文](https://assets.ucup.ac/tutorials/tutorials-4-08-pl.pdf)（文件 p.136） |
+| [s4-10-C · Connecting Railway Stations](https://contest.ucup.ac/contest/2814/problem/16002) | S4 Wrocław | 树上算法、图论、动态规划 | 树边约束的对偶规划，类 Dijkstra 逐条确定最小值；[原文](https://assets.ucup.ac/tutorials/tutorials-4-10-en.pdf)（文件 p.67） |
+| [s4-10-J · Joyful Guided Tour](https://contest.ucup.ac/contest/2814/problem/16009) | S4 Wrocław | 图论、贪心、构造 | 局部重染使同色边数下降，摊还得到合法染色；[原文](https://assets.ucup.ac/tutorials/tutorials-4-10-en.pdf)（文件 p.93） |
+| [s4-10-K · Key Properties](https://contest.ucup.ac/contest/2814/problem/16010) | S4 Wrocław | 构造、图论、数论 | 拼接小三正则图，或双环加互素步长匹配；[原文](https://assets.ucup.ac/tutorials/tutorials-4-10-en.pdf)（文件 p.24） |
+| [s4-11-D · Two Options](https://contest.ucup.ac/contest/2828/problem/16118) | S4 Southeastern Europe | 图论、组合计数 | 先传播被迫取值，剩余二选一形成环并计数；[原文](https://assets.ucup.ac/tutorials/tutorials-4-11-en.pdf)（文件 p.4） |
+| [s4-11-H · Sorted Pairs](https://contest.ucup.ac/contest/2828/problem/16122) | S4 Southeastern Europe | 构造、图论 | 排列按不可越过的前缀分块，偶长度块构造有向环；[原文](https://assets.ucup.ac/tutorials/tutorials-4-11-en.pdf)（文件 p.8） |
+| [s4-11-I · Colorful Components](https://contest.ucup.ac/contest/2828/problem/16123) | S4 Southeastern Europe | 图论 | 异色星形分量，交替增广路改进彩色覆盖；[原文](https://assets.ucup.ac/tutorials/tutorials-4-11-en.pdf)（文件 p.10） |
+| [s4-13-I · Subgrid Connected Components](https://contest.ucup.ac/contest/2921/problem/16234) | S4 Ōokayama | 图论、数据结构 | 平面图 Euler 公式，区域代表点前缀和加边界修正；[原文](https://assets.ucup.ac/tutorials/tutorials-4-13-en.pdf)（文件 p.15） |
+| [s4-16-F · Fix the Coloring](https://contest.ucup.ac/contest/3347/problem/17155) | S4 Warsaw | 图论 | 重染选择转 2-SAT，枚举特定团顶点后判蕴含图；[原文](https://assets.ucup.ac/tutorials/tutorials-4-16-en.pdf)（文件 p.8） |
+| [s4-17-I · Wooden Checker](https://contest.ucup.ac/contest/3384/problem/17169) | S4 St. Petersburg | 图论、数据结构 | DSU 检查森林和入度，合并时验证邻接编号连续区间；[原文](https://assets.ucup.ac/tutorials/tutorials-4-17-en.pdf)（文件 p.8） |
+| [s4-17-K · Traversal of a Triangular Grid](https://contest.ucup.ac/contest/3384/problem/17171) | S4 St. Petersburg | 图论、构造 | Euler 回路遍历三角网格，或显式分层构造；[原文](https://assets.ucup.ac/tutorials/tutorials-4-17-en.pdf)（文件 p.11） |
+| [s4-17-M · Construction Company](https://contest.ucup.ac/contest/3384/problem/17173) | S4 St. Petersburg | 图论 | 时间线任务建有上下界流，容量限制每时段并行任务数；[原文](https://assets.ucup.ac/tutorials/tutorials-4-17-en.pdf)（文件 p.13） |
+| [s4-18-I · Inversion Graph](https://contest.ucup.ac/contest/3420/problem/17254) | S4 Hongō | 组合计数、多项式与线性代数、图论 | 逆序图按内外点类型计数，Taylor shift 合成多项式；[原文](https://atcoder.jp/contests/utpc2025/editorial/15607) |
+| [s4-19-H · Helpful Bits](https://contest.ucup.ac/contest/3426/problem/17267) | S4 Belarus | 图论、数值计算 | 几何级数压缩边权，Dijkstra 求近似最短路；[原文](https://assets.ucup.ac/tutorials/tutorials-4-19-en.pdf)（文件 p.5） |
+| [s4-19-I · Ivan Tsarevich in the Magical Grove](https://contest.ucup.ac/contest/3426/problem/17268) | S4 Belarus | 图论、动态规划、位运算与状态压缩 | 连通分量两种染色数，分组 bitset 背包判断可选顶点；[原文](https://assets.ucup.ac/tutorials/tutorials-4-19-en.pdf)（文件 p.6） |
+| [s4-20-B · Palindrome and Permutation](https://contest.ucup.ac/contest/3516/problem/17407) | S4 India | 图论、动态规划、组合计数 | 对称位置建伪森林，树分量选根计数 DP；[原文](https://assets.ucup.ac/tutorials/tutorials-4-20-en.pdf)（文件 p.3） |
+| [s4-20-M · Vertex Separation](https://contest.ucup.ac/contest/3516/problem/17418) | S4 India | 图论、构造 | 长环与三角仙人掌分类，按可分离点数量构造；[原文](https://assets.ucup.ac/tutorials/tutorials-4-20-en.pdf)（文件 p.20） |
+| [s4-21-A · 01 Matrix](https://contest.ucup.ac/contest/3542/problem/17419) | S4 Kamigō | 位运算与状态压缩、图论、组合计数 | 二维前缀和转奇偶方程，按连通分量计数；[原文](https://atcoder.jp/contests/pakencamp-2025-day3/editorial/18120) |
+| [s4-22-E · Ball Dumping Golf](https://contest.ucup.ac/contest/3575/problem/17717) | S4 Kyoto | 图论、组合计数、多项式与线性代数 | Euler 迹覆盖化为连通分量期望，指数生成函数；[原文](https://assets.ucup.ac/tutorials/tutorials-4-22-en.pdf)（文件 p.5） |
+| [s4-22-F · 1e16 Cities](https://contest.ucup.ac/contest/3575/problem/17718) | S4 Kyoto | 数论、图论 | gcd 化简，枚举 B 的约数和互素因子生成边；[原文](https://assets.ucup.ac/tutorials/tutorials-4-22-en.pdf)（文件 p.6） |
+| [s4-22-N · Cellular Component Constellation](https://contest.ucup.ac/contest/3575/problem/17726) | S4 Kyoto | 构造、图论 | 黑白连通块分区，利用细条与孤点调节分量数；[原文](https://assets.ucup.ac/tutorials/tutorials-4-22-en.pdf)（文件 p.11） |
+| [s4-25-C · Crooked Cycles](https://contest.ucup.ac/contest/3773/problem/18403) | S4 Zagreb | 图论 | 模三势能染色，冲突即存在 crooked cycle；[原文](https://assets.ucup.ac/tutorials/tutorials-4-25-en.pdf)（文件 p.11） |
+| [s4-25-F · Flipping Frenzy](https://contest.ucup.ac/contest/3773/problem/18406) | S4 Zagreb | 多项式与线性代数、位运算与状态压缩、图论 | 操作换基，二一向量转连通分量方程再 GF(2) 消元；[原文](https://assets.ucup.ac/tutorials/tutorials-4-25-en.pdf)（文件 p.22） |
+| [s4-25-L · Loop Land](https://contest.ucup.ac/contest/3773/problem/18412) | S4 Zagreb | 图论、构造 | 臂配置转二分图同异约束，按分量选择一侧；[原文](https://assets.ucup.ac/tutorials/tutorials-4-25-en.pdf)（文件 p.45） |
+| [s4-Extra-3-B · Word Generator](https://contest.ucup.ac/contest/2757/problem/15518) | S4 Osijek | 图论、贪心 | Hall 定理保证单词分配，反复二分图匹配构造；[原文](https://assets.ucup.ac/tutorials/tutorials-4-e3-en.pdf)（文件 p.1） |
+| [s4-Extra-3-H · Magical Puzzles](https://contest.ucup.ac/contest/2757/problem/15524) | S4 Osijek | 概率期望与随机化、位运算与状态压缩、图论 | 给约束随机赋权，路径异或为零检验配对条件；[原文](https://assets.ucup.ac/tutorials/tutorials-4-e3-en.pdf)（文件 p.3） |
+| [s5-1-C · Cost of Conflicts](https://contest.ucup.ac/contest/4126/problem/20250) | S5 Nizhny Novgorod | 图论、数据结构 | Borůvka 各分量最小出边，扫描线处理冲突矩形加；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4126&r=1)（文件 p.5） |
+| [s5-1-L · Leave Triple & Link Tree](https://contest.ucup.ac/contest/4126/problem/20259) | S5 Nizhny Novgorod | 图论、构造 | 正则二分图完美匹配，删匹配得到环再合并成树；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4126&r=1)（文件 p.22） |
+| [s5-3-H · Hamiltonian LCM](https://contest.ucup.ac/contest/4565/problem/20736) | S5 Gorkovskaya | 图论、组合计数 | 七值相邻次数转 Euler 迹，枚举连通骨架并解运输费用流；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4565&r=1)（文件 p.6） |
+| [s5-3-I · Interval MST](https://contest.ucup.ac/contest/4565/problem/20737) | S5 Gorkovskaya | 图论、数据结构 | 区间 MST 权值公式，树状数组多次离线扫描统计；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4565&r=1)（文件 p.8） |
+| [s5-6-D · Go Robots](https://contest.ucup.ac/contest/4617/problem/23672) | S5 Hyakumanben | 图论、动态规划 | 按拓扑序累加机器人经过数，奇偶决定开关流向；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4617&r=1)（文件 p.8） |
+| [s5-6-F · Path XOR on MST](https://contest.ucup.ac/contest/4617/problem/23674) | S5 Hyakumanben | 图论、位运算与状态压缩、数据结构 | Kruskal 配异或势能 DSU 和环空间线性基；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4617&r=1)（文件 p.9） |
+| [s5-6-G · Source to Sink](https://contest.ucup.ac/contest/4617/problem/23675) | S5 Hyakumanben | 图论 | 操作次数差分约束，SCC 定源后 0-1 BFS；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4617&r=1)（文件 p.11） |
+| [s5-6-L · Consecutive Pairs](https://contest.ucup.ac/contest/4617/problem/23680) | S5 Hyakumanben | 交互与信息编码、搜索与二分、图论 | 区间边数询问恢复隐藏路径，每个右端点二分找邻居；[原文](https://contest.ucup.ac/download.php?type=attachments&id=4617&r=1)（文件 p.23） |
