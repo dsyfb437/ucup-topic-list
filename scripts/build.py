@@ -103,7 +103,11 @@ def gap_reason(p):
     if p['editorial_sources']:return '已取得材料，但未找到可对应的解法正文'
     return '官方目录与附件未提供可取得的文字题解'
 
-def link(p):return f"[{p['id']} · {p['title'].replace('|','&#124;')}]({p['url']})"
+def qoj_url(url):
+    """contest.ucup.ac and qoj.ac serve the same problem under the same path."""
+    return url.replace('https://contest.ucup.ac/','https://qoj.ac/',1)
+
+def link(p):return f"[{p['id']} · {p['title'].replace('|','&#124;')}]({p['url']}) ([QOJ]({qoj_url(p['url'])}))"
 
 def md_table(items,methods=False):
     out=['| 题目 | 赛站 | 专题 | 题解依据 |','|---|---|---|---|']
@@ -124,6 +128,7 @@ def main():
     records=[];gaps=[]
     for p in raw:
         r={k:v for k,v in p.items() if k not in ['editorial_text','editorial_sources']}
+        r['qoj_url']=qoj_url(p['url'])
         r.update(diff.get(p['id'],dict(solved_teams=None,active_teams=None,solve_rate=None,difficulty='')))
         r['editorial_sources']=[{k:v for k,v in s.items() if k!='path'} for s in p['editorial_sources']] if PUBLIC else p['editorial_sources']
         if p['id'] in ann:
@@ -163,7 +168,7 @@ def main():
         difficulty_missing=sum(not p['difficulty'] for p in records))
     (ROOT/'data/problems.json').write_text(json.dumps(records,ensure_ascii=False,indent=2))
     (ROOT/'data/stats.json').write_text(json.dumps(stats,ensure_ascii=False,indent=2))
-    cols=['id','season','stage','station','letter','title','status','difficulty','solved_teams','active_teams','solve_rate','topics','techniques','method','url','editorial_url','editorial_local','editorial_page','gap_reason']
+    cols=['id','season','stage','station','letter','title','status','difficulty','solved_teams','active_teams','solve_rate','topics','techniques','method','url','qoj_url','editorial_url','editorial_local','editorial_page','gap_reason']
     with (ROOT/'ucup-topics.csv').open('w',encoding='utf-8-sig',newline='') as f:
         w=csv.DictWriter(f,fieldnames=cols);w.writeheader()
         for p in records:w.writerow({k:';'.join(p[k]) if isinstance(p.get(k),list) else p.get(k,'') for k in cols})
@@ -210,7 +215,8 @@ def main():
         downloaded_stage_ids=sorted({r['stage_id'] for r in log}),atcoder_stage_ids=sorted({a['stage_id'] for a in at}),
         excluded_stage_ids=sorted(s['id'] for s in excluded),excluded_content_downloads=0,
         unique_problem_ids=len(ids),classified_problem_ids=len(ann),all_annotations_have_local_editorial=True,
-        all_records_have_problem_url=all(p['url'].startswith('https://') for p in records))
+        all_records_have_problem_url=all(p['url'].startswith('https://') for p in records),
+        all_records_have_qoj_url=all(p['qoj_url'].startswith('https://qoj.ac/') for p in records))
     (ROOT/'data/audit.json').write_text(json.dumps(audit,ensure_ascii=False,indent=2))
     template=(ROOT/'scripts/viewer.html').read_text()
     payload=json.dumps(dict(problems=records,stats=stats,topics=TOPICS),ensure_ascii=False).replace('</','<\\/')

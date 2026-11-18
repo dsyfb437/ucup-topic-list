@@ -149,5 +149,6 @@
   "unique_problem_ids": 853,
   "classified_problem_ids": 750,
   "all_annotations_have_local_editorial": true,
-  "all_records_have_problem_url": true
+  "all_records_have_problem_url": true,
+  "all_records_have_qoj_url": true
 }
