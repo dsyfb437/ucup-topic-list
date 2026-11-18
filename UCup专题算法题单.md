@@ -6,6 +6,8 @@
 
 大陆、港澳台站均保留 VP；Ranoa 等无法确认地域的站点也保守排除。没有使用题目名字猜算法，没有编造难度或 CF 分数。
 
+难度取自 contest.ucup.ac 赛时榜单：通过队数 ÷ 至少过一题的队数，分为签到（≥70%）、简单（30–70%）、中等（10–30%）、困难（2–10%）、极难（<2%）。这是实测通过率，不是 CF 分数；镜像赛参赛队水平不一，只作选题参考。
+
 [在线筛选题单](https://dsyfb437.github.io/ucup-topic-list/) · [完整 CSV](ucup-topics.csv) · [JSON](data/problems.json) · [来源说明](sources.md) · [排除清单](excluded-stages.md)
 
 ## 专题索引

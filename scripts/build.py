@@ -1,7 +1,9 @@
 """Build topic lists from editorial-reviewed annotations, with provenance and gaps."""
 import collections,csv,hashlib,html,json,re,sys
 from pathlib import Path
-from crawl import ROOT
+
+# Same as crawl.ROOT; computed here so building needs no network libraries.
+ROOT=Path(__file__).resolve().parents[1]
 
 DATE='2026-11-13'
 PUBLIC='--local' not in sys.argv
@@ -55,6 +57,25 @@ FINE={
  '括号与路径计数':r'括号|路径计数','仙人掌与函数图':r'仙人掌|函数图',
 }
 
+# Difficulty tiers from in-contest solve rate (solved teams / teams with >=1 solve).
+# Measured data from contest.ucup.ac standings, not an estimated CF rating.
+TIERS=[('签到',0.7),('简单',0.3),('中等',0.1),('困难',0.02),('极难',0.0)]
+
+def tier(rate):
+    return next(name for name,low in TIERS if rate>=low)
+
+def difficulty():
+    path=ROOT/'data/difficulty.json'
+    if not path.exists():return {}
+    d=json.loads(path.read_text());out={}
+    for sid,st in d['stages'].items():
+        for letter,n in st['solved'].items():
+            rate=n/st['active_teams'] if st['active_teams'] else None
+            out[f'{sid}-{letter}']=dict(solved_teams=n,active_teams=st['active_teams'],
+                solve_rate=round(rate,4) if rate is not None else None,
+                difficulty=tier(rate) if rate is not None else '')
+    return out
+
 def annotations():
     result={};sid=''
     for line in (ROOT/'data/annotations.txt').read_text().splitlines():
@@ -99,9 +120,11 @@ def md_table(items,methods=False):
 def main():
     raw=json.loads((ROOT/'data/sections.json').read_text());stages=json.loads((ROOT/'data/stages.json').read_text())
     ann=annotations();ids={p['id'] for p in raw};assert set(ann)<=ids
+    diff=difficulty()
     records=[];gaps=[]
     for p in raw:
         r={k:v for k,v in p.items() if k not in ['editorial_text','editorial_sources']}
+        r.update(diff.get(p['id'],dict(solved_teams=None,active_teams=None,solve_rate=None,difficulty='')))
         r['editorial_sources']=[{k:v for k,v in s.items() if k!='path'} for s in p['editorial_sources']] if PUBLIC else p['editorial_sources']
         if p['id'] in ann:
             assert p['editorial_sources'] and len(p['editorial_text'])>60,p['id']
@@ -134,14 +157,17 @@ def main():
     stats=dict(date=DATE,overseas_stages=len(over),catalogued_problems=len(records),classified_problems=len(classified),
         missing_problems=len(gaps),classified_stages=len({p['stage_id'] for p in classified}),
         excluded_stages=len(excluded),topic_count=len(TOPICS),technique_count=len(finecounts),
-        topic_counts=counts,technique_counts=dict(finecounts.most_common()))
+        topic_counts=counts,technique_counts=dict(finecounts.most_common()),
+        difficulty_tiers=[dict(name=n,min_rate=low) for n,low in TIERS],
+        difficulty_counts={n:sum(p['difficulty']==n for p in records) for n,_ in TIERS},
+        difficulty_missing=sum(not p['difficulty'] for p in records))
     (ROOT/'data/problems.json').write_text(json.dumps(records,ensure_ascii=False,indent=2))
     (ROOT/'data/stats.json').write_text(json.dumps(stats,ensure_ascii=False,indent=2))
-    cols=['id','season','stage','station','letter','title','status','topics','techniques','method','url','editorial_url','editorial_local','editorial_page','gap_reason']
+    cols=['id','season','stage','station','letter','title','status','difficulty','solved_teams','active_teams','solve_rate','topics','techniques','method','url','editorial_url','editorial_local','editorial_page','gap_reason']
     with (ROOT/'ucup-topics.csv').open('w',encoding='utf-8-sig',newline='') as f:
         w=csv.DictWriter(f,fieldnames=cols);w.writeheader()
         for p in records:w.writerow({k:';'.join(p[k]) if isinstance(p.get(k),list) else p.get(k,'') for k in cols})
-    intro=f'# UCup 海外站专题算法题单\n\n截至 {DATE}，登记 {len(over)} 个海外站、{len(records)} 题；已依据题解分类 **{len(classified)} 题**，其余 **{len(gaps)} 题**见[缺失清单](coverage.md)。分类由题解归纳，不是官方标签。\n\n大陆、港澳台站均保留 VP；Ranoa 等无法确认地域的站点也保守排除。没有使用题目名字猜算法，没有编造难度或 CF 分数。\n\n[可筛选浏览版](index.html) · [完整 CSV](ucup-topics.csv) · [JSON](data/problems.json) · [来源说明](sources.md) · [排除清单](excluded-stages.md)\n\n'
+    intro=f'# UCup 海外站专题算法题单\n\n截至 {DATE}，登记 {len(over)} 个海外站、{len(records)} 题；已依据题解分类 **{len(classified)} 题**，其余 **{len(gaps)} 题**见[缺失清单](coverage.md)。分类由题解归纳，不是官方标签。\n\n大陆、港澳台站均保留 VP；Ranoa 等无法确认地域的站点也保守排除。没有使用题目名字猜算法，没有编造难度或 CF 分数。\n\n难度取自 contest.ucup.ac 赛时榜单：通过队数 ÷ 至少过一题的队数，分为签到（≥70%）、简单（30–70%）、中等（10–30%）、困难（2–10%）、极难（<2%）。这是实测通过率，不是 CF 分数；镜像赛参赛队水平不一，只作选题参考。\n\n[可筛选浏览版](index.html) · [完整 CSV](ucup-topics.csv) · [JSON](data/problems.json) · [来源说明](sources.md) · [排除清单](excluded-stages.md)\n\n'
     intro=intro.replace('\n\n截至', '\n\n**由 GPT-6.1 Sol 整理的 UCup 海外赛站专题算法题单。**\n\n截至',1)
     if PUBLIC:
         intro=intro.replace('[可筛选浏览版](index.html)', '[在线筛选题单](https://dsyfb437.github.io/ucup-topic-list/)')
@@ -189,7 +215,7 @@ def main():
     template=(ROOT/'scripts/viewer.html').read_text()
     payload=json.dumps(dict(problems=records,stats=stats,topics=TOPICS),ensure_ascii=False).replace('</','<\\/')
     (ROOT/'index.html').write_text(template.replace('/*DATA*/',payload))
-    readme=intro+'## 文件\n\n- `index.html`：本地离线筛选，方法摘要默认折叠，可勾选已练。\n- `UCup专题算法题单.md`：全部专题总表。\n- `topics/`：十八个主专题独立题单。\n- `ucup-topics.csv`、`data/problems.json`：可导入或二次筛选的数据。\n- `coverage.md`：每站覆盖率和逐题缺失原因。\n- `excluded-stages.md`：中国及地域未确认站点清单。\n- `sources/`：原始材料与提取文本，仅供本地个人训练。\n\n## 更新\n\n需要 Python 3、requests、beautifulsoup4 和系统命令 `pdftotext`。当前没有把本项目接入训练工作台，也没有修改现有训练计划。\n\n```bash\npython3 -m venv .venv\n.venv/bin/pip install -r requirements.txt\n.venv/bin/python scripts/crawl.py\n.venv/bin/python scripts/enrich.py\n.venv/bin/python scripts/supplement.py\n.venv/bin/python scripts/atcoder_editorials.py\n.venv/bin/python scripts/extract.py\n# 核对新题解，更新 data/annotations.txt 后生成\n.venv/bin/python scripts/build.py\n```\n\n浏览版通过 `file://` 打开即可使用，无需服务。勾选记录保存在当前浏览器的 localStorage；换浏览器不会自动同步，可用页面的导出/导入保存。\n'
+    readme=intro+'## 文件\n\n- `index.html`：本地离线筛选，方法摘要默认折叠，可勾选已练。\n- `UCup专题算法题单.md`：全部专题总表。\n- `topics/`：十八个主专题独立题单。\n- `ucup-topics.csv`、`data/problems.json`：可导入或二次筛选的数据。\n- `coverage.md`：每站覆盖率和逐题缺失原因。\n- `data/difficulty.json`：各站赛时榜单的每题通过队数。\n- `excluded-stages.md`：中国及地域未确认站点清单。\n- `sources/`：原始材料与提取文本，仅供本地个人训练。\n\n## 更新\n\n需要 Python 3、requests、beautifulsoup4 和系统命令 `pdftotext`。当前没有把本项目接入训练工作台，也没有修改现有训练计划。\n\n```bash\npython3 -m venv .venv\n.venv/bin/pip install -r requirements.txt\n.venv/bin/python scripts/crawl.py\n.venv/bin/python scripts/enrich.py\n.venv/bin/python scripts/supplement.py\n.venv/bin/python scripts/atcoder_editorials.py\n.venv/bin/python scripts/extract.py\n.venv/bin/python scripts/difficulty.py   # 赛时榜单通过数，--refresh 重新抓取\n# 核对新题解，更新 data/annotations.txt 后生成\n.venv/bin/python scripts/build.py\n```\n\n浏览版通过 `file://` 打开即可使用，无需服务。勾选记录保存在当前浏览器的 localStorage；换浏览器不会自动同步，可用页面的导出/导入保存。\n'
     readme=readme.replace('当前没有把本项目接入训练工作台，也没有修改现有训练计划。','下载的原始题面、题解及其全文提取缓存不随 Git 提交；运行更新脚本后会重新生成。默认生成适合公开仓库的原站链接，使用 `scripts/build.py --local` 可生成本地材料链接。')
     readme=readme.replace('## 文件','题面和原始题解版权归各自作者；本仓库提供分类、方法摘要、原文链接和整理脚本。详见 [整理说明](NOTICE.md)。\n\n## 文件',1)
     readme=readme.replace('`sources/`：原始材料与提取文本，仅供本地个人训练。','`sources/`：本地下载缓存，已加入 `.gitignore`，公开仓库不包含。')

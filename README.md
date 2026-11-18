@@ -6,6 +6,8 @@
 
 大陆、港澳台站均保留 VP；Ranoa 等无法确认地域的站点也保守排除。没有使用题目名字猜算法，没有编造难度或 CF 分数。
 
+难度取自 contest.ucup.ac 赛时榜单：通过队数 ÷ 至少过一题的队数，分为签到（≥70%）、简单（30–70%）、中等（10–30%）、困难（2–10%）、极难（<2%）。这是实测通过率，不是 CF 分数；镜像赛参赛队水平不一，只作选题参考。
+
 [在线筛选题单](https://dsyfb437.github.io/ucup-topic-list/) · [完整 CSV](ucup-topics.csv) · [JSON](data/problems.json) · [来源说明](sources.md) · [排除清单](excluded-stages.md)
 
 题面和原始题解版权归各自作者；本仓库提供分类、方法摘要、原文链接和整理脚本。详见 [整理说明](NOTICE.md)。
@@ -17,6 +19,7 @@
 - `topics/`：十八个主专题独立题单。
 - `ucup-topics.csv`、`data/problems.json`：可导入或二次筛选的数据。
 - `coverage.md`：每站覆盖率和逐题缺失原因。
+- `data/difficulty.json`：各站赛时榜单的每题通过队数。
 - `excluded-stages.md`：中国及地域未确认站点清单。
 - `sources/`：本地下载缓存，已加入 `.gitignore`，公开仓库不包含。
 
@@ -32,6 +35,7 @@ python3 -m venv .venv
 .venv/bin/python scripts/supplement.py
 .venv/bin/python scripts/atcoder_editorials.py
 .venv/bin/python scripts/extract.py
+.venv/bin/python scripts/difficulty.py   # 赛时榜单通过数，--refresh 重新抓取
 # 核对新题解，更新 data/annotations.txt 后生成
 .venv/bin/python scripts/build.py
 ```

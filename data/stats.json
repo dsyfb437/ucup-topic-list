@@ -101,5 +101,35 @@
     "重构树": 1,
     "数论筛": 1,
     "后缀自动机": 1
-  }
+  },
+  "difficulty_tiers": [
+    {
+      "name": "签到",
+      "min_rate": 0.7
+    },
+    {
+      "name": "简单",
+      "min_rate": 0.3
+    },
+    {
+      "name": "中等",
+      "min_rate": 0.1
+    },
+    {
+      "name": "困难",
+      "min_rate": 0.02
+    },
+    {
+      "name": "极难",
+      "min_rate": 0.0
+    }
+  ],
+  "difficulty_counts": {
+    "签到": 282,
+    "简单": 198,
+    "中等": 170,
+    "困难": 134,
+    "极难": 69
+  },
+  "difficulty_missing": 0
 }
